@@ -1,0 +1,9 @@
+# NAME: block
+
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,firebase-settings.crashlytics.com
+DOMAIN-SUFFIX,metrics.icloud.com
+DOMAIN-SUFFIX,fcmtoken.googleapis.com
+DOMAIN-SUFFIX,jnn-pa.googleapis.com
+DOMAIN-SUFFIX,iadsdk.apple.com
