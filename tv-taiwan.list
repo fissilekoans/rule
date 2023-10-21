@@ -1,11 +1,10 @@
 # NAME: Taiwan
 
 DOMAIN-SUFFIX,kktv.me
-# DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,edu.tw
+DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-KEYWORD,.tw
-# DOMAIN-SUFFIX,gov.tw
-# DOMAIN-SUFFIX,edu.tw
 # DOMAIN-SUFFIX,dnsleaktest.com
 # DOMAIN-SUFFIX,openai.com
-# DOMAIN-SUFFIX,org.tw
