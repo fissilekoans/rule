@@ -3,7 +3,7 @@
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
-# DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 # DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 # DOMAIN-SUFFIX,fcmtoken.googleapis.com
 # DOMAIN-SUFFIX,jnn-pa.googleapis.com
