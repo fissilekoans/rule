@@ -7,5 +7,6 @@ DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,ssl.google-analytics.com
 # DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 # DOMAIN-SUFFIX,fcmtoken.googleapis.com
