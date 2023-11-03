@@ -9,4 +9,5 @@ DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,ssl.google-analytics.com
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
+DOMAIN-SUFFIX,launches.appsflyer.com
 # DOMAIN-SUFFIX,fcmtoken.googleapis.com
