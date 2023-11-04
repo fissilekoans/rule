@@ -1,6 +1,5 @@
 # NAME: Taiwan
 
-# DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,com.tw
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,edu.tw
@@ -8,3 +7,5 @@ DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,uniqlo.com
 DOMAIN-SUFFIX,cn-geo1.uber.com
 DOMAIN-SUFFIX,irouteros.com
+DOMAIN-SUFFIX,pcloud.tw
+DOMAIN-SUFFIX,pchome.com.tw
