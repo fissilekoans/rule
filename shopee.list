@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,shopee.vn
 DOMAIN-SUFFIX,shopeemobile.com
 DOMAIN-SUFFIX,shopeesz.com
 DOMAIN-SUFFIX,shp.ee
+DOMAIN-SUFFIX,susercontent.com
 IP-CIDR,103.117.4.0/24,no-resolve
 IP-CIDR,103.117.5.0/24,no-resolve
 IP-CIDR,103.117.6.0/24,no-resolve
