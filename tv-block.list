@@ -12,4 +12,4 @@ DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,launches.appsflyer.com
 DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
 DOMAIN-SUFFIX,badges.twitch.tv
-DOMAIN-SUFFIX,mobile01.com
+# DOMAIN-SUFFIX,mobile01.com
