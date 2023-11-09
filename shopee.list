@@ -27,4 +27,4 @@ IP-CIDR,103.117.6.0/24,no-resolve
 IP-CIDR,103.117.7.0/24,no-resolve
 IP-ASN,138341
 USER-AGENT,shopee*
-
+DOMAIN-KEYWORD,extended-matching
