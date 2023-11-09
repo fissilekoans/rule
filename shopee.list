@@ -21,9 +21,6 @@ DOMAIN-SUFFIX,shopee.vn
 DOMAIN-SUFFIX,shopeemobile.com
 DOMAIN-SUFFIX,shopeesz.com
 DOMAIN-SUFFIX,shp.ee
-IP-CIDR,103.117.4.0/24,no-resolve
-IP-CIDR,103.117.5.0/24,no-resolve
-IP-CIDR,103.117.6.0/24,no-resolve
-IP-CIDR,103.117.7.0/24,no-resolve
 IP-ASN,138341
-USER-AGENT,shopee*
+IP-ASN,131623
+# USER-AGENT,shopee*
