@@ -1,4 +1,5 @@
 # NAME: shopee
+# UPDATED: 2023-11-19
 
 DOMAIN-SUFFIX,shopee.cl
 DOMAIN-SUFFIX,shopee.cn
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,shopeemobile.com
 DOMAIN-SUFFIX,shopeesz.com
 DOMAIN-SUFFIX,shp.ee
 DOMAIN-SUFFIX,susercontent.com
+DOMAIN-SUFFIX,tongdun.net
 IP-CIDR,103.117.4.0/24,no-resolve
 IP-CIDR,103.117.5.0/24,no-resolve
 IP-CIDR,103.117.6.0/24,no-resolve
