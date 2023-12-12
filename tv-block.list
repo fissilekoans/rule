@@ -12,5 +12,5 @@ DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,launches.appsflyer.com
 DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
 DOMAIN-SUFFIX,badges.twitch.tv
-DOMAIN-SUFFIX,feedbackws.icloud.com
+# DOMAIN-SUFFIX,feedbackws.icloud.com
 DOMAIN-SUFFIX,browser.events.data.msn.com
