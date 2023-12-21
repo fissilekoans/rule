@@ -10,6 +10,5 @@ DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitchsvc.net
 IP-ASN,46489,no-resolve
-IP-ASN,397153,no-resolve
-DOMAIN-KEYWORD,o278969,extended-matching
 DOMAIN-KEYWORD,twitch
+DOMAIN-KEYWORD,ttvnw
