@@ -9,4 +9,5 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,t.me
 IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,91.108.0.0/16,no-resolve
 DOMAIN-KEYWORD,telegram
