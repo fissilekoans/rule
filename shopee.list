@@ -9,11 +9,6 @@ DOMAIN-SUFFIX,shopee.com.br
 DOMAIN-SUFFIX,shopee.com.co
 DOMAIN-SUFFIX,shopee.com.mx
 DOMAIN-SUFFIX,shopee.com.my
-DOMAIN-SUFFIX,shopee.es
-DOMAIN-SUFFIX,shopee.fr
-DOMAIN-SUFFIX,shopee.id
-DOMAIN-SUFFIX,shopee.in
-DOMAIN-SUFFIX,shopee.io
 DOMAIN-SUFFIX,shopee.ph
 DOMAIN-SUFFIX,shopee.sg
 DOMAIN-SUFFIX,shopee.tw
@@ -27,3 +22,4 @@ IP-ASN,131623,no-resolve
 IP-ASN,138341,no-resolve
 IP-ASN,137831,no-resolve
 DOMAIN-KEYWORD,shopee
+USER-AGENT,shopee*
