@@ -4,8 +4,9 @@ DOMAIN-SUFFIX,controld.com
 DOMAIN-SUFFIX,controld.io
 DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,hncb.com.tw
-DOMAIN-SUFFIX,ptt.cc
+# DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,pchome.com.tw
 DOMAIN-SUFFIX,oracle.com
 # DOMAIN-SUFFIX,gov.tw
 # DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,term.ptt.cc
