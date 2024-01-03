@@ -2,7 +2,7 @@
 
 DOMAIN-SUFFIX,controld.com
 DOMAIN-SUFFIX,controld.io
-DOMAIN-SUFFIX,dcard.tw
+# DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,ws.ptt.cc
 DOMAIN-SUFFIX,pchome.com.tw
