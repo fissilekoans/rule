@@ -1,11 +1,14 @@
 # NAME: direct
 
+# Control D
 DOMAIN-SUFFIX,controld.com
 DOMAIN-SUFFIX,controld.io
 DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,ws.ptt.cc
-# DOMAIN-SUFFIX,pchome.com.tw
 DOMAIN-SUFFIX,oracle.com
+# DOMAIN-SUFFIX,pchome.com.tw
 # DOMAIN-SUFFIX,gov.tw
-# DOMAIN-SUFFIX,cloudflare.com
+# 全家
+DOMAIN-SUFFIX,pluspay.com.tw
+DOMAIN-SUFFIX,family.com.tw
