@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,ws.ptt.cc
 DOMAIN-SUFFIX,oracle.com
-# DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pchome.com.tw
 # DOMAIN-SUFFIX,gov.tw
 # 全家
 DOMAIN-SUFFIX,pluspay.com.tw
