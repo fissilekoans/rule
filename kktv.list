@@ -4,4 +4,7 @@ DOMAIN,theater-kktv.cdn.hinet.net
 DOMAIN,drm.platform.blendvision.com
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,kk.stream
 DOMAIN-KEYWORD,kktv
+USER-AGENT,com.kktv.ios.kktv*
+USER-AGENT,KKTV*
