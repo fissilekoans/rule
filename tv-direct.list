@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,ws.ptt.cc
 DOMAIN-SUFFIX,term.ptt.cc
 DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,mullvad.net
+# DOMAIN-SUFFIX,mullvad.net
 # DOMAIN-SUFFIX,gov.tw
 # 全家
 DOMAIN-SUFFIX,pluspay.com.tw
