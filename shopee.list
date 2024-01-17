@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,shp.ee
 DOMAIN-SUFFIX,susercontent.com
 DOMAIN-SUFFIX,tongdun.net
 DOMAIN-SUFFIX,ingest.sentry.io
+DEST-PORT,19302
 IP-ASN,131623,no-resolve
 IP-ASN,138341,no-resolve
 IP-ASN,137831,no-resolve
