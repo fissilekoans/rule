@@ -1,6 +1,5 @@
 # NAME: direct
 
-# Control D
 DOMAIN-SUFFIX,controld.com
 DOMAIN-SUFFIX,controld.io
 DOMAIN-SUFFIX,dcard.tw
@@ -9,6 +8,7 @@ DOMAIN-SUFFIX,ws.ptt.cc
 DOMAIN-SUFFIX,term.ptt.cc
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,kktv.me
 # 全家
 DOMAIN-SUFFIX,pluspay.com.tw
 DOMAIN-SUFFIX,family.com.tw
