@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,ssl.google-analytics.com
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,launches.appsflyer.com
-DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
+# DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
 DOMAIN-SUFFIX,badges.twitch.tv
 DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,firebaselogging.googleapis.com
