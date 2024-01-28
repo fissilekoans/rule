@@ -1,10 +1,10 @@
 # NAME: block
 
-# DOMAIN-SUFFIX,app-measurement.com
-# DOMAIN-SUFFIX,metrics.icloud.com
-# DOMAIN-SUFFIX,googleads.g.doubleclick.net
-# DOMAIN-SUFFIX,iadsdk.apple.com
-# DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,metrics.icloud.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,jnn-pa.googleapis.com
