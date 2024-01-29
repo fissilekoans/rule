@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitchsvc.net
+DOMAIN-SUFFIX,amazontrust.com
 IP-ASN,46489,no-resolve
 DOMAIN-KEYWORD,twitch
 DOMAIN-KEYWORD,ttvnw
