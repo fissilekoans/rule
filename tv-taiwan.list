@@ -1,7 +1,7 @@
 # NAME: Taiwan
 
-DOMAIN-SUFFIX,com.tw
-DOMAIN-SUFFIX,net.tw
+# DOMAIN-SUFFIX,com.tw
+# DOMAIN-SUFFIX,net.tw
 DOMAIN-SUFFIX,edu.tw
 DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,gov.tw
