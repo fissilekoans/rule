@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,dmd.metaservices.microsoft.com
 DOMAIN-SUFFIX,srtb.msn.com
 DOMAIN-SUFFIX,cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,error.fc2.com
+DOMAIN-SUFFIX,popin.cc
+DOMAIN-SUFFIX,
 
 # test
 URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
