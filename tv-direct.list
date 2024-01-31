@@ -15,5 +15,5 @@ DOMAIN-SUFFIX,pluspay.com.tw
 DOMAIN-SUFFIX,family.com.tw
 DOMAIN-SUFFIX,fami.lift
 # 氣象署
-DOMAIN-SUFFIX,www.cwa.gov.tw
-DOMAIN-SUFFIX,www.cwb.gov.tw
+# DOMAIN-SUFFIX,www.cwa.gov.tw
+# DOMAIN-SUFFIX,www.cwb.gov.tw
