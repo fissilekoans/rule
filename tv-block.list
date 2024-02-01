@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,srtb.msn.com
 DOMAIN-SUFFIX,cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,error.fc2.com
 DOMAIN-SUFFIX,popin.cc
-DOMAIN-KEYWORD,tracking
 
 # shopee
 IP-CIDR,143.92.82.199/24
