@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,error.fc2.com
 DOMAIN-SUFFIX,popin.cc
 
 # shopee
-IP-CIDR,143.92.82.199/24
+# IP-CIDR,143.92.82.199/24
 DOMAIN-KEYWORD,tracking
 
 # 7mmtv,njav
