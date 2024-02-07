@@ -8,5 +8,5 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 
 # 氣象署
-# DOMAIN,www.cwa.gov.tw
-# DOMAIN,www.cwb.gov.tw
+DOMAIN,www.cwa.gov.tw
+DOMAIN,www.cwb.gov.tw
