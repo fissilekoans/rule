@@ -6,7 +6,3 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
-
-# 氣象署
-DOMAIN,www.cwa.gov.tw
-DOMAIN,www.cwb.gov.tw
