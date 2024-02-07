@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,you.com
 # DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,reddit.com
+# 氣象署
+DOMAIN,www.cwa.gov.tw
+DOMAIN,www.cwb.gov.tw
