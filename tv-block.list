@@ -30,4 +30,4 @@ URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/css\/owl\.carousel\.min\.css$
 URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/fresco\.min\.js$
 URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/css\/fresco\.css$
 URL-REGEX,^https?:\/\/njav\.tv\/zh\/ajax\/user\/info$
-URL-REGEX,^https?:\/\/njav\.tv\/assets\/njav\/dist\/app\/app\.js$
+URL-REGEX,^https?:\/\/njav\.tv\/assets\/njav\/dist\/app\.js\?v=\d+
