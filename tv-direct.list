@@ -1,6 +1,6 @@
 # NAME: direct
 
-DOMAIN-SUFFIX,controld.com
+# DOMAIN-SUFFIX,controld.com
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,ws.ptt.cc
 DOMAIN-SUFFIX,term.ptt.cc
