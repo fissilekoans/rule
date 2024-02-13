@@ -1,13 +1,11 @@
 # NAME: direct
 
-# DOMAIN-SUFFIX,controld.com
-# DOMAIN-SUFFIX,controld.io
-DOMAIN-SUFFIX,dcard.tw
+DOMAIN-SUFFIX,controld.com
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,ws.ptt.cc
 DOMAIN-SUFFIX,term.ptt.cc
-DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,oraclecloud.com
+# DOMAIN-SUFFIX,oracle.com
+# DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,kktv.me
 
 # 全家
