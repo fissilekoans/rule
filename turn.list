@@ -1,8 +1,8 @@
 # NAME: turn only-to-jp-quic-ok
 
-DOMAIN-SUFFIX,nintendo.com
-DOMAIN-SUFFIX,nintendo.net
+# DOMAIN-SUFFIX,nintendo.com
+# DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,music.apple.com
-DOMAIN-SUFFIX,googlevideo.com
+# DOMAIN-SUFFIX,googlevideo.com
 # DOMAIN-SUFFIX,youtube.com
