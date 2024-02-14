@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,term.ptt.cc
 # DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,kktv.me
 IP-CIDR,13.225.103.34/32
+IP-CIDR,104.16.105.87/32
 
 # 全家
 DOMAIN-SUFFIX,pluspay.com.tw
