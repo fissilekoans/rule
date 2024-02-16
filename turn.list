@@ -5,5 +5,6 @@
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,music.apple.com
 # DOMAIN-SUFFIX,googlevideo.com
-IP-CIDR,172.217.135.1/24
+IP-CIDR,172.217.1.1/16
+IP-CIDR,74.125.1.1/16
 # DOMAIN-SUFFIX,youtube.com
