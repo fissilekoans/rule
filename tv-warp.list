@@ -1,3 +1,9 @@
 # NAME: warp+
 
-DOMAIN-SUFFIX,dcard.tw
+DOMAIN-SUFFIX,you.com
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,reddit.com
+
+
+
+# DOMAIN-SUFFIX,generativelanguage.googleapis.com
