@@ -1,12 +1,15 @@
 # NAME: Taiwan
 
-# DOMAIN-SUFFIX,com.tw
-# DOMAIN-SUFFIX,net.tw
 DOMAIN-SUFFIX,edu.tw
 DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,gov.tw
-# DOMAIN-SUFFIX,uniqlo.com
-DOMAIN-SUFFIX,cn-geo1.uber.com
-# DOMAIN-SUFFIX,irouteros.com
 DOMAIN-SUFFIX,taiwanmobile.net
 DOMAIN-SUFFIX,taiwanmobile.com
+
+# phone 專用
+DOMAIN-SUFFIX,cn-geo1.uber.com
+
+
+# DOMAIN-SUFFIX,com.tw
+# DOMAIN-SUFFIX,net.tw
+# DOMAIN-SUFFIX,uniqlo.com
