@@ -23,8 +23,8 @@ DOMAIN-SUFFIX,popin.cc
 IP-CIDR,143.92.82.119/32
 IP-CIDR,23.46.16.134/32
 # 上面是測試看看
-# DOMAIN-KEYWORD,tracking
-# DOMAIN-KEYWORD,track
+DOMAIN-KEYWORD,tracking
+DOMAIN-KEYWORD,track
 # 上面的如果誤殺太嚴重再取消
 
 # 7mmtv,njav
