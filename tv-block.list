@@ -25,7 +25,7 @@ IP-CIDR,23.46.16.134/32
 # 上面是測試看看
 # DOMAIN-KEYWORD,tracking
 # DOMAIN-KEYWORD,track
-# 上面的如果誤殺太嚴重可以變成 track_config
+# 上面的如果誤殺太嚴重再取消
 
 # 7mmtv,njav
 URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
