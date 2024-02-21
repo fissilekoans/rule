@@ -3,7 +3,5 @@
 DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,reddit.com
+DOMAIN,generativelanguage.googleapis.com
 
-
-
-# DOMAIN-SUFFIX,generativelanguage.googleapis.com
