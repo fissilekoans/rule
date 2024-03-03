@@ -19,10 +19,11 @@ DOMAIN-SUFFIX,srtb.msn.com
 DOMAIN-SUFFIX,cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
 DOMAIN-SUFFIX,beacon.shazam.com
+DOMAIN-SUFFIX,content.garena.com
+DOMAIN-SUFFIX,graph.facebook.com
 
 # shopee
 DOMAIN,idfp.tongdun.net
-DOMAIN,graph.facebook.com
 IP-CIDR,143.92.82.119/32
 IP-CIDR,23.46.16.134/32
 # 上面是測試看看
