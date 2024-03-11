@@ -1,7 +1,7 @@
 # NAME: direct
 
 DOMAIN-SUFFIX,apple.com
-# DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 # PROCESS-NAME trustd
 # PROCESS-NAME netbiosd
