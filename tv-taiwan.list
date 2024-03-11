@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,taiwanmobile.com
 DOMAIN-SUFFIX,cn-geo1.uber.com
 
 # Podcast
-DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
+# DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
 
 # 無框
 DOMAIN-SUFFIX,circles.life
