@@ -2,7 +2,7 @@
 
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,metrics.icloud.com
-DOMAIN-SUFFIX,mask.icloud.com
+# DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,google-analytics.com
