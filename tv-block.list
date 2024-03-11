@@ -3,7 +3,7 @@
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,metrics.icloud.com
 # 下面這條有看到要在測試看看
-DOMAIN-SUFFIX,mask.icloud.com
+# DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,google-analytics.com
