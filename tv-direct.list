@@ -3,8 +3,8 @@
 DOMAIN-SUFFIX,apple.com
 # DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
-PROCESS-NAME trustd
-PROCESS-NAME netbiosd
+# PROCESS-NAME trustd
+# PROCESS-NAME netbiosd
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,ws.ptt.cc
 DOMAIN-SUFFIX,term.ptt.cc
