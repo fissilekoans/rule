@@ -1,9 +1,9 @@
 # NAME: direct
 
 DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,push-apple.com.akadns.net
-IP-ASN,714
+# DOMAIN-SUFFIX,icloud.com
+# DOMAIN-SUFFIX,push-apple.com.akadns.net
+# IP-ASN,714
 # PROCESS-NAME trustd
 # PROCESS-NAME netbiosd
 DOMAIN-SUFFIX,hncb.com.tw
