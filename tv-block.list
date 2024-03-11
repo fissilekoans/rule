@@ -21,6 +21,9 @@ DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
 DOMAIN-SUFFIX,beacon.shazam.com
 DOMAIN-SUFFIX,content.garena.com
 DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,wzrkt.com
+DOMAIN-SUFFIX,mobile-collector.newrelic.com
+DOMAIN-SUFFIX,branch.io
 
 # shopee
 DOMAIN,idfp.tongdun.net
