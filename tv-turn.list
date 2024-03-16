@@ -2,6 +2,9 @@
 
 # DOMAIN-SUFFIX,nintendo.com
 # DOMAIN-SUFFIX,nintendo.net
-# DOMAIN-SUFFIX,itunes.apple.com
-# DOMAIN-SUFFIX,music.apple.com
-# DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ggpht.com
