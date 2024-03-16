@@ -17,6 +17,6 @@ DOMAIN-SUFFIX,cn-geo1.uber.com
 DOMAIN-SUFFIX,circles.life
 DOMAIN-SUFFIX,circles.asia
 
-# DOMAIN-SUFFIX,com.tw
-# DOMAIN-SUFFIX,net.tw
-# DOMAIN-SUFFIX,uniqlo.com
+# 巴哈
+DOMAIN-SUFFIX,bahamut.com.tw
+# DOMAIN-SUFFIX,gamer.com.tw
