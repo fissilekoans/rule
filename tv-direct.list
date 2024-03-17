@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,ws.ptt.cc
 DOMAIN-SUFFIX,term.ptt.cc
 DOMAIN-SUFFIX,kktv.me
 # 下面網址忘記幹嘛的了 先關掉 有問題再說
-IP-CIDR,13.225.103.1/24
+# IP-CIDR,13.225.103.1/24
 # oracle用
 IP-CIDR,150.230.59.212/32
 
