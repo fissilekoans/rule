@@ -11,11 +11,11 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ggpht.com
 
 # twitch
-# DOMAIN-SUFFIX,twitch.tv
-# DOMAIN-SUFFIX,ttvnw.net
-# DOMAIN-SUFFIX,twitchcdn.net
-# DOMAIN-SUFFIX,jtvnw.net
-# DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,media-amazon.com
 
 # 
 # DOMAIN-SUFFIX,qy0.ru
