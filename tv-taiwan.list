@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,taiwanmobile.net
 DOMAIN-SUFFIX,taiwanmobile.com
-DOMAIN-SUFFIX,imgur.com
+# DOMAIN-SUFFIX,imgur.com
 
 # phone 專用
 DOMAIN-SUFFIX,cn-geo1.uber.com
