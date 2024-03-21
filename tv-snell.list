@@ -1,8 +1,4 @@
-# NAME: quic
-
-# apple music
-# DOMAIN-SUFFIX,itunes.apple.com
-# DOMAIN-SUFFIX,music.apple.com
+# NAME: snell
 
 # youtube
 DOMAIN-SUFFIX,googlevideo.com
