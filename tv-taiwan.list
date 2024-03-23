@@ -6,18 +6,17 @@ DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,taiwanmobile.net
 DOMAIN-SUFFIX,taiwanmobile.com
 DOMAIN-SUFFIX,kktv.me
-# DOMAIN-SUFFIX,imgur.com
 
 # phone 專用
-DOMAIN-SUFFIX,cn-geo1.uber.com
+# DOMAIN-SUFFIX,cn-geo1.uber.com
 
 # Podcast
 # DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
 
 # 無框
-DOMAIN-SUFFIX,circles.life
-DOMAIN-SUFFIX,circles.asia
+# DOMAIN-SUFFIX,circles.life
+# DOMAIN-SUFFIX,circles.asia
 
 # 巴哈
-# DOMAIN-SUFFIX,bahamut.com.tw
-# DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
