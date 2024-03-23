@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,stytch.com
 
 # 空格
-DOMAIN-SUFFIX,cloudflare.com
+# DOMAIN-SUFFIX,cloudflare.com
 
 DOMAIN,generativelanguage.googleapis.com
 
