@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,stytch.com
 
 # 空格
-# DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,cloudflare.com
+
 DOMAIN,generativelanguage.googleapis.com
 
