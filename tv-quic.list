@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,invidious.io
 DOMAIN-SUFFIX,github.com
 DOMAIN,write.as
 DOMAIN,sponsor.ajay.app
+DOMAIN-SUFFIX,googleapis.com
 
 # twitch
 # DOMAIN-SUFFIX,twitch.tv
