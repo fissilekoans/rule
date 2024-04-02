@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,invidious.io
 DOMAIN-SUFFIX,github.com
+DOMAIN,github.com
 DOMAIN,write.as
 DOMAIN,sponsor.ajay.app
 DOMAIN-SUFFIX,googleapis.com
