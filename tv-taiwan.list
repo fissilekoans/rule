@@ -6,7 +6,8 @@ DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,taiwanmobile.net
 DOMAIN-SUFFIX,taiwanmobile.com
 DOMAIN-SUFFIX,kktv.me
-DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,kktv.com.tw
 
 # phone 專用
 # DOMAIN-SUFFIX,cn-geo1.uber.com
