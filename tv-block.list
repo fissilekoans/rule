@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
 DOMAIN-SUFFIX,badges.twitch.tv
 DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,firebaselogging.googleapis.com
-# DOMAIN-SUFFIX,settings-win.data.microsoft.com
+DOMAIN-SUFFIX,settings-win.data.microsoft.com
 DOMAIN-SUFFIX,srtb.msn.com
 DOMAIN-SUFFIX,cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
