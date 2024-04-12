@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,wzrkt.com
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,static.doubleclick.net
 
 # shopee
 DOMAIN,idfp.tongdun.net
