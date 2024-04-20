@@ -1,5 +1,10 @@
 # NAME:phone-cellular 手機網路用
 
+# all 郵局用gov 中央氣象局用gov
+DOMAIN-SUFFIX,edu.tw
+DOMAIN-SUFFIX,org.tw
+DOMAIN-SUFFIX,gov.tw
+
 # 全家
 DOMAIN-SUFFIX,family.com.tw
 DOMAIN-SUFFIX,pluspay.com.tw
@@ -7,17 +12,21 @@ DOMAIN-SUFFIX,pluspay.com.tw
 # 7-11
 DOMAIN-SUFFIX,7-11.com.tw
 DOMAIN-SUFFIX,openpoint.com.tw
-DOMAIN-SUFFIX,iopenmall
+DOMAIN-SUFFIX,iopenmall.tw
+DOMAIN-SUFFIX,91app.com
+DOMAIN-SUFFIX,book.com.tw
 
 # 全聯
 DOMAIN-SUFFIX,pxpay.com.tw
 DOMAIN-SUFFIX,pxmart.com.tw
 DOMAIN-SUFFIX,pxec.com.tw
 DOMAIN-SUFFIX,pxgo.com.tw
+DOMAIN-SUFFIX,aiqua.io
 
-# 忘了
+# 家速配
 DOMAIN-SUFFIX,carrefour.com.tw
 DOMAIN-SUFFIX,nip.io
+DOMAIN-SUFFIX,tappaysdk.com
 
 # 垃圾悠遊卡公司
 DOMAIN-SUFFIX,easycard.com.tw
@@ -36,9 +45,13 @@ DOMAIN-SUFFIX,panasonic.com.tw
 
 # 華南銀行
 DOMAIN-SUFFIX,hncb.com.tw
+DOMAIN-SUFFIX,twca.com.tw
+
+# 郵局
+# DOMAIN-SUFFIX,post.gov.tw
 
 # ptt
 DOMAIN-SUFFIX,ptt.cc
 
 # 中央氣象局
-DOMAIN-SUFFIX,cwa.gov.tw
+# DOMAIN-SUFFIX,cwa.gov.tw
