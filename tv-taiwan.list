@@ -8,17 +8,6 @@ DOMAIN-SUFFIX,taiwanmobile.com
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,cdn.hinet.net
 
-# phone 專用 
-DOMAIN-SUFFIX,hncb.com.tw
-DOMAIN-SUFFIX,ptt.cc
-
-# Podcast
-# DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
-
-# 無框
-# DOMAIN-SUFFIX,circles.life
-# DOMAIN-SUFFIX,circles.asia
-
 # 巴哈
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
