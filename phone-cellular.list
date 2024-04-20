@@ -37,8 +37,8 @@ DOMAIN-SUFFIX,certona.net
 
 # pchome
 DOMAIN-SUFFIX,pchome.com.tw
-DOMAIN-SUFFIX,pcloud.tw:443
-DOMAIN-SUFFIX,ecimg.tw:443
+DOMAIN-SUFFIX,pcloud.tw
+DOMAIN-SUFFIX,ecimg.tw
 
 # 冷氣
 DOMAIN-SUFFIX,panasonic.com.tw
