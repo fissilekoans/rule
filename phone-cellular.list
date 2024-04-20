@@ -39,6 +39,9 @@ DOMAIN-SUFFIX,certona.net
 DOMAIN-SUFFIX,pchome.com.tw
 DOMAIN-SUFFIX,pcloud.tw
 DOMAIN-SUFFIX,ecimg.tw
+DOMAIN-SUFFIX,pchome.app
+DOMAIN-SUFFIX,fevercdn.com
+DOMAIN-SUFFIX,feversocial.com
 
 # 冷氣
 DOMAIN-SUFFIX,panasonic.com.tw
