@@ -33,3 +33,12 @@ DOMAIN-SUFFIX,ecimg.tw:443
 
 # 冷氣
 DOMAIN-SUFFIX,panasonic.com.tw
+
+# 華南銀行
+DOMAIN-SUFFIX,hncb.com.tw
+
+# ptt
+DOMAIN-SUFFIX,ptt.cc
+
+# 中央氣象局
+DOMAIN-SUFFIX,cwa.gov.tw
