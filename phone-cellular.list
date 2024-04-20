@@ -50,12 +50,14 @@ DOMAIN-SUFFIX,panasonic.com.tw
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,twca.com.tw
 
-# 郵局
-# DOMAIN-SUFFIX,post.gov.tw
-
 # ptt
 DOMAIN-SUFFIX,ptt.cc
 
 # 台灣大哥大
 DOMAIN-SUFFIX,taiwanmobile.net
 DOMAIN-SUFFIX,taiwanmobile.com
+
+# 中華電信
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,emome.net
