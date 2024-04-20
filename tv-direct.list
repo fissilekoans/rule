@@ -12,8 +12,3 @@ DOMAIN-SUFFIX,ptt.cc
 # oracle用
 IP-CIDR,150.230.59.212/32
 IP-CIDR,64.110.103.244/32
-
-# 全家
-# DOMAIN-SUFFIX,pluspay.com.tw
-# DOMAIN-SUFFIX,family.com.tw
-# DOMAIN-SUFFIX,fami.lift
