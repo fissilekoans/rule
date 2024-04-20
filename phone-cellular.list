@@ -1,0 +1,35 @@
+# NAME:phone-cellular 手機網路用
+
+# 全家
+DOMAIN-SUFFIX,family.com.tw
+DOMAIN-SUFFIX,pluspay.com.tw
+
+# 7-11
+DOMAIN-SUFFIX,7-11.com.tw
+DOMAIN-SUFFIX,openpoint.com.tw
+DOMAIN-SUFFIX,iopenmall
+
+# 全聯
+DOMAIN-SUFFIX,pxpay.com.tw
+DOMAIN-SUFFIX,pxmart.com.tw
+DOMAIN-SUFFIX,pxec.com.tw
+DOMAIN-SUFFIX,pxgo.com.tw
+
+# 忘了
+DOMAIN-SUFFIX,carrefour.com.tw
+DOMAIN-SUFFIX,nip.io
+
+# 垃圾悠遊卡公司
+DOMAIN-SUFFIX,easycard.com.tw
+
+# uniqlo
+DOMAIN-SUFFIX,uniqlo.com
+DOMAIN-SUFFIX,certona.net
+
+# pchome
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pcloud.tw:443
+DOMAIN-SUFFIX,ecimg.tw:443
+
+# 冷氣
+DOMAIN-SUFFIX,panasonic.com.tw
