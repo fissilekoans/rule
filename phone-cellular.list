@@ -53,5 +53,6 @@ DOMAIN-SUFFIX,twca.com.tw
 # ptt
 DOMAIN-SUFFIX,ptt.cc
 
-# 中央氣象局
-# DOMAIN-SUFFIX,cwa.gov.tw
+# 台灣大哥大
+DOMAIN-SUFFIX,taiwanmobile.net
+DOMAIN-SUFFIX,taiwanmobile.com
