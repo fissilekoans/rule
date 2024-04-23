@@ -58,7 +58,7 @@ DOMAIN-SUFFIX,taiwanmobile.net
 DOMAIN-SUFFIX,taiwanmobile.com
 
 # 中華電信 很像一定要直連
-# DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,emome.net
 
