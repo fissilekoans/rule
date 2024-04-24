@@ -64,3 +64,6 @@ DOMAIN-SUFFIX,emome.net
 
 # uber 
 DOMAIN-SUFFIX,uber.com
+
+# 我就爛
+IP-ASN,38631
