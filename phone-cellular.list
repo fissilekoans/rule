@@ -66,4 +66,7 @@ DOMAIN-SUFFIX,emome.net
 DOMAIN-SUFFIX,uber.com
 
 # 我就爛
-IP-ASN,38631
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
