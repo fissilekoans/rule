@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
 # DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,crashlytics.com
-# DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
 # DOMAIN-SUFFIX,badges.twitch.tv
 DOMAIN-SUFFIX,data.msn.com
@@ -35,6 +34,50 @@ IP-CIDR,23.46.16.134/32
 # 上面是測試看看
 DOMAIN-KEYWORD,tracking
 DOMAIN-KEYWORD,.ads.
+DOMAIN-KEYWORD,admarvel
+DOMAIN-KEYWORD,admaster
+DOMAIN-KEYWORD,admdfs
+DOMAIN-KEYWORD,adnewnc
+DOMAIN-KEYWORD,adsage
+DOMAIN-KEYWORD,adsame
+DOMAIN-KEYWORD,adsensor
+DOMAIN-KEYWORD,adserver
+DOMAIN-KEYWORD,adservice
+DOMAIN-KEYWORD,adsmogo
+DOMAIN-KEYWORD,adsrvmedia
+DOMAIN-KEYWORD,adsserving
+DOMAIN-KEYWORD,adsystem
+DOMAIN-KEYWORD,advert
+DOMAIN-KEYWORD,adwords
+DOMAIN-KEYWORD,allyes
+DOMAIN-KEYWORD,analysis
+DOMAIN-KEYWORD,analysys
+DOMAIN-KEYWORD,analytics
+DOMAIN-KEYWORD,applovin
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-KEYWORD,dnserror
+DOMAIN-KEYWORD,domob
+DOMAIN-KEYWORD,doubleclick
+DOMAIN-KEYWORD,duomeng
+DOMAIN-KEYWORD,dwtrack
+DOMAIN-KEYWORD,fenxi
+DOMAIN-KEYWORD,guanggao
+DOMAIN-KEYWORD,inmobi
+DOMAIN-KEYWORD,lianmeng
+DOMAIN-KEYWORD,meetrics
+DOMAIN-KEYWORD,mobaders
+DOMAIN-KEYWORD,omgmta
+DOMAIN-KEYWORD,openx
+DOMAIN-KEYWORD,partnerad
+DOMAIN-KEYWORD,securepubads
+DOMAIN-KEYWORD,socdm
+DOMAIN-KEYWORD,supersonicads
+DOMAIN-KEYWORD,taboola
+DOMAIN-KEYWORD,uedas
+DOMAIN-KEYWORD,umtrack
+DOMAIN-KEYWORD,uploadMobileData
+DOMAIN-KEYWORD,wlmonitor
+DOMAIN-KEYWORD,zjtoolbar
 
 # 7mmtv,njav
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
@@ -43,3 +86,6 @@ DOMAIN-KEYWORD,.ads.
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/css\/fresco\.css$
 # URL-REGEX,^https?:\/\/njav\.tv\/zh\/ajax\/user\/info$
 # URL-REGEX,^https?:\/\/njav\.tv\/assets\/njav\/dist\/app\.js\?v=\d+
+
+#! pixnet
+URL-REGEX,^https:\/\/front\.pixfs\.net\/module\/idlePop\/js\/
