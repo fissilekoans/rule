@@ -1,5 +1,25 @@
 # Title: HaGeZi's Badware Hoster DNS Blocklist
+# Description: Blocks known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 7 days
+# Last modified: 30 Apr 2024 09:12 UTC
+# Version: 2024.0430.0912.15
+# Syntax: Domains Wildcard (without subdomains)
+# Number of entries: 1829
+#
 # Title: HaGeZi's DynDNS Blocklist
+# Description: Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 7 days
+# Last modified: 28 Apr 2024 23:18 UTC
+# Version: 2024.0428.2318.23
+# Syntax: Domains Wildcard (without subdomains)
+# Number of entries: 1450
+#
 .000a.de
 .000space.com
 .000webhost.com
@@ -883,6 +903,7 @@
 .freewebhosting4u.com
 .freewebhostingarea.com
 .freewebhostingpro.com
+.freewebhostmost.com
 .freewebhostx.com
 .freewebpages.org
 .freewebs.com
@@ -1861,7 +1882,6 @@
 .4nmn.com
 .4pu.com
 .4twenty.us
-.6600.org
 .688.org
 .69.mu
 .7766.org
@@ -3080,7 +3100,6 @@
 .slyip.com
 .slyip.net
 .smelly.cc
-.sne.jp
 .socialadhesion.com
 .softether.net
 .solfa.org
