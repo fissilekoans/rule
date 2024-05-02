@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,wzrkt.com
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,branch.io
-# DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN,down-ws-sg.com
 
 # shopee
 DOMAIN,idfp.tongdun.net
