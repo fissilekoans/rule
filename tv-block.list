@@ -1,38 +1,23 @@
 # NAME: block
 
 DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,bat.bing.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,iadsdk.apple.com
-DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
-DOMAIN-SUFFIX,data.msn.com
 DOMAIN-SUFFIX,firebaselogging.googleapis.com
-DOMAIN-SUFFIX,srtb.msn.com
-DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,telemetry.mozilla.org
-DOMAIN-SUFFIX,beacon.shazam.com
-DOMAIN-SUFFIX,content.garena.com
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,connect.facebook.net
-DOMAIN-SUFFIX,wzrkt.com
-DOMAIN-SUFFIX,newrelic.com
-DOMAIN-SUFFIX,branch.io
-DOMAIN,down-ws-sg.com
 DOMAIN,mobile.events.data.microsoft.com
-DOMAIN,browser.pipe.aria.microsoft.com
 
 # shopee
+DOMAIN,down-ws-sg.com
+DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
+DOMAIN-SUFFIX,content.garena.com
 DOMAIN,idfp.tongdun.net
 IP-CIDR,143.92.82.119/32
 IP-CIDR,23.46.16.134/32
 # 上面是測試看看
 DOMAIN-KEYWORD,tracking
-DOMAIN-KEYWORD,.ads.
+# DOMAIN-KEYWORD,.ads.
 
 # 7mmtv,njav
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
