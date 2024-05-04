@@ -1,12 +1,15 @@
 # NAME: block
 
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,bat.bing.com
-DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
-DOMAIN-SUFFIX,firebaselogging.googleapis.com
-DOMAIN-SUFFIX,graph.facebook.com
-DOMAIN-SUFFIX,connect.facebook.net
+
+# DOMAIN
 DOMAIN,mobile.events.data.microsoft.com
+
+# DOMAIN-SUFFIX
+DOMAIN-SUFFIX,app-measurement.com
+
+# DOMAIN-KEYWORD
+DOMAIN-KEYWORD,tracking
+# DOMAIN-KEYWORD,.ads.
 
 # shopee
 DOMAIN,down-ws-sg.com
@@ -15,9 +18,6 @@ DOMAIN-SUFFIX,content.garena.com
 DOMAIN,idfp.tongdun.net
 IP-CIDR,143.92.82.119/32
 IP-CIDR,23.46.16.134/32
-# 上面是測試看看
-DOMAIN-KEYWORD,tracking
-# DOMAIN-KEYWORD,.ads.
 
 # 7mmtv,njav
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
@@ -27,5 +27,5 @@ DOMAIN-KEYWORD,tracking
 # URL-REGEX,^https?:\/\/njav\.tv\/zh\/ajax\/user\/info$
 # URL-REGEX,^https?:\/\/njav\.tv\/assets\/njav\/dist\/app\.js\?v=\d+
 
-#! pixnet
+# pixnet
 URL-REGEX,^https:\/\/front\.pixfs\.net\/module\/idlePop\/js\/
