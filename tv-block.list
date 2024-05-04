@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN,down-ws-sg.com
 DOMAIN,mobile.events.data.microsoft.com
+DOMAIN,browser.pipe.aria.microsoft.com
 
 # shopee
 DOMAIN,idfp.tongdun.net
