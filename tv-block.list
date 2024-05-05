@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,app-measurement.com
 
 # DOMAIN-KEYWORD
 DOMAIN-KEYWORD,tracking
-# DOMAIN-KEYWORD,.ads.
+DOMAIN-KEYWORD,track
 
 # shopee
 # DOMAIN,down-ws-sg.com
