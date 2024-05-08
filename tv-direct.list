@@ -3,7 +3,7 @@
 # DOMAIN-SUFFIX,apple.com
 # DOMAIN-SUFFIX,icloud.com
 # DOMAIN-SUFFIX,controld.com
-DOMAIN-SUFFIX,cwa.gov.tw
+# DOMAIN-SUFFIX,cwa.gov.tw
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,ptt.cc
 # DOMAIN-SUFFIX,kktv.me
