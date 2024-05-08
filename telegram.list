@@ -5,17 +5,17 @@ IP-ASN,62014,no-resolve
 IP-ASN,59930,no-resolve
 IP-ASN,211157,no-resolve
 IP-ASN,44907,no-resolve
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tx.me
-DOMAIN-SUFFIX,tg.dev
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telega.one
-DOMAIN-SUFFIX,graph.org
-DOMAIN-SUFFIX,legra.ph
-DOMAIN-SUFFIX,telesco.pe
+# DOMAIN-SUFFIX,t.me
+# DOMAIN-SUFFIX,tx.me
+# DOMAIN-SUFFIX,tg.dev
+# DOMAIN-SUFFIX,tdesktop.com
+# DOMAIN-SUFFIX,telegra.ph
+# DOMAIN-SUFFIX,telega.one
+# DOMAIN-SUFFIX,graph.org
+# DOMAIN-SUFFIX,legra.ph
+# DOMAIN-SUFFIX,telesco.pe
 IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,91.108.0.0/16,no-resolve
-DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,nicegram
+# DOMAIN-KEYWORD,telegram
+# DOMAIN-KEYWORD,nicegram
