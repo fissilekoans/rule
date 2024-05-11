@@ -1,15 +1,20 @@
 # NAME: Twitch
 
-DOMAIN-SUFFIX,ext-twitch.tv
+# DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,live-video.net
+# DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitch-ext.rootonline.de
+# DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,twitchsvc.net
-DOMAIN-SUFFIX,amazontrust.com
-IP-ASN,46489,no-resolve
-DOMAIN-KEYWORD,twitch
-DOMAIN-KEYWORD,ttvnw
-DOMAIN-KEYWORD,o278969
+# DOMAIN-SUFFIX,twitchsvc.net
+# DOMAIN-SUFFIX,amazontrust.com
+# IP-ASN,46489,no-resolve
+# DOMAIN-KEYWORD,twitch
+# DOMAIN-KEYWORD,ttvnw
+# DOMAIN-KEYWORD,o278969
+
+        {        '*.twitch.tv' = ['upstream.1']},
+        {        '*.ttvnw.net' = ['upstream.1']},
+        {        '*.twitchcdn.net' = ['upstream.1']},
+        {        '*.jtvnw.net' = ['upstream.1']},
