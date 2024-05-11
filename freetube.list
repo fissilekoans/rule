@@ -1,0 +1,12 @@
+# neme : freetube
+
+# apple music
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,invidious.io
+DOMAIN-SUFFIX,puffyan.us
+DOMAIN,sponsor.ajay.app
+DOMAIN,write.as
