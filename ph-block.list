@@ -1,7 +1,14 @@
 # neme : block
 
-# apple music
+# block
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-WILDCARD,mask*.icloud.com
 DOMAIN,doh.dns.apple.com
+DOMAIN,doh.dns.apple.com.v.aaplimg.com
+
+
+# 78一直重試的
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN-KEYWORD,crashlytics
