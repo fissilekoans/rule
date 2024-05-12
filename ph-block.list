@@ -3,3 +3,5 @@
 # apple music
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
+DOMAIN-WILDCARD,mask*.icloud.com
+DOMAIN,doh.dns.apple.com
