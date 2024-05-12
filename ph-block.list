@@ -12,3 +12,4 @@ DOMAIN,doh.dns.apple.com.v.aaplimg.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN-KEYWORD,crashlytics
+DOMAIN-KEYWORD,adservice
