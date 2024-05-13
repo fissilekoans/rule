@@ -12,5 +12,5 @@ DOMAIN-SUFFIX,taiwanmobile.com
 # DOMAIN-SUFFIX,blendvision.com
 
 # 巴哈
-DOMAIN-SUFFIX,bahamut.com.tw
-DOMAIN-SUFFIX,gamer.com.tw
+# DOMAIN-SUFFIX,bahamut.com.tw
+# DOMAIN-SUFFIX,gamer.com.tw
