@@ -26,6 +26,3 @@ IP-CIDR,23.46.16.134/32
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/css\/fresco\.css$
 # URL-REGEX,^https?:\/\/njav\.tv\/zh\/ajax\/user\/info$
 # URL-REGEX,^https?:\/\/njav\.tv\/assets\/njav\/dist\/app\.js\?v=\d+
-
-# pixnet
-URL-REGEX,^https:\/\/front\.pixfs\.net\/module\/idlePop\/js\/
