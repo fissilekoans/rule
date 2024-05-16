@@ -10,5 +10,5 @@ DOMAIN-SUFFIX,ggpht.com
 # freetube
 DOMAIN-SUFFIX,invidious.io
 DOMAIN-SUFFIX,puffyan.us
-DOMAIN,sponsor.ajay.app
-DOMAIN,write.as
+# DOMAIN,sponsor.ajay.app
+# DOMAIN,write.as
