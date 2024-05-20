@@ -6,6 +6,6 @@ DOMAIN-SUFFIX,mzstatic.com
 
 # icloud
 DOMAIN,p157-content.icloud.com
-DOMAIN,*.icloud-content.com
+DOMAIN-SUFFIX,icloud-content.com
 DOMAIN,gateway.icloud.com
 DOMAIN,p157-ckdatabase.icloud.com
