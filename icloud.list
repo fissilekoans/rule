@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,icloud-content.com
 # DOMAIN,gateway.icloud.com
 # DOMAIN,p157-ckdatabase.icloud.com
 DOMAIN-KEYWORD,icloud.com
+
+# onedrive
+DOMAIN-SUFFIX,storage.live.com
