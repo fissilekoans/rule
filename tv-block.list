@@ -4,6 +4,7 @@
 DOMAIN,ichnaea.netflix.com
 DOMAIN,v10.events.data.microsoft.com
 DOMAIN,v20.events.data.microsoft.com
+DOMAIN,dsadata.intel.com
 
 # DOMAIN-SUFFIX
 DOMAIN-SUFFIX,app-measurement.com
