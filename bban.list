@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 May 2024 22:47 UTC
-# Version: 2024.0524.2247.03
+# Last modified: 25 May 2024 23:08 UTC
+# Version: 2024.0525.2308.40
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1473
+# Number of entries: 1458
 #
 # Title: HaGeZi's Badware Hoster DNS Blocklist
 # Description: Blocks known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
@@ -15,10 +15,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 May 2024 22:52 UTC
-# Version: 2024.0519.2252.41
+# Last modified: 30 May 2024 14:25 UTC
+# Version: 2024.0530.1425.16
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1840
+# Number of entries: 1824
 #
 .0000000000000000000000.com
 .0rg.us
@@ -54,7 +54,6 @@
 .4nmn.com
 .4pu.com
 .4twenty.us
-.64-b.it
 .6600.org
 .688.org
 .69.mu
@@ -370,7 +369,6 @@
 .dtdns.org
 .dubya.info
 .dubya.net
-.dubya.us
 .duckdns.org
 .duia.eu
 .duia.ro
@@ -399,7 +397,6 @@
 .dynamai.com
 .dynamic.domains
 .dynamic-dns.net
-.dynamic-dns.us
 .dynamic-m.com
 .dynamic-site.net
 .dynamicdns.biz
@@ -727,7 +724,6 @@
 .imprendum.com
 .in-the-band.net
 .independentonline.ro
-.inet2.org
 .info.gf
 .info.tm
 .inkcat.net
@@ -925,7 +921,6 @@
 .mefound.com
 .mein-vigor.de
 .melakaboy.com
-.merlitec.com
 .merseine.com
 .merseine.nu
 .merseine.org
@@ -1096,7 +1091,6 @@
 .onmypc.info
 .onmypc.net
 .onmypc.org
-.onmypc.us
 .onthewifi.com
 .ooguy.com
 .opior.com
@@ -1109,7 +1103,6 @@
 .otzo.com
 .ourhobby.com
 .ownip.net
-.packeting.eu
 .parikh.net
 .partycenteronline.com
 .patelmortgage.com
@@ -1177,10 +1170,8 @@
 .readmyblog.org
 .rebatesrule.net
 .recruitment7.com
-.recyclesolutionsllc.com
 .redirectme.net
 .reijn.org
-.remotecam.nu
 .resolve.bar
 .ro.lt
 .robinhud.com
@@ -1190,7 +1181,6 @@
 .root.sx
 .root64.de
 .route64.de
-.rpz.su
 .rr.nu
 .rtam.net
 .rum.si
@@ -1280,7 +1270,6 @@
 .sino.tw
 .sitelutions.com
 .sixth.biz
-.skc.su
 .skies.tw
 .slasdot.com
 .sleepless.hk
@@ -1289,7 +1278,6 @@
 .slyip.com
 .slyip.net
 .smelly.cc
-.sne.jp
 .socialadhesion.com
 .softether.net
 .solfa.org
@@ -1438,7 +1426,6 @@
 .webredirect.org
 .webs.vc
 .westblade.com
-.wha.la
 .whyboner.com
 .wifizone.org
 .wikaba.com
@@ -1475,9 +1462,7 @@
 .yngling.com
 .youdontcare.com
 .youpc.ro
-.yourspecialtee.com
 .yourtrap.com
-.z0d.eu
 .z86.ru
 .zaantek.com
 .zaibar.ro
@@ -1601,7 +1586,6 @@
 .350.com
 .351.at
 .36f.de
-.3blogger.com
 .3blogger.net
 .3dn.ru
 .3eeweb.com
@@ -1673,7 +1657,6 @@
 .myblog.arts.ac.uk
 .blogs.lincoln.ac.uk
 .ac6.de
-.aceblog.fr
 .acidblog.net
 .actifforum.com
 .activablog.com
@@ -1709,7 +1692,6 @@
 .anchor-blog.com
 .and-friends.de
 .and-you.de
-.andharban.com
 .anfliegen.de
 .angelfire.com
 .angelinsblog.com
@@ -1719,7 +1701,6 @@
 .ar.gp
 .arcadepages.com
 .arcor-ip.net
-.arien.cl
 .arrangiert.de
 .articlesblogger.com
 .arwebo.com
@@ -1860,9 +1841,6 @@
 .bloggang.com
 .bloggazza.com
 .bloggazzo.com
-.blogger.ba
-.blogger.com
-.blogger.de
 .blogger-news.net
 .bloggerbags.com
 .bloggerchest.com
@@ -2093,7 +2071,6 @@
 .collectblogs.com
 .com.nu
 .adr.com.ua
-.blogger.com.br
 .blogspot.com.ar
 .blogspot.com.au
 .blogspot.com.br
@@ -2151,7 +2128,6 @@
 .coolpage.biz
 .corolain.ru
 .cowblog.fr
-.cramerhost.net
 .creablog.com
 .creacionblog.com
 .createblog.com
@@ -2215,7 +2191,6 @@
 .download.ac
 .download.sh
 .downloaden24.de
-.dox4.com
 .dr.ag
 .dragndropbuilder.com
 .dreamlog.jp
@@ -2301,7 +2276,6 @@
 .fast-page.org
 .fasthoster.de
 .fblogs.com
-.fc2.com
 .fc2web.com
 .fcpages.com
 .fileave.com
@@ -2422,7 +2396,6 @@
 .goabroadblog.com
 .godaddysites.com
 .gofreeserve.com
-.blogger.l.google.com
 .sites.googlegroups.com
 .blogspot.l.googleusercontent.com
 .gotop100.com
@@ -2689,7 +2662,6 @@
 .my-style.in
 .my-webs.org
 .my1.ru
-.my3gb.com
 .myartsonline.com
 .mybb.im
 .mybb.pw
@@ -2747,7 +2719,6 @@
 .netten.ru
 .netz.tl
 .newbigblog.com
-.newmail.ru
 .newsbloger.com
 .ngontinh24.com
 .nichesite.org
@@ -2789,7 +2760,6 @@
 .online.ly
 .online.tc
 .online-net.de
-.onlineweb.shop
 .onlinewebshop.net
 .only4u.eu
 .onmbl.com
@@ -2988,7 +2958,6 @@
 .sport-pro.de
 .sportsontheweb.net
 .spruz.com
-.square7.ch
 .srv1.org
 .ss-blog.jp
 .ssnblog.com
@@ -3235,7 +3204,6 @@
 .webself.net
 .webselfsite.net
 .webservis.ru
-.websimages.com
 .website.at
 .website.org
 .website-home.ws
