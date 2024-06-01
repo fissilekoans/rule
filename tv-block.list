@@ -10,8 +10,8 @@ DOMAIN,mobile.events.data.microsoft.com
 DOMAIN-SUFFIX,app-measurement.com
 
 # DOMAIN-KEYWORD
-DOMAIN-KEYWORD,tracking
-DOMAIN-KEYWORD,track
+# DOMAIN-KEYWORD,tracking
+# DOMAIN-KEYWORD,track
 
 # shopee
 # DOMAIN,down-ws-sg.com
