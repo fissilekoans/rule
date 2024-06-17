@@ -1,9 +1,10 @@
 # NAME: direct
 
-# DOMAIN-SUFFIX,apple.com
-# DOMAIN-SUFFIX,icloud.com
-# DOMAIN-SUFFIX,controld.com
-# DOMAIN-SUFFIX,cwa.gov.tw
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,openai.com
+
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,ptt.cc
 # DOMAIN-SUFFIX,kktv.me
