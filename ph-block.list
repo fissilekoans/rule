@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,facebook.net
 DOMAIN-WILDCARD,mask*.icloud.com
 DOMAIN,doh.dns.apple.com
 DOMAIN,doh.dns.apple.com.v.aaplimg.com
+DOMAIN,experiments.apple.com
 
 
 # 78一直重試的
