@@ -3,7 +3,7 @@
 # apple
 DOMAIN-SUFFIX,apple.com
 DOMAIN,push-apple.com.akadns.net
-DOMAIN,edge.apple
+DOMAIN,tether.edge.apple
 # DOMAIN-SUFFIX,cdn-apple.com
 # DOMAIN-SUFFIX,mzstatic.com
 
