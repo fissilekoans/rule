@@ -1,8 +1,8 @@
 # neme : icloud
 
 # apple
-DOMAIN-SUFFIX,apple.com
-DOMAIN,push-apple.com.akadns.net
+# DOMAIN-SUFFIX,apple.com
+# DOMAIN,push-apple.com.akadns.net
 DOMAIN,tether.edge.apple
 # DOMAIN-SUFFIX,cdn-apple.com
 # DOMAIN-SUFFIX,mzstatic.com
