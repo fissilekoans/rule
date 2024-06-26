@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,p157-escrowproxy.icloud.com
+USER-AGENT,com.apple.trustd
 
 
 # DOMAIN,push-apple.com.akadns.net
