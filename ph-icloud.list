@@ -1,6 +1,6 @@
 # neme : apple
 
-DOMAIN,time.apple.com
+# DOMAIN,time.apple.com
 # DOMAIN,push-apple.com.akadns.net
 DOMAIN,tether.edge.apple
 DOMAIN-SUFFIX,apple.com
