@@ -6,7 +6,7 @@ DOMAIN,tether.edge.apple
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN,p157-escrowproxy.icloud.com
+DOMAIN-KEYWORD,p157-
 USER-AGENT,com.apple.trustd
 
 
