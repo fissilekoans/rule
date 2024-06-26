@@ -4,7 +4,9 @@ DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN,tether.edge.apple
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,p157-escrowproxy.icloud.com
 
 
 # DOMAIN,push-apple.com.akadns.net
