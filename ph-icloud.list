@@ -3,4 +3,5 @@
 DOMAIN,time.apple.com
 # DOMAIN,push-apple.com.akadns.net
 DOMAIN,tether.edge.apple
-DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,mzstatic.com
