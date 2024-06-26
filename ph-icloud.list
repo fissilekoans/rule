@@ -7,7 +7,8 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-KEYWORD,p157-
-USER-AGENT,com.apple.trustd
+USER-AGENT,com.apple.trustd*
+USER-AGENT,ocsp.digicert.com*
 
 
 # DOMAIN,push-apple.com.akadns.net
