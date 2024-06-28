@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 Jun 2024 22:35 UTC
-# Version: 2024.0624.2235.09
+# Last modified: 25 Jun 2024 22:58 UTC
+# Version: 2024.0625.2258.33
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1456
+# Number of entries: 1448
 #
 # Title: HaGeZi's Badware Hoster DNS Blocklist
 # Description: Blocks known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
@@ -15,10 +15,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 18 Jun 2024 22:51 UTC
-# Version: 2024.0618.2251.32
+# Last modified: 25 Jun 2024 22:59 UTC
+# Version: 2024.0625.2259.38
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1824
+# Number of entries: 1821
 #
 .0000000000000000000000.com
 .0rg.us
@@ -179,7 +179,6 @@
 .cbopelousas.com
 .cbu.net
 .cechire.com
-.celebsplay.com
 .celltrak.mobi
 .centserver.com
 .cf.gs
@@ -212,7 +211,6 @@
 .cloudns.net
 .cloudns.org
 .cloudns.pro
-.cloudwatch.net
 .cloudxns.net
 .cmirg.com
 .cnstefancelmare.ro
@@ -303,7 +301,6 @@
 .diyplans.org
 .dlinkddns.com
 .dnet.hu
-.dnmcoffman.com
 .dns.army
 .dns.navy
 .dns-auth.com
@@ -436,7 +433,6 @@
 .dynip.com
 .dynip.org
 .dynipv6.de
-.dynme.ovh
 .dynnamn.ru
 .dynns.com
 .dyns.net
@@ -829,7 +825,6 @@
 .it-share.ro
 .itemdb.com
 .itsaol.com
-.iu4ever.org
 .iugaming.com
 .ivc.cc
 .ix.tc
@@ -937,7 +932,6 @@
 .mine.bz
 .mine.nu
 .minecraftnoob.com
-.minecraftpotato.com
 .minecraftr.us
 .mirolnet.com
 .misconfused.org
@@ -1025,7 +1019,6 @@
 .ndcg.com
 .neat-url.com
 .nedvighimost-sochi.ru
-.nellopy.com
 .nerdcamp.net
 .nerdpol.ovh
 .net-freaks.com
@@ -1297,7 +1290,6 @@
 .srv64.de
 .srvdns.de
 .ssitech.bg
-.ssl443.org
 .ssmailer.com
 .star.is
 .stemmetje.com
@@ -2338,7 +2330,6 @@
 .freehostingcloud.com
 .freehostingeu.com
 .freehostingking.com
-.freehostplace.com
 .freehyperspace5.com
 .freeiz.com
 .freeoda.com
@@ -2393,7 +2384,6 @@
 .glifeblog.com
 .goabroadblog.com
 .godaddysites.com
-.gofreeserve.com
 .sites.googlegroups.com
 .blogspot.l.googleusercontent.com
 .gotop100.com
@@ -2478,7 +2468,6 @@
 .idiot24.de
 .blog.idnes.cz
 .ifdef.jp
-.igg.biz
 .ij2.de
 .il.gp
 .ilovetoblog.com
