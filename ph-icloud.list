@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN,tether.edge.apple
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-KEYWORD,p157-
 USER-AGENT,com.apple.trustd*
