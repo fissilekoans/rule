@@ -9,6 +9,7 @@ DOMAIN,doh.dns.apple.com.v.aaplimg.com
 DOMAIN,experiments.apple.com
 DOMAIN,cstat.dns-apple.com
 DOMAIN,ca.iadsdk.apple.com
+DOMAIN,track.fstry.me
 
 
 # 78一直重試的
