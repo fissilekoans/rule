@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-KEYWORD,p157-
+DOMAIN-KEYWORD,apple-
+DOMAIN-KEYWORD,icloud-
 USER-AGENT,com.apple.trustd*
 USER-AGENT,ocsp.digicert.com*
 
