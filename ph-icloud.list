@@ -1,6 +1,8 @@
 # neme : apple
 
 DOMAIN,gateway.icloud.com
+DOMAIN,probe.icloud.com
+DOMAIN,setup.icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN,tether.edge.apple
 DOMAIN-SUFFIX,apple.com
