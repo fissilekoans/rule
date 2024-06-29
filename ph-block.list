@@ -8,7 +8,7 @@ DOMAIN-WILDCARD,mask*.icloud.com
 # DOMAIN,doh.dns.apple.com.v.aaplimg.com
 DOMAIN,experiments.apple.com
 DOMAIN,iadsdk.apple.com
-DOMAIN,track.fstry.me
+# DOMAIN,track.fstry.me
 
 
 # 78一直重試的
