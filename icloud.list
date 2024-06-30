@@ -4,7 +4,8 @@
 DOMAIN-SUFFIX,apple.com
 DOMAIN,push-apple.com.akadns.net
 DOMAIN,tether.edge.apple
-# DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,mzstatic.com
 
 # icloud
