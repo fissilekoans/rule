@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-WILDCARD,p*-content.icloud.com
 DOMAIN-WILDCARD,p*-fmfmobile.icloud.com
+DOMAIN-WILDCARD,p*-ckdatabase.icloud.com
 # DOMAIN-KEYWORD,p157-
 DOMAIN-KEYWORD,apple-
 DOMAIN-KEYWORD,icloud-
