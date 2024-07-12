@@ -12,3 +12,18 @@ DOMAIN-SUFFIX,youtube.com
 # DOMAIN-SUFFIX,puffyan.us
 # DOMAIN,sponsor.ajay.app
 # DOMAIN,write.as
+
+# NAME: Twitch
+
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,media-amazon.com
+# DOMAIN-SUFFIX,twitch-ext.rootonline.de
+# DOMAIN-SUFFIX,twitchsvc.net
+# DOMAIN-SUFFIX,amazontrust.com
+# IP-ASN,46489,no-resolve
+# DOMAIN-KEYWORD,twitch
+# DOMAIN-KEYWORD,ttvnw
+# DOMAIN-KEYWORD,o278969
