@@ -1,8 +1,10 @@
 # neme : apple
 
-DOMAIN,gateway.icloud.com
-DOMAIN,probe.icloud.com
-DOMAIN,setup.icloud.com
+DOMAIN-SUFFIX,icloud.com
+# DOMAIN,gateway.icloud.com
+# DOMAIN,probe.icloud.com
+# DOMAIN,setup.icloud.com
+# DOMAIN,calendars.icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN,token.safebrowsing.apple
 DOMAIN,tether.edge.apple
@@ -15,7 +17,7 @@ DOMAIN-SUFFIX,mzstatic.com
 # DOMAIN-WILDCARD,p*-fmfmobile.icloud.com
 # DOMAIN-WILDCARD,p*-ckdatabase.icloud.com
 # DOMAIN-WILDCARD,p*-fmf.icloud.com
-DOMAIN-WILDCARD,p*.icloud.com
+# DOMAIN-WILDCARD,p*.icloud.com
 DOMAIN-KEYWORD,apple-
 DOMAIN-KEYWORD,icloud-
 USER-AGENT,com.apple.trustd*
