@@ -7,13 +7,14 @@ DOMAIN,tether.edge.apple
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,token.safebrowsing.apple
+DOMAIN-SUFFIX,apple.news
 
 # icloud
-# DOMAIN,p157-content.icloud.com
+# DOMAIN-SUFFIX,icloud.com
 # DOMAIN-SUFFIX,icloud-content.com
-# DOMAIN,gateway.icloud.com
 # DOMAIN,p157-ckdatabase.icloud.com
-# DOMAIN-KEYWORD,p157-
 
-# onedrive
-# DOMAIN-SUFFIX,storage.live.com
+# KEYWORD
+DOMAIN-KEYWORD,apple-
+DOMAIN-KEYWORD,icloud-
