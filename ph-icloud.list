@@ -11,10 +11,11 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-WILDCARD,p*-content.icloud.com
-DOMAIN-WILDCARD,p*-fmfmobile.icloud.com
-DOMAIN-WILDCARD,p*-ckdatabase.icloud.com
-# DOMAIN-KEYWORD,p157-
+# DOMAIN-WILDCARD,p*-content.icloud.com
+# DOMAIN-WILDCARD,p*-fmfmobile.icloud.com
+# DOMAIN-WILDCARD,p*-ckdatabase.icloud.com
+# DOMAIN-WILDCARD,p*-fmf.icloud.com
+DOMAIN-WILDCARD,p*.icloud.com
 DOMAIN-KEYWORD,apple-
 DOMAIN-KEYWORD,icloud-
 USER-AGENT,com.apple.trustd*
