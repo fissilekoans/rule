@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,apple.news
 # icloud
 # DOMAIN-SUFFIX,icloud.com
 # DOMAIN-SUFFIX,icloud-content.com
-# DOMAIN,p157-ckdatabase.icloud.com
 
 # KEYWORD
 DOMAIN-KEYWORD,apple-
