@@ -4,6 +4,7 @@ DOMAIN,gateway.icloud.com
 DOMAIN,probe.icloud.com
 DOMAIN,setup.icloud.com
 DOMAIN-SUFFIX,icloud-content.com
+DOMAIN,token.safebrowsing.apple
 DOMAIN,tether.edge.apple
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,apple.com
