@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-KEYWORD,apple-
 DOMAIN-KEYWORD,icloud-
 
+# USER-AGENT
+USER-AGENT,com.apple.trustd*
+
 # ???
 DOMAIN,theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX,steamstatic.com
