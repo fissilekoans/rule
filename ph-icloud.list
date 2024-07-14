@@ -15,7 +15,6 @@ DOMAIN-KEYWORD,apple-
 DOMAIN-KEYWORD,icloud-
 
 USER-AGENT,com.apple.trustd*
-USER-AGENT,ocsp.digicert.com*
 
 # DOMAIN-WILDCARD,p*-content.icloud.com
 # DOMAIN-WILDCARD,p*-fmfmobile.icloud.com
