@@ -22,6 +22,9 @@ IP-CIDR,143.92.82.119/32
 IP-CIDR,143.92.88.1/32
 IP-CIDR,23.46.16.134/32
 
+# test
+IP-CIDR,172.82.0.11/32
+
 # 7mmtv,njav
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/css\/owl\.carousel\.min\.css$
