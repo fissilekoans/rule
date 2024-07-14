@@ -11,8 +11,8 @@ DOMAIN,token.safebrowsing.apple
 DOMAIN-SUFFIX,apple.news
 
 # icloud
-# DOMAIN-SUFFIX,icloud.com
-# DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
 
 # KEYWORD
 DOMAIN-KEYWORD,apple-
