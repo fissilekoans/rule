@@ -24,6 +24,7 @@ IP-CIDR,23.46.16.134/32
 
 # 擋掉微軟爛的store伺服器
 IP-CIDR,172.82.0.11/32
+IP-CIDR,103.1.215.171/32
 
 # 7mmtv,njav
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
