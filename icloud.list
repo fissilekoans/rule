@@ -34,3 +34,7 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,jtvnw.net
+
+# ???
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
