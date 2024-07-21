@@ -2,7 +2,7 @@
 
 # DOMAIN
 DOMAIN,ichnaea.netflix.com
-# DOMAIN,v10.events.data.microsoft.com
+DOMAIN,ads-api.x.com
 DOMAIN,srtb.msn.com
 DOMAIN,mobile.events.data.microsoft.com
 
