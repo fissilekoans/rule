@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN,push-apple.com.akadns.net
 DOMAIN,token.safebrowsing.apple
+DOMAIN-SUFFIX,map.apple-dns.net
 DOMAIN-SUFFIX,edge.apple
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,apple.com
