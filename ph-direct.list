@@ -1,0 +1,13 @@
+# NAME: direct
+
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaiusercontent.com
+
+DOMAIN-SUFFIX,hncb.com.tw
+DOMAIN-SUFFIX,ptt.cc
+DOMAIN-SUFFIX,mohw.gov.tw
+DOMAIN-SUFFIX,cch.org.tw
+# DOMAIN,
