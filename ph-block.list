@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,iadsdk.apple.com
 # 78一直重試的
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,crashlytics.com
