@@ -9,15 +9,10 @@ DOMAIN,mobile.events.data.microsoft.com
 # DOMAIN-SUFFIX
 DOMAIN-SUFFIX,app-measurement.com
 
-# DOMAIN-KEYWORD
 # DOMAIN-KEYWORD,tracking
 # DOMAIN-KEYWORD,track
 
 # shopee
-# DOMAIN,down-ws-sg.com
-# DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
-DOMAIN-SUFFIX,content.garena.com
-# DOMAIN,idfp.tongdun.net
 IP-CIDR,143.92.82.119/32
 IP-CIDR,143.92.88.1/32
 IP-CIDR,23.46.16.134/32
@@ -28,12 +23,12 @@ IP-CIDR,103.1.215.171/32
 
 # ???
 PROTOCOL,STUN
-IP-CIDR,0.0.0.0/32,no-resolve
-IP-CIDR,127.0.0.0/8,no-resolve
-IP-CIDR,10.0.0.0/8,no-resolve
-IP-CIDR,172.16.0.0/12,no-resolve
-IP-CIDR,192.168.0.0/16,no-resolve
-IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,0.0.0.0/32
+IP-CIDR,127.0.0.0/8
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,192.168.0.0/16
+IP-CIDR,169.254.0.0/16
 
 # 7mmtv,njav
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
