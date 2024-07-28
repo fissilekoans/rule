@@ -1,7 +1,6 @@
 # neme : apple & icloud
 
-# app
-DOMAIN,push-apple.com.akadns.net
+# apple
 DOMAIN,token.safebrowsing.apple
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.news
@@ -10,6 +9,7 @@ DOMAIN-SUFFIX,map.apple-dns.net
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
 
 # icloud
