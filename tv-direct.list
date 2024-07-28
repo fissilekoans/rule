@@ -1,16 +1,14 @@
 # NAME: direct
 
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,cdn.auth0.com
-DOMAIN-SUFFIX,cdn.oaistatic.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,oaiusercontent.com
-
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,ptt.cc
-# DOMAIN-SUFFIX,kktv.me
-# 下面網址忘記幹嘛的了 先關掉 有問題再說
-# IP-CIDR,13.225.103.1/24
-# oracle用
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+
+# oracle
 IP-CIDR,150.230.59.212/32
 IP-CIDR,64.110.103.244/32
