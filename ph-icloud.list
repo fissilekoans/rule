@@ -1,29 +1,24 @@
-# neme : apple
+# neme : apple & icloud
 
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
+# app
 DOMAIN,push-apple.com.akadns.net
 DOMAIN,token.safebrowsing.apple
-DOMAIN-SUFFIX,map.apple-dns.net
-DOMAIN-SUFFIX,edge.apple
-DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,edge.apple
+DOMAIN-SUFFIX,map.apple-dns.net
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,mzstatic.com
 
+# icloud
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+
+# KEYWORD
 # DOMAIN-KEYWORD,apple-
 # DOMAIN-KEYWORD,icloud-
 
+# USER-AGENT
 USER-AGENT,com.apple.trustd*
-
-# DOMAIN-WILDCARD,p*-content.icloud.com
-# DOMAIN-WILDCARD,p*-fmfmobile.icloud.com
-# DOMAIN-WILDCARD,p*-ckdatabase.icloud.com
-# DOMAIN-WILDCARD,p*-fmf.icloud.com
-# DOMAIN-WILDCARD,p*.icloud.com
-# DOMAIN,gateway.icloud.com
-# DOMAIN,probe.icloud.com
-# DOMAIN,setup.icloud.com
-# DOMAIN,calendars.icloud.com
