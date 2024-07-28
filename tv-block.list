@@ -3,11 +3,11 @@
 # DOMAIN
 DOMAIN,ichnaea.netflix.com
 DOMAIN,ads-api.x.com
-DOMAIN,srtb.msn.com
-DOMAIN,mobile.events.data.microsoft.com
+# DOMAIN,srtb.msn.com
+# DOMAIN,mobile.events.data.microsoft.com
 
 # DOMAIN-SUFFIX
-DOMAIN-SUFFIX,app-measurement.com
+# DOMAIN-SUFFIX,app-measurement.com
 
 # DOMAIN-KEYWORD,tracking
 # DOMAIN-KEYWORD,track
