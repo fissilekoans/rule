@@ -15,6 +15,32 @@ DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,cstat.cdn-apple.com
 
+# 通用
+DOMAIN-WILDCARD,ad.*
+DOMAIN-WILDCARD,ads.*
+DOMAIN-WILDCARD,advertising.*
+DOMAIN-WILDCARD,adsystem.*
+DOMAIN-WILDCARD,adimage.*
+DOMAIN-WILDCARD,adimages.*
+DOMAIN-WILDCARD,adimg.*
+DOMAIN-WILDCARD,adserver.*
+DOMAIN-WILDCARD,adservers.*
+DOMAIN-WILDCARD,adtrack.*
+DOMAIN-WILDCARD,adtracking.*
+DOMAIN-WILDCARD,adtracker.*
+DOMAIN-WILDCARD,adverts.*
+DOMAIN-WILDCARD,advertisements.*
+DOMAIN-WILDCARD,banners.*
+DOMAIN-WILDCARD,beacons.*
+DOMAIN-WILDCARD,count.*
+DOMAIN-WILDCARD,counters.*
+DOMAIN-WILDCARD,datacapture.*
+DOMAIN-WILDCARD,sentry.*
+DOMAIN-WILDCARD,mads.*
+DOMAIN-WILDCARD,qltuh.*
+DOMAIN-WILDCARD,pixels.*
+DOMAIN-WILDCARD,adserv.*
+
 # ???
 PROTOCOL,STUN
 IP-CIDR,0.0.0.0/32,no-resolve
