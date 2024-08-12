@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,cstat.cdn-apple.com
 
 # 通用
 DOMAIN-WILDCARD,ad.*
-DOMAIN-WILDCARD,ads.*
+# DOMAIN-WILDCARD,ads.
 DOMAIN-WILDCARD,adserv.*
 DOMAIN-WILDCARD,advertising.*
 DOMAIN-WILDCARD,adsystem.*
