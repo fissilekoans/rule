@@ -3,8 +3,8 @@
 # DOMAIN
 DOMAIN,ichnaea.netflix.com
 DOMAIN,logs.netflix.com
-DOMAIN,ads-api.x.com
-# DOMAIN,srtb.msn.com
+DOMAIN,ichnaea-web.netflix.com
+# DOMAIN,ads-api.x.com
 # DOMAIN,mobile.events.data.microsoft.com
 
 # DOMAIN-SUFFIX
