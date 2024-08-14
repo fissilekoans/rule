@@ -13,3 +13,10 @@ DOMAIN-SUFFIX,oaiusercontent.com
 # oracle
 IP-CIDR,150.230.59.212/32
 IP-CIDR,64.110.103.244/32
+
+# netflix
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxvideo.net
