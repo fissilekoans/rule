@@ -4,7 +4,7 @@
 DOMAIN,ichnaea.netflix.com
 DOMAIN,logs.netflix.com
 DOMAIN,ichnaea-web.netflix.com
-# DOMAIN,ads-api.x.com
+DOMAIN,ssl.google-analytics.com
 # DOMAIN,mobile.events.data.microsoft.com
 
 # DOMAIN-SUFFIX
@@ -37,6 +37,15 @@ DOMAIN,ocsp.apple.com
 # DOMAIN,ocsp.digicert.com
 # DOMAIN,ocsp.entrust.net
 DOMAIN,ocsp2.apple.com
+
+# shopee
+DOMAIN-SUFFIX,tracking.shopee.tw
+DOMAIN,dem.shopee.com
+DOMAIN,df.infra.shopee.tw
+DOMAIN,msdk.shopee.tw
+DOMAIN,log-collector.shopee.tw
+DOMAIN,c-api-bit.shopeemobile.com
+
 
 # 7mmtv,njav
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
