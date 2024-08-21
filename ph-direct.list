@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,cch.org.tw
 # DOMAIN,
 
 # ???
-DOMAIN-SUFFIX,twitch.tv
+# DOMAIN-SUFFIX,twitch.tv
 
 # ???
 # DOMAIN-SUFFIX,imgur.com
