@@ -32,7 +32,7 @@ IP-CIDR,169.254.0.0/16
 # ???
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.digicert.cn
-DOMAIN,ocsp.digicert.com
+# DOMAIN,ocsp.digicert.com
 DOMAIN,ocsp.entrust.net
 DOMAIN,ocsp2.apple.com
 
