@@ -8,6 +8,8 @@ DOMAIN,ssl.google-analytics.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN,graph.facebook.com
 DOMAIN,connect.facebook.net
+DOMAIN-SUFFIX,sentry.io
+
 # DOMAIN-KEYWORD,tracking
 
 # shopee
