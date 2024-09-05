@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN,graph.facebook.com
 DOMAIN,connect.facebook.net
 DOMAIN-SUFFIX,sentry.io
+DOMAIN,api.sentry.susercontent.com
 
 # DOMAIN-KEYWORD,tracking
 
