@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,.garena.com
 
 # 擋掉微軟爛的伺服器
 IP-CIDR,172.82.0.11/32
+IP-CIDR,172.82.0.12/32
 IP-CIDR,103.1.215.171/32
 
 # ???
