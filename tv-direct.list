@@ -2,7 +2,7 @@
 
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,taiwanlife.com
-DOMAIN-SUFFIX,ptt.cc
+# DOMAIN-SUFFIX,ptt.cc
 
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
