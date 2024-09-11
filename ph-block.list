@@ -14,6 +14,7 @@ DOMAIN,experiments.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,cstat.cdn-apple.com
+DOMAIN,www.googletagmanager.com
 
 # 通用
 DOMAIN-WILDCARD,ad.*
