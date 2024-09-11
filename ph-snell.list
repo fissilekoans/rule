@@ -3,5 +3,4 @@
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,google.co.jp
-# DOMAIN-SUFFIX,gstatic.com
-# DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,ptt.cc
