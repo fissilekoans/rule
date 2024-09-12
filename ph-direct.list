@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,post.gov.tw
 # DOMAIN-SUFFIX,mohw.gov.tw
 # DOMAIN-SUFFIX,cch.org.tw
 
-# apple direct
+# apple
 DOMAIN,api.smoot.apple.com
 DOMAIN,captive.apple.com
 DOMAIN,xp.apple.com
