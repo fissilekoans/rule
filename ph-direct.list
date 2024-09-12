@@ -7,10 +7,10 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
 DOMAIN-SUFFIX,hncb.com.tw
-# DOMAIN-SUFFIX,twca.com.tw
-DOMAIN-SUFFIX,mohw.gov.tw
-DOMAIN-SUFFIX,post.gov.tw
-DOMAIN-SUFFIX,cch.org.tw
+# DOMAIN-SUFFIX,gov.tw
+# DOMAIN-SUFFIX,mohw.gov.tw
+# DOMAIN-SUFFIX,post.gov.tw
+# DOMAIN-SUFFIX,cch.org.tw
 
 # apple direct
 DOMAIN,api.smoot.apple.com
