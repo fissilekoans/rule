@@ -13,12 +13,6 @@ DOMAIN,api.sentry.susercontent.com
 
 # DOMAIN-KEYWORD,tracking
 
-# shopee
-IP-CIDR,143.92.82.119/32
-IP-CIDR,143.92.88.1/32
-IP-CIDR,23.46.16.134/32
-DOMAIN-SUFFIX,garena.com
-
 # 擋掉微軟爛的伺服器
 IP-CIDR,172.82.0.11/32
 IP-CIDR,172.82.0.12/32
@@ -33,7 +27,7 @@ IP-CIDR,172.16.0.0/12
 IP-CIDR,192.168.0.0/16
 IP-CIDR,169.254.0.0/16
 
-# ???
+# apple ocsp tracker
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.digicert.cn
 DOMAIN,ocsp.digicert.com
@@ -41,12 +35,16 @@ DOMAIN,ocsp.entrust.net
 DOMAIN,ocsp2.apple.com
 
 # shopee
+DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,tracking.shopee.tw
 DOMAIN,dem.shopee.com
-DOMAIN,df.infra.shopee.tw
 DOMAIN,msdk.shopee.tw
+DOMAIN,df.infra.shopee.tw
 DOMAIN,log-collector.shopee.tw
 DOMAIN,c-api-bit.shopeemobile.com
+IP-CIDR,143.92.82.119/32
+IP-CIDR,143.92.88.1/32
+IP-CIDR,23.46.16.134/32
 
 # 7mmtv,njav
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
