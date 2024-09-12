@@ -3,7 +3,7 @@
 # block
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
-DOMAIN-SUFFIX,app-measurement.com
+# DOMAIN-SUFFIX,app-measurement.com
 # DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-WILDCARD,mask*.icloud.com
@@ -16,31 +16,6 @@ DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,cstat.cdn-apple.com
 DOMAIN,www.googletagmanager.com
 
-# 通用
-DOMAIN-WILDCARD,ad.*
-DOMAIN-WILDCARD,adserv.*
-DOMAIN-WILDCARD,advertising.*
-DOMAIN-WILDCARD,adsystem.*
-DOMAIN-WILDCARD,adimage.*
-DOMAIN-WILDCARD,adimages.*
-DOMAIN-WILDCARD,adimg.*
-DOMAIN-WILDCARD,adserver.*
-DOMAIN-WILDCARD,adservers.*
-DOMAIN-WILDCARD,adtrack.*
-DOMAIN-WILDCARD,adtracking.*
-DOMAIN-WILDCARD,adtracker.*
-DOMAIN-WILDCARD,adverts.*
-DOMAIN-WILDCARD,advertisements.*
-DOMAIN-WILDCARD,banners.*
-DOMAIN-WILDCARD,beacons.*
-DOMAIN-WILDCARD,count.*
-DOMAIN-WILDCARD,counters.*
-DOMAIN-WILDCARD,datacapture.*
-DOMAIN-WILDCARD,mads.*
-DOMAIN-WILDCARD,pixels.*
-DOMAIN-WILDCARD,qltuh.*
-DOMAIN-WILDCARD,sentry.*
-
 # ???
 PROTOCOL,STUN
 IP-CIDR,0.0.0.0/32,no-resolve
@@ -50,7 +25,7 @@ IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,169.254.0.0/16,no-resolve
 
-# ?
+# apple ocsp tracker
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.digicert.cn
 DOMAIN,ocsp.digicert.com
