@@ -1,15 +1,18 @@
 # NAME: direct
 
+# openai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,cdn.auth0.com
 DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
+# 網路銀行
 DOMAIN-SUFFIX,hncb.com.tw
+DOMAIN-SUFFIX,post.gov.tw
+
 # DOMAIN-SUFFIX,gov.tw
 # DOMAIN-SUFFIX,mohw.gov.tw
-# DOMAIN-SUFFIX,post.gov.tw
 # DOMAIN-SUFFIX,cch.org.tw
 
 # apple direct
