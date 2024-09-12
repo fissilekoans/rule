@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,taiwanmobile.com
 DOMAIN-SUFFIX,taiwanmobile.net
+
+# 有些用日本連很慢的
+DOMAIN-SUFFIX,newbalance.com.tw
