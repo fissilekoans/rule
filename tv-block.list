@@ -35,13 +35,14 @@ DOMAIN,ocsp.entrust.net
 DOMAIN,ocsp2.apple.com
 
 # shopee
-DOMAIN-SUFFIX,garena.com
-DOMAIN-SUFFIX,tracking.shopee.tw
 DOMAIN,dem.shopee.com
 DOMAIN,msdk.shopee.tw
 DOMAIN,df.infra.shopee.tw
 DOMAIN,log-collector.shopee.tw
 DOMAIN,c-api-bit.shopeemobile.com
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,tracking.shopee.tw
+DOMAIN-SUFFIX,livetech.shopee.tw
 IP-CIDR,143.92.82.119/32
 IP-CIDR,143.92.88.1/32
 IP-CIDR,23.46.16.134/32
