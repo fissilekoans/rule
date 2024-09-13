@@ -1,15 +1,19 @@
 # NAME: block
 
-# DOMAIN
-DOMAIN,ichnaea.netflix.com
 DOMAIN,logs.netflix.com
+DOMAIN,ichnaea.netflix.com
 DOMAIN,ichnaea-web.netflix.com
-DOMAIN,ssl.google-analytics.com
-DOMAIN-SUFFIX,doubleclick.net
 DOMAIN,graph.facebook.com
 DOMAIN,connect.facebook.net
-DOMAIN-SUFFIX,sentry.io
-DOMAIN,api.sentry.susercontent.com
+
+# ???
+DOMAIN,geller-pa.googleapis.com
+DOMAIN,patronus.idata.shopeemobile.com
+DOMAIN,clienttracing-pa.googleapis.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-WILDCARD,sentry.*
 
 # DOMAIN-KEYWORD,tracking
 
