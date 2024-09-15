@@ -14,11 +14,11 @@ IP-CIDR,192.168.0.0/16
 IP-CIDR,169.254.0.0/16
 
 # apple ocsp tracker
-DOMAIN,ocsp.apple.com
+# DOMAIN,ocsp.apple.com
 # DOMAIN,ocsp.digicert.cn
 # DOMAIN,ocsp.digicert.com
 # DOMAIN,ocsp.entrust.net
-DOMAIN,ocsp2.apple.com
+# DOMAIN,ocsp2.apple.com
 
 # apple private
 DOMAIN-WILDCARD,mask*.icloud.com
