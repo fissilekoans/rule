@@ -1,6 +1,6 @@
 # NAME: snell
 
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,google.com.tw
-DOMAIN-SUFFIX,google.co.jp
+DOMAIN,google.com
+DOMAIN,google.com.tw
+DOMAIN,google.co.jp
 DOMAIN-SUFFIX,ptt.cc
