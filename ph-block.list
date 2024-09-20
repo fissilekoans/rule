@@ -21,7 +21,9 @@ IP-CIDR,169.254.0.0/16
 # DOMAIN,ocsp2.apple.com
 
 # apple private
-DOMAIN-WILDCARD,mask*.icloud.com
+DOMAIN,mask.icloud.com
+DOMAIN,mask-h2.icloud.com
+# DOMAIN-WILDCARD,mask*.icloud.com
 DOMAIN-WILDCARD,mask*.apple-dns.net
 DOMAIN,doh.dns.apple.com
 DOMAIN,doh.dns.apple.com.v.aaplimg.com
