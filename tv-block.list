@@ -7,7 +7,7 @@ DOMAIN,graph.facebook.com
 DOMAIN,connect.facebook.net
 
 # ???
-DOMAIN,xp.apple.com
+# DOMAIN,xp.apple.com
 DOMAIN,geller-pa.googleapis.com
 DOMAIN,patronus.idata.shopeemobile.com
 DOMAIN,clienttracing-pa.googleapis.com
