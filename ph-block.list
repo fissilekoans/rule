@@ -3,7 +3,7 @@
 # block
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
-DOMAIN,xp.apple.com
+# DOMAIN,xp.apple.com
 
 # ???
 PROTOCOL,STUN
