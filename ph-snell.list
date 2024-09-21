@@ -3,4 +3,4 @@
 DOMAIN,www.google.com
 DOMAIN,www.google.com.tw
 DOMAIN,www.google.co.jp
-DOMAIN-SUFFIX,ptt.cc
+# DOMAIN-SUFFIX,ptt.cc
