@@ -26,5 +26,5 @@ DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,cdn-telegram.org
 
 # ???
-DOMAIN-SUFFIX,finalaa.win
-DOMAIN-SUFFIX,ptt.cc
+# DOMAIN-SUFFIX,finalaa.win
+# DOMAIN-SUFFIX,ptt.cc
