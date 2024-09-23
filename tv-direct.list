@@ -24,7 +24,14 @@ DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
 
-# apple
+# Apple
+DOMAIN,time.apple.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,token.safebrowsing.apple.com
+DOMAIN,gateway.icloud.com
+
 # DOMAIN,api.smoot.apple.com
 # DOMAIN,captive.apple.com
 # DOMAIN,xp.apple.com
@@ -32,13 +39,11 @@ DOMAIN-SUFFIX,nflxvideo.net
 # DOMAIN,guzzoni.apple.com
 # DOMAIN,smp-device-content.apple.com
 # DOMAIN,aod.itunes.apple.com
-# DOMAIN,mesu.apple.com
 # DOMAIN,gs-loc.apple.com
 # DOMAIN,mvod.itunes.apple.com
 # DOMAIN,streamingaudio.itunes.apple.com
 # DOMAIN-SUFFIX,ess.apple.com
 # DOMAIN-SUFFIX,push-apple.com.akadns.net
-# DOMAIN-SUFFIX,push.apple.com
 # DOMAIN-SUFFIX,lcdn-locator.apple.com
 # DOMAIN-SUFFIX,lcdn-registration.apple.com
 # DOMAIN-SUFFIX,ls.apple.com
