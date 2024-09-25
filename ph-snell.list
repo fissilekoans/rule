@@ -1,8 +1,8 @@
 # NAME: snell
 
-DOMAIN,www.google.com
-DOMAIN,www.google.com.tw
-DOMAIN,www.google.co.jp
+# DOMAIN,www.google.com
+# DOMAIN,www.google.com.tw
+# DOMAIN,www.google.co.jp
 
 IP-CIDR,91.108.56.0/22,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
@@ -30,5 +30,5 @@ DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,cdn-telegram.org
 
 # ???
-DOMAIN-SUFFIX,finalaa.win
-DOMAIN-SUFFIX,ptt.cc
+# DOMAIN-SUFFIX,finalaa.win
+# DOMAIN-SUFFIX,ptt.cc
