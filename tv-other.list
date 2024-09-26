@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,qy0.ru
 
 # Apple
 DOMAIN,token.safebrowsing.apple
+DOMAIN,proxy.safebrowsing.apple
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,edge.apple
