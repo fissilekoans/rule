@@ -35,7 +35,7 @@ IP-CIDR,169.254.0.0/16
 # iCloud Private Relay
 DOMAIN,mask.icloud.com
 DOMAIN,mask-h2.icloud.com
-DOMAIN,mask-api.icloud.com
+# DOMAIN,mask-api.icloud.com
 DOMAIN-WILDCARD,mask*.apple-dns.net
 DOMAIN,doh.dns.apple.com
 DOMAIN,doh.dns.apple.com.v.aaplimg.com
