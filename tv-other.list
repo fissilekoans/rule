@@ -38,9 +38,28 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,imgur.com
 
 # ???
-DOMAIN-SUFFIX,wnacg.com
-DOMAIN-SUFFIX,upaiyun.com
-DOMAIN-SUFFIX,qy0.ru
+# DOMAIN-SUFFIX,wnacg.com
+# DOMAIN-SUFFIX,upaiyun.com
+# DOMAIN-SUFFIX,qy0.ru
+
+# Apple
+DOMAIN,token.safebrowsing.apple
+DOMAIN,proxy.safebrowsing.apple
+DOMAIN,app-site-association.networking.apple
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,edge.apple
+DOMAIN-SUFFIX,map.apple-dns.net
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.apple.com
+DOMAIN-SUFFIX,icloud-content.com
+USER-AGENT,com.apple.trustd*
 
 SRC-IP,192.168.88.104/32
 SRC-IP,192.168.88.226/32
