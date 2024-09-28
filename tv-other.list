@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-WILDCARD,steamcloud*
 
 # twitch
-DOMAIN-SUFFIX,twitch.tv
+# DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitchcdn.net
