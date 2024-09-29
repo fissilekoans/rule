@@ -25,8 +25,6 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
 
 # Apple
-DOMAIN,captive.apple.com
-DOMAIN,smp-device-content.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,gs-loc.apple.com
 DOMAIN,mvod.itunes.apple.com
@@ -34,7 +32,6 @@ DOMAIN,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
-DOMAIN-SUFFIX,lcdn-registration.apple.com
 
 # Apple Push Notifications
 # Device setup
