@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
 
 # Apple
-# DOMAIN,captive.apple.com
+DOMAIN,captive.apple.com
 DOMAIN,smp-device-content.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,gs-loc.apple.com
