@@ -56,9 +56,9 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud.apple.com
-DOMAIN-SUFFIX,icloud-content.com
+# DOMAIN-SUFFIX,icloud.com
+# DOMAIN-SUFFIX,icloud.apple.com
+# DOMAIN-SUFFIX,icloud-content.com
 USER-AGENT,com.apple.trustd*
 
 SRC-IP,192.168.88.104/32
