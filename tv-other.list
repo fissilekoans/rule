@@ -45,11 +45,14 @@ DOMAIN-SUFFIX,imgur.com
 # Apple
 DOMAIN,token.safebrowsing.apple
 DOMAIN,proxy.safebrowsing.apple
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
 DOMAIN,app-site-association.networking.apple
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,edge.apple
-DOMAIN-SUFFIX,map.apple-dns.net
+DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-cloudkit.com
