@@ -59,7 +59,7 @@ DOMAIN-SUFFIX,mzstatic.com
 # DOMAIN-SUFFIX,icloud.com
 # DOMAIN-SUFFIX,icloud.apple.com
 # DOMAIN-SUFFIX,icloud-content.com
-USER-AGENT,com.apple.trustd*
+# USER-AGENT,com.apple.trustd*
 
 SRC-IP,192.168.88.104/32
 SRC-IP,192.168.88.226/32
