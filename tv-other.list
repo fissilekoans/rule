@@ -23,9 +23,9 @@ DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,wikipedia.org
 
 # x
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twimg.com
+# DOMAIN-SUFFIX,x.com
+# DOMAIN-SUFFIX,twitter.com
+# DOMAIN-SUFFIX,twimg.com
 
 # YT
 DOMAIN-SUFFIX,youtube.com
