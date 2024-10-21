@@ -14,6 +14,7 @@ DOMAIN,clienttracing-pa.googleapis.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,sentry.io
 
 # DOMAIN-KEYWORD,tracking
 
@@ -82,7 +83,6 @@ DOMAIN-WILDCARD,mads.*
 DOMAIN-WILDCARD,pixels.*
 DOMAIN-WILDCARD,qltuh.*
 DOMAIN-WILDCARD,sentry.*
-DOMAIN-WILDCARD,api.sentry.*
 
 # 7mmtv,njav
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
