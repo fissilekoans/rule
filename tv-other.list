@@ -20,7 +20,7 @@ DOMAIN-WILDCARD,steamcloud*
 # DOMAIN-SUFFIX,twitchcdn.net
 
 # wiki
-DOMAIN-SUFFIX,wikipedia.org
+# DOMAIN-SUFFIX,wikipedia.org
 
 # x
 # DOMAIN-SUFFIX,x.com
@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,pki.goog
 DOMAIN,write.as
 
 # imgur
-DOMAIN-SUFFIX,imgur.com
+# DOMAIN-SUFFIX,imgur.com
 
 # ???
 # DOMAIN-SUFFIX,wnacg.com
@@ -71,4 +71,4 @@ DOMAIN-SUFFIX,mzstatic.com
 
 SRC-IP,192.168.88.104/32
 # SRC-IP,192.168.88.226/32
-SRC-IP,192.168.88.253/32
+# SRC-IP,192.168.88.253/32
