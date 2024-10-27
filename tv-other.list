@@ -28,7 +28,8 @@ DOMAIN-WILDCARD,steamcloud*
 # DOMAIN-SUFFIX,twimg.com
 
 # Google
-# DOMAIN-SUFFIX,youtube.com
+DOMAIN,youtu.be
+DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ytimg.com
