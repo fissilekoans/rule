@@ -29,6 +29,7 @@ DOMAIN-WILDCARD,steamcloud*
 
 # Google
 DOMAIN,youtu.be
+DOMAIN,write.as
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ggpht.com
@@ -36,9 +37,9 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,invidious.io
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,pki.goog
-DOMAIN,write.as
+
 
 # imgur
 # DOMAIN-SUFFIX,imgur.com
