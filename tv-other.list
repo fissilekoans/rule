@@ -1,7 +1,6 @@
 # NAME: other
 
-# kktv
-# DOMAIN,theater-kktv.cdn.hinet.net
+DOMAIN-SUFFIX,github.com
 
 # steam
 DOMAIN,steamcommunity.com
@@ -39,7 +38,6 @@ DOMAIN-SUFFIX,invidious.io
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,pki.goog
-
 
 # imgur
 # DOMAIN-SUFFIX,imgur.com
