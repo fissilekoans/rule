@@ -58,32 +58,6 @@ IP-CIDR,143.92.82.119/32
 IP-CIDR,143.92.88.1/32
 IP-CIDR,23.46.16.134/32
 
-# 通用
-DOMAIN-WILDCARD,ad.*
-DOMAIN-WILDCARD,adimage.*
-DOMAIN-WILDCARD,adimages.*
-DOMAIN-WILDCARD,adimg.*
-DOMAIN-WILDCARD,ads.*
-DOMAIN-WILDCARD,adserv.*
-DOMAIN-WILDCARD,adserver.*
-DOMAIN-WILDCARD,adservers.*
-DOMAIN-WILDCARD,adsystem.*
-DOMAIN-WILDCARD,adtrack.*
-DOMAIN-WILDCARD,adtracker.*
-DOMAIN-WILDCARD,adtracking.*
-DOMAIN-WILDCARD,advertisements.*
-DOMAIN-WILDCARD,advertising.*
-DOMAIN-WILDCARD,adverts.*
-DOMAIN-WILDCARD,banners.*
-DOMAIN-WILDCARD,beacons.*
-DOMAIN-WILDCARD,count.*
-DOMAIN-WILDCARD,counters.*
-DOMAIN-WILDCARD,datacapture.*
-DOMAIN-WILDCARD,mads.*
-DOMAIN-WILDCARD,pixels.*
-DOMAIN-WILDCARD,qltuh.*
-DOMAIN-WILDCARD,sentry.*
-
 # 7mmtv,njav
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
 # URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/css\/owl\.carousel\.min\.css$
