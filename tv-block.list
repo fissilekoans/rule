@@ -45,13 +45,14 @@ DOMAIN,doh.dns.apple.com.v.aaplimg.com
 DOMAIN,dem.shopee.com
 DOMAIN,dem.exp.shopee.io
 DOMAIN,msdk.shopee.tw
-DOMAIN,beacons.gvt2.com
 DOMAIN,df.infra.shopee.tw
 DOMAIN,df.infra.test.shopee.sg
 DOMAIN,log-collector.shopee.tw
 DOMAIN,c-api-bit.shopeemobile.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN,www.googletagmanager.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,tracking.shopee.tw
 DOMAIN-SUFFIX,livetech.shopee.tw
