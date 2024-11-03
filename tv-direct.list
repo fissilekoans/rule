@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,iwork.apple.com
+IP-CIDR,17.188.0.1/16
 
 # Apple Intelligence, Siri, and Search
 DOMAIN,guzzoni.apple.com
