@@ -1,5 +1,7 @@
 # NAME: direct
 
+IP-CIDR,17.188.0.1/16
+
 # other
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,post.gov.tw
