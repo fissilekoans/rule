@@ -7,7 +7,7 @@ DOMAIN,asia.analytics.controld.com
 # DOMAIN-SUFFIX,ptt.cc
 
 # ???
-DOMAIN-SUFFIX,wnacg.com
-DOMAIN-SUFFIX,upaiyun.com
-DOMAIN-SUFFIX,qy0.ru
-DOMAIN,ocsp.trust-provider.cn
+# DOMAIN-SUFFIX,wnacg.com
+# DOMAIN-SUFFIX,upaiyun.com
+# DOMAIN-SUFFIX,qy0.ru
+# DOMAIN,ocsp.trust-provider.cn
