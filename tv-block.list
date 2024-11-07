@@ -6,6 +6,9 @@ DOMAIN,ichnaea-web.netflix.com
 DOMAIN,graph.facebook.com
 DOMAIN,connect.facebook.net
 DOMAIN,xp.apple.com
+DOMAIN,dns.google.com
+DOMAIN,dns.google
+DOMAIN,mozilla.cloudflare-dns.com
 
 # ???
 DOMAIN,geller-pa.googleapis.com
