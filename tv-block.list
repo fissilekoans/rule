@@ -38,10 +38,14 @@ IP-CIDR,0.0.0.0/32
 # iCloud Private Relay
 DOMAIN,mask.icloud.com
 DOMAIN,mask-h2.icloud.com
-# DOMAIN,mask-api.icloud.com
-DOMAIN-WILDCARD,mask*.apple-dns.net
+DOMAIN,apple-relay.akamaized.net
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.mask.apple-dns.net
 DOMAIN,doh.dns.apple.com
 DOMAIN,doh.dns.apple.com.v.aaplimg.com
+DOMAIN-WILDCARD,mask*.apple-dns.net
 
 # shopee
 DOMAIN,dem.shopee.com
