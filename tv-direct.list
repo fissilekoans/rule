@@ -63,7 +63,7 @@ DOMAIN,lcdn-locator.apple.com
 # Certificate validation
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
-USER-AGENT,com.apple.trustd*
+# USER-AGENT,com.apple.trustd*
 
 # iCloud
 DOMAIN-SUFFIX,apple-cloudkit.com
