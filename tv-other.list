@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,mzstatic.com
 # microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,msedge.net
@@ -78,6 +79,7 @@ DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,gamepass.com
