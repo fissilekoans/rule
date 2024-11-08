@@ -2,7 +2,7 @@
 
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
-DOMAIN,theater-kktv.cdn.hinet.net
+# DOMAIN,theater-kktv.cdn.hinet.net
 
 # steam
 DOMAIN,steamcommunity.com
@@ -42,12 +42,7 @@ DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,pki.goog
 
 # imgur
-# DOMAIN-SUFFIX,imgur.com
-
-# ???
-# DOMAIN-SUFFIX,wnacg.com
-# DOMAIN-SUFFIX,upaiyun.com
-# DOMAIN-SUFFIX,qy0.ru
+DOMAIN-SUFFIX,imgur.com
 
 # Apple
 DOMAIN,token.safebrowsing.apple
@@ -70,6 +65,18 @@ DOMAIN-SUFFIX,mzstatic.com
 # DOMAIN-SUFFIX,icloud.apple.com
 # DOMAIN-SUFFIX,icloud-content.com
 # USER-AGENT,com.apple.trustd*
+
+# microsoft
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,msn.com
 
 SRC-IP,192.168.88.104/32
 # SRC-IP,192.168.88.226/32
