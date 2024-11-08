@@ -80,6 +80,10 @@ DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,sfx.ms
 
 SRC-IP,192.168.88.104/32
 # SRC-IP,192.168.88.226/32
