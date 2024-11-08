@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,windowsupdate.com
 
 SRC-IP,192.168.88.104/32
 # SRC-IP,192.168.88.226/32
