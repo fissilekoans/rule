@@ -4,6 +4,7 @@ DOMAIN-WILDCARD,ocsp.*
 DOMAIN-WILDCARD,ocsp2.*
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,digicert.com
+
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 # DOMAIN,theater-kktv.cdn.hinet.net
@@ -23,6 +24,9 @@ DOMAIN-WILDCARD,steamcloud*
 # DOMAIN-SUFFIX,jtvnw.net
 # DOMAIN-SUFFIX,ttvnw.net
 # DOMAIN-SUFFIX,twitchcdn.net
+
+# imgur
+DOMAIN-SUFFIX,imgur.com
 
 # wiki
 # DOMAIN-SUFFIX,wikipedia.org
@@ -46,10 +50,6 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,pki.goog
 
-
-# imgur
-DOMAIN-SUFFIX,imgur.com
-
 # Apple
 DOMAIN,token.safebrowsing.apple
 DOMAIN,proxy.safebrowsing.apple
@@ -67,10 +67,10 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
+USER-AGENT,com.apple.trustd*
 # DOMAIN-SUFFIX,icloud.com
 # DOMAIN-SUFFIX,icloud.apple.com
 # DOMAIN-SUFFIX,icloud-content.com
-# USER-AGENT,com.apple.trustd*
 
 # microsoft
 DOMAIN-SUFFIX,microsoft.com
