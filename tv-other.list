@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,digicert.com
 
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
-# DOMAIN,theater-kktv.cdn.hinet.net
+DOMAIN,theater-kktv.cdn.hinet.net
 
 # steam
 DOMAIN,steamcommunity.com
