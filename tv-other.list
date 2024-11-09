@@ -2,6 +2,8 @@
 
 DOMAIN-WILDCARD,ocsp.*
 DOMAIN-WILDCARD,ocsp2.*
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 # DOMAIN,theater-kktv.cdn.hinet.net
