@@ -30,9 +30,10 @@ DOMAIN-WILDCARD,steamcloud*
 # DOMAIN-SUFFIX,twitter.com
 # DOMAIN-SUFFIX,twimg.com
 
-# Google
+# YouTube
 DOMAIN,youtu.be
 DOMAIN,write.as
+DOMAIN,invidious.jing.rocks
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ggpht.com
@@ -42,6 +43,7 @@ DOMAIN-SUFFIX,invidious.io
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,pki.goog
+
 
 # imgur
 DOMAIN-SUFFIX,imgur.com
