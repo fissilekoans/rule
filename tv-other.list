@@ -70,25 +70,29 @@ DOMAIN-SUFFIX,mzstatic.com
 
 # microsoft
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,gamepass.com
-DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azureedge.net
-DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,virtualearth.net
 
 SRC-IP,192.168.88.104/32
