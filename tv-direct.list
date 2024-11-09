@@ -61,8 +61,8 @@ DOMAIN,sylvan.apple.com
 DOMAIN,lcdn-locator.apple.com
 
 # Certificate validation
-DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2.apple.com
+# DOMAIN,ocsp.apple.com
+# DOMAIN,ocsp2.apple.com
 # USER-AGENT,com.apple.trustd*
 
 # iCloud
@@ -74,7 +74,6 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,iwork.apple.com
-IP-CIDR,17.188.0.1/16
 
 # Apple Intelligence, Siri, and Search
 DOMAIN,guzzoni.apple.com
