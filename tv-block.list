@@ -10,11 +10,12 @@ DOMAIN,dns.google.com
 DOMAIN,dns.google
 DOMAIN,mozilla.cloudflare-dns.com
 DOMAIN,metrics.icloud.com
-
-# ???
 DOMAIN,geller-pa.googleapis.com
 DOMAIN,patronus.idata.shopeemobile.com
 DOMAIN,clienttracing-pa.googleapis.com
+
+# ???
+DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
