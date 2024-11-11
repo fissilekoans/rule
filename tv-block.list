@@ -18,8 +18,10 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,telemetry.intel.com
 
 DOMAIN-WILDCARD,stun.*
+DOMAIN-WILDCARD,*.stun.*
 
 # 擋掉微軟爛的伺服器
 IP-CIDR,172.82.0.1/24
