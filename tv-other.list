@@ -33,9 +33,9 @@ DOMAIN-SUFFIX,imgur.com
 # DOMAIN-SUFFIX,wikipedia.org
 
 # x
-# DOMAIN-SUFFIX,x.com
-# DOMAIN-SUFFIX,twitter.com
-# DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
 
 # YouTube
 DOMAIN,youtu.be
