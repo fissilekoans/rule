@@ -109,6 +109,10 @@ DOMAIN-SUFFIX,virtualearth.net
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fbcdn.net
 
+# search
+DOMAIN,search.bus-hit.me
+DOMAIN-SUFFIX,duckduckgo.com
+
 SRC-IP,192.168.88.104/32
 # SRC-IP,192.168.88.226/32
 # SRC-IP,192.168.88.253/32
