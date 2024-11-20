@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,smoot.apple.com
 # DOMAIN,apple-relay.cloudflare.com
 # DOMAIN,apple-relay.fastly-edge.com
 # DOMAIN,cp4.cloudflare.com
+# DOMAIN,apple-relay.apple.com
 
 # Associated Domains
 DOMAIN,app-site-association.networking.apple
