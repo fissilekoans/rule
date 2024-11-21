@@ -5,8 +5,6 @@ DOMAIN-WILDCARD,ocsp2.*
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,digicert.com
 
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
 DOMAIN,redlib.freedit.eu
 DOMAIN,theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX,immersivetranslate.com
@@ -112,6 +110,12 @@ DOMAIN-SUFFIX,fbcdn.net
 # search
 DOMAIN,search.bus-hit.me
 DOMAIN-SUFFIX,duckduckgo.com
+
+# github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
 
 SRC-IP,192.168.88.104/32
 # SRC-IP,192.168.88.226/32
