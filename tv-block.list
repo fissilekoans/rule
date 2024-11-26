@@ -13,6 +13,7 @@ DOMAIN,metrics.icloud.com
 DOMAIN,geller-pa.googleapis.com
 DOMAIN,patronus.idata.shopeemobile.com
 DOMAIN,clienttracing-pa.googleapis.com
+DOMAIN,assets.activity.windows.com
 
 # ???
 DOMAIN-SUFFIX,bugsnag.com
