@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,taipower.com.tw
 # 台灣大哥大
 DOMAIN-SUFFIX,taiwanmobile.com
 DOMAIN-SUFFIX,taiwanmobile.net
+
+# kktv
+DOMAIN-SUFFIX,kktv.me
