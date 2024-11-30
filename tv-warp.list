@@ -1,8 +1,13 @@
 # NAME: warp
 
-# DOMAIN,asia.analytics.controld.com
-
 # ???
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,edu.tw
 DOMAIN-SUFFIX,org.tw
+
+# 台灣電力公司
+DOMAIN,taipower.com.tw
+
+# 台灣大哥大
+DOMAIN-SUFFIX,taiwanmobile.com
+DOMAIN-SUFFIX,taiwanmobile.net
