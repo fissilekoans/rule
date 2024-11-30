@@ -3,11 +3,6 @@
 # DOMAIN,asia.analytics.controld.com
 
 # ???
-# DOMAIN-SUFFIX,finalaa.win
-DOMAIN-SUFFIX,dcard.tw
-
-# ???
-# DOMAIN-SUFFIX,wnacg.com
-# DOMAIN-SUFFIX,upaiyun.com
-# DOMAIN-SUFFIX,qy0.ru
-# DOMAIN,ocsp.trust-provider.cn
+DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,edu.tw
+DOMAIN-SUFFIX,org.tw
