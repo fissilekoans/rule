@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,taiwanmobile.net
 # kktv
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,hinet.net
+
+# hinet
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,emome.net
