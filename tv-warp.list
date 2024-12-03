@@ -23,19 +23,3 @@ DOMAIN-SUFFIX,hinet.net
 # hinet
 DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,emome.net
-
-# pchome24
-DOMAIN-SUFFIX,a.run.app
-DOMAIN-SUFFIX,pchome.com.tw
-DOMAIN-SUFFIX,pcloud.tw
-DOMAIN-SUFFIX,ecimg.tw
-DOMAIN-SUFFIX,pchome.tw
-
-# momo
-DOMAIN-SUFFIX,momo.com.tw
-DOMAIN-SUFFIX,momoshop.com.tw
-DOMAIN-SUFFIX,momo.dm
-DOMAIN-SUFFIX,momopay.com.tw
-
-# Panasonic
-DOMAIN,ems2.panasonic.com.tw
