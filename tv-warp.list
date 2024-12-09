@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,taiwanlife.com
 
 # kktv
 DOMAIN-SUFFIX,kktv.me
-DOMAIN,theater.kktv.com.tw
+DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,hinet.net
 
 # hinet
