@@ -26,9 +26,15 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,api.sentry.susercontent.com
 DOMAIN-SUFFIX,telemetry.intel.com
 
-IP-CIDR,95.161.76.100/31
+# stun
+DOMAIN,hw-v2-web-player-tracker.biliapi.net
+DOMAIN,meet-jit-si-turnrelay.jitsi.net
 DOMAIN-WILDCARD,stun.*
+DOMAIN-WILDCARD,stunserver.*
+DOMAIN-WILDCARD,stun*.*
 DOMAIN-WILDCARD,*.stun.*
+DOMAIN-WILDCARD,*.turn.*
+IP-CIDR,39.107.142.158
 
 # 擋掉微軟爛的伺服器
 IP-CIDR,172.82.0.1/24
