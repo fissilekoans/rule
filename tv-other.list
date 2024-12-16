@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitchcdn.net
 
 # imgur
-# DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imgur.com
 
 # wiki
 # DOMAIN-SUFFIX,wikipedia.org
