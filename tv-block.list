@@ -13,6 +13,7 @@ DOMAIN,mozilla.cloudflare-dns.com
 DOMAIN,a-ring.msedge.net
 DOMAIN,metrics.icloud.com
 DOMAIN,geller-pa.googleapis.com
+DOMAIN,default.exp-tas.com
 DOMAIN,patronus.idata.shopeemobile.com
 DOMAIN,clienttracing-pa.googleapis.com
 DOMAIN,assets.activity.windows.com
