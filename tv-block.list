@@ -18,6 +18,7 @@ DOMAIN,patronus.idata.shopeemobile.com
 DOMAIN,clienttracing-pa.googleapis.com
 DOMAIN,assets.activity.windows.com
 DOMAIN,partiality.itunes.apple.com
+DOMAIN,normandy.cdn.mozilla.net
 
 # ???
 DOMAIN-SUFFIX,bugsnag.com
