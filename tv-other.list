@@ -2,6 +2,7 @@
 
 DOMAIN-WILDCARD,ocsp.*
 DOMAIN-WILDCARD,ocsp2.*
+DOMAIN-WILDCARD,ocsps.*
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,digicert.com
 
