@@ -40,6 +40,7 @@ DOMAIN-WILDCARD,*.turn.*
 IP-CIDR,39.107.142.158/32
 
 # 擋掉微軟爛的伺服器跟tracker
+DOMAIN,arc.msn.com
 DOMAIN,settings-win.data.microsoft.com
 DOMAIN-SUFFIX,activity.windows.com
 DOMAIN-SUFFIX,events.data.microsoft.com
