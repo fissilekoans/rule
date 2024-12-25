@@ -40,7 +40,10 @@ DOMAIN-WILDCARD,*.stun.*
 DOMAIN-WILDCARD,*.turn.*
 IP-CIDR,39.107.142.158/32
 
-# 擋掉微軟爛的伺服器
+# 擋掉微軟爛的伺服器跟tracker
+DOMAIN,activity.windows.com
+DOMAIN,settings-win.data.microsoft.com
+DOMAIN-SUFFIX,events.data.microsoft.com
 IP-CIDR,172.82.0.1/24
 IP-CIDR,103.1.215.171/32
 
