@@ -14,7 +14,6 @@ DOMAIN,mozilla.cloudflare-dns.com
 DOMAIN,a-ring.msedge.net
 DOMAIN,metrics.icloud.com
 DOMAIN,geller-pa.googleapis.com
-DOMAIN,default.exp-tas.com
 DOMAIN,patronus.idata.shopeemobile.com
 DOMAIN,clienttracing-pa.googleapis.com
 DOMAIN,partiality.itunes.apple.com
@@ -41,6 +40,7 @@ IP-CIDR,39.107.142.158/32
 
 # 擋掉微軟爛的伺服器跟tracker
 DOMAIN,arc.msn.com
+DOMAIN,default.exp-tas.com
 DOMAIN,settings-win.data.microsoft.com
 DOMAIN-SUFFIX,activity.windows.com
 DOMAIN-SUFFIX,events.data.microsoft.com
