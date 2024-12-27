@@ -22,6 +22,9 @@ DOMAIN,normandy.cdn.mozilla.net
 # ???
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,telemetry.mozilla.org
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,sentry.io
@@ -40,6 +43,7 @@ IP-CIDR,39.107.142.158/32
 
 # 擋掉微軟爛的伺服器跟tracker
 DOMAIN,arc.msn.com
+DOMAIN,bat.bing.com
 DOMAIN,default.exp-tas.com
 DOMAIN,settings-win.data.microsoft.com
 DOMAIN-SUFFIX,activity.windows.com
