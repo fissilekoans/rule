@@ -18,6 +18,8 @@ DOMAIN,patronus.idata.shopeemobile.com
 DOMAIN,clienttracing-pa.googleapis.com
 DOMAIN,partiality.itunes.apple.com
 DOMAIN,normandy.cdn.mozilla.net
+DOMAIN,shope.ee
+DOMAIN,s.shopee.tw
 
 # ???
 DOMAIN-SUFFIX,bugsnag.com
