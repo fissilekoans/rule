@@ -20,6 +20,8 @@ DOMAIN,partiality.itunes.apple.com
 DOMAIN,normandy.cdn.mozilla.net
 DOMAIN,shope.ee
 DOMAIN,s.shopee.tw
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,s.gravatar.com
 
 # ???
 DOMAIN-SUFFIX,bugsnag.com
