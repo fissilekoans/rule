@@ -25,13 +25,13 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
 
 # Apple
-DOMAIN,aod.itunes.apple.com
-DOMAIN,gs-loc.apple.com
-DOMAIN,mvod.itunes.apple.com
-DOMAIN,streamingaudio.itunes.apple.com
-DOMAIN-SUFFIX,ls.apple.com
-DOMAIN-SUFFIX,ess.apple.com
-DOMAIN-SUFFIX,push-apple.com.akadns.net
+# DOMAIN,aod.itunes.apple.com
+# DOMAIN,gs-loc.apple.com
+# DOMAIN,mvod.itunes.apple.com
+# DOMAIN,streamingaudio.itunes.apple.com
+# DOMAIN-SUFFIX,ls.apple.com
+# DOMAIN-SUFFIX,ess.apple.com
+# DOMAIN-SUFFIX,push-apple.com.akadns.net
 
 # Apple Push Notifications
 # Device setup
@@ -61,13 +61,19 @@ DOMAIN,sylvan.apple.com
 DOMAIN,lcdn-locator.apple.com
 
 # Certificate validation
+DOMAIN,certs.apple.com
+DOMAIN,crl.apple.com
+DOMAIN,crl3.digicert.com
+DOMAIN,crl4.digicert.com
 # DOMAIN,ocsp.apple.com
+# DOMAIN,ocsp.digicert.com
 # DOMAIN,ocsp2.apple.com
 # USER-AGENT,com.apple.trustd*
 
 # iCloud
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,gc.apple.com
 DOMAIN-SUFFIX,icloud.com
@@ -78,10 +84,10 @@ DOMAIN-SUFFIX,iwork.apple.com
 # Apple Intelligence, Siri, and Search
 DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
-# DOMAIN,apple-relay.cloudflare.com
-# DOMAIN,apple-relay.fastly-edge.com
-# DOMAIN,cp4.cloudflare.com
-# DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,apple-relay.apple.com
 
 # Associated Domains
 DOMAIN,app-site-association.networking.apple
