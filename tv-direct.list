@@ -1,28 +1,34 @@
 # NAME: direct
 
-# other
+# 銀行
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,post.gov.tw
+# 醫院
+DOMAIN-SUFFIX,cch.org.tw
+DOMAIN-SUFFIX,mohw.gov.tw
+# 統一發票(還有兼職ocsp)
+DOMAIN-SUFFIX,nat.gov.tw
+# 台灣人壽
 DOMAIN-SUFFIX,taiwanlife.com
-DOMAIN-SUFFIX,ptt.cc
 
-# openai
+# OpenAI
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,featureassets.org
 
-# oracle
-IP-CIDR,150.230.59.212/32
-IP-CIDR,64.110.103.244/32
-
-# netflix
+# Netflix
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
+
+# SSH
+IP-CIDR,150.230.59.212/32
+IP-CIDR,64.110.103.244/32
 
 # Apple
 # DOMAIN,aod.itunes.apple.com
