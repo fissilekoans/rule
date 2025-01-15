@@ -18,10 +18,6 @@ DOMAIN-SUFFIX,taiwanmobile.net
 # kktv
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kktv.com.tw
-
-# hinet
-DOMAIN-SUFFIX,cht.com.tw
-DOMAIN-SUFFIX,emome.net
 DOMAIN-SUFFIX,hinet.net
 
 SRC-IP,192.168.88.226/32
