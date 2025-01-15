@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,api.sentry.susercontent.com
 DOMAIN-SUFFIX,telemetry.intel.com
+DOMAIN-SUFFIX,datadoghq.com
 
 # stun
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
