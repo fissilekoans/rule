@@ -21,11 +21,10 @@ DOMAIN-SUFFIX,taiwanlife.com
 # kktv
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,hinet.net
 
 # hinet
 DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,hinet.net
 
 SRC-IP,192.168.88.226/32
-SRC-IP,192.168.88.254/32
