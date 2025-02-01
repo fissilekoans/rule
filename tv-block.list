@@ -49,7 +49,7 @@ DOMAIN,arc.msn.com
 DOMAIN,bat.bing.com
 DOMAIN,settings-win.data.microsoft.com
 DOMAIN,activity.windows.com
-DOMAIN,events.data.microsoft.com
+DOMAIN-SUFFIX,events.data.microsoft.com
 # IP-CIDR,172.82.0.1/24
 # IP-CIDR,103.1.215.171/32
 
