@@ -1,38 +1,37 @@
 # NAME: block
 
-DOMAIN,logs.netflix.com
-DOMAIN,ichnaea.netflix.com
-DOMAIN,ichnaea-web.netflix.com
-DOMAIN,one.one.one.one
+# DOMAIN,logs.netflix.com
+# DOMAIN,ichnaea.netflix.com
+# DOMAIN,ichnaea-web.netflix.com
+# DOMAIN,a-ring.msedge.net
+# DOMAIN,fp.msedge.net
+# DOMAIN,metrics.icloud.com
+# DOMAIN,clienttracing-pa.googleapis.com
+# DOMAIN,partiality.itunes.apple.com
+# DOMAIN,normandy.cdn.mozilla.net
+# DOMAIN,browser-intake-datadoghq.com
 # DOMAIN,graph.facebook.com
 # DOMAIN,connect.facebook.net
-# DOMAIN,xp.apple.com
+DOMAIN,one.one.one.one
+DOMAIN,xp.apple.com
 DOMAIN,dns.google.com
 DOMAIN,dns.google
 DOMAIN,dns.quad9.net
 DOMAIN,mozilla.cloudflare-dns.com
-DOMAIN,a-ring.msedge.net
-DOMAIN,fp.msedge.net
-DOMAIN,metrics.icloud.com
-DOMAIN,patronus.idata.shopeemobile.com
-DOMAIN,clienttracing-pa.googleapis.com
-DOMAIN,partiality.itunes.apple.com
-DOMAIN,normandy.cdn.mozilla.net
-DOMAIN,browser-intake-datadoghq.com
 
 # ???
-DOMAIN-SUFFIX,bugsnag.com
-DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,telemetry.mozilla.org
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,api.sentry.susercontent.com
-DOMAIN-SUFFIX,telemetry.intel.com
-DOMAIN,default.exp-tas.com
-DOMAIN-SUFFIX,logs.datadoghq.com
+# DOMAIN-SUFFIX,bugsnag.com
+# DOMAIN-SUFFIX,appsflyersdk.com
+# DOMAIN-SUFFIX,app-measurement.com
+# DOMAIN-SUFFIX,telemetry.mozilla.org
+# DOMAIN-SUFFIX,crashlytics.com
+# DOMAIN-SUFFIX,doubleclick.net
+# DOMAIN-SUFFIX,google-analytics.com
+# DOMAIN-SUFFIX,sentry.io
+# DOMAIN-SUFFIX,api.sentry.susercontent.com
+# DOMAIN-SUFFIX,telemetry.intel.com
+# DOMAIN,default.exp-tas.com
+# DOMAIN-SUFFIX,logs.datadoghq.com
 
 # stun
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
@@ -87,6 +86,7 @@ DOMAIN,c-api-bit.shopeemobile.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,down-ws-sg.com
 DOMAIN,ccms.shopee.io
+DOMAIN,patronus.idata.shopeemobile.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,garena.com
