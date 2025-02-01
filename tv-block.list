@@ -18,8 +18,6 @@ DOMAIN,patronus.idata.shopeemobile.com
 DOMAIN,clienttracing-pa.googleapis.com
 DOMAIN,partiality.itunes.apple.com
 DOMAIN,normandy.cdn.mozilla.net
-DOMAIN,shope.ee
-DOMAIN,s.shopee.tw
 DOMAIN,browser-intake-datadoghq.com
 
 # ???
@@ -33,7 +31,8 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,api.sentry.susercontent.com
 DOMAIN-SUFFIX,telemetry.intel.com
-DOMAIN-SUFFIX,datadoghq.com
+DOMAIN,default.exp-tas.com
+# DOMAIN-SUFFIX,datadoghq.com
 
 # stun
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
@@ -48,12 +47,11 @@ IP-CIDR,39.107.142.158/32
 # 擋掉微軟爛的伺服器跟tracker
 DOMAIN,arc.msn.com
 DOMAIN,bat.bing.com
-DOMAIN,default.exp-tas.com
 DOMAIN,settings-win.data.microsoft.com
-DOMAIN-SUFFIX,activity.windows.com
-DOMAIN-SUFFIX,events.data.microsoft.com
-IP-CIDR,172.82.0.1/24
-IP-CIDR,103.1.215.171/32
+DOMAIN,activity.windows.com
+DOMAIN,events.data.microsoft.com
+# IP-CIDR,172.82.0.1/24
+# IP-CIDR,103.1.215.171/32
 
 # ???
 # PROTOCOL,STUN
@@ -65,18 +63,20 @@ IP-CIDR,0.0.0.0/32
 # IP-CIDR,169.254.0.0/16
 
 # iCloud Private Relay
+DOMAIN,doh.dns.apple.com.v.aaplimg.com
 DOMAIN,mask.icloud.com
 DOMAIN,mask-h2.icloud.com
+DOMAIN-WILDCARD,mask*.apple-dns.net
+DOMAIN,doh.dns.apple.com
 DOMAIN,apple-relay.akamaized.net
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apple-relay.mask.apple-dns.net
-DOMAIN,doh.dns.apple.com
-DOMAIN,doh.dns.apple.com.v.aaplimg.com
-DOMAIN-WILDCARD,mask*.apple-dns.net
 
 # shopee
+DOMAIN,shope.ee
+DOMAIN,s.shopee.tw
 DOMAIN,dem.shopee.com
 DOMAIN,dem.exp.shopee.io
 DOMAIN,msdk.shopee.tw
