@@ -10,7 +10,6 @@
 # DOMAIN,partiality.itunes.apple.com
 # DOMAIN,normandy.cdn.mozilla.net
 # DOMAIN,browser-intake-datadoghq.com
-# DOMAIN,graph.facebook.com
 # DOMAIN,connect.facebook.net
 DOMAIN,one.one.one.one
 DOMAIN,xp.apple.com
@@ -74,6 +73,7 @@ DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apple-relay.mask.apple-dns.net
 
 # shopee
+DOMAIN,graph.facebook.com
 DOMAIN,shope.ee
 DOMAIN,s.shopee.tw
 DOMAIN,dem.shopee.com
