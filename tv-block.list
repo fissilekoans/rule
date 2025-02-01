@@ -4,16 +4,16 @@ DOMAIN,logs.netflix.com
 DOMAIN,ichnaea.netflix.com
 DOMAIN,ichnaea-web.netflix.com
 DOMAIN,one.one.one.one
-DOMAIN,graph.facebook.com
-DOMAIN,connect.facebook.net
-DOMAIN,xp.apple.com
+# DOMAIN,graph.facebook.com
+# DOMAIN,connect.facebook.net
+# DOMAIN,xp.apple.com
 DOMAIN,dns.google.com
 DOMAIN,dns.google
 DOMAIN,dns.quad9.net
 DOMAIN,mozilla.cloudflare-dns.com
 DOMAIN,a-ring.msedge.net
+DOMAIN,fp.msedge.net
 DOMAIN,metrics.icloud.com
-DOMAIN,geller-pa.googleapis.com
 DOMAIN,patronus.idata.shopeemobile.com
 DOMAIN,clienttracing-pa.googleapis.com
 DOMAIN,partiality.itunes.apple.com
@@ -21,7 +21,6 @@ DOMAIN,normandy.cdn.mozilla.net
 DOMAIN,shope.ee
 DOMAIN,s.shopee.tw
 DOMAIN,browser-intake-datadoghq.com
-DOMAIN,s.gravatar.com
 
 # ???
 DOMAIN-SUFFIX,bugsnag.com
