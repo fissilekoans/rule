@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,api.sentry.susercontent.com
 DOMAIN-SUFFIX,telemetry.intel.com
 DOMAIN,default.exp-tas.com
-# DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,logs.datadoghq.com
 
 # stun
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
