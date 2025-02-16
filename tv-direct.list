@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,mohw.gov.tw
 DOMAIN-SUFFIX,nat.gov.tw
 # 台灣人壽
 DOMAIN-SUFFIX,taiwanlife.com
+# finalaa
+DOMAIN-SUFFIX,finalaa.win
 
 # OpenAI
 DOMAIN-SUFFIX,openai.com
