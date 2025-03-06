@@ -32,6 +32,13 @@ DOMAIN-SUFFIX,nflxvideo.net
 IP-CIDR,150.230.59.212/32
 IP-CIDR,64.110.103.244/32
 
+# Hinet
+IP-CIDR,17.188.0.1/16
+IP-CIDR,223.138.0.1/16
+IP-CIDR,223.141.0.1/16
+IP-CIDR,42.76.0.1/16
+IP-CIDR,111.82.0.1/15
+
 # Apple
 # DOMAIN,aod.itunes.apple.com
 # DOMAIN,gs-loc.apple.com
