@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,taiwanlife.com
 # finalaa
 # DOMAIN-SUFFIX,finalaa.win
 # ptt
-# DOMAIN-SUFFIX,ptt.cc
+DOMAIN-SUFFIX,ptt.cc
 
 # OpenAI
 DOMAIN-SUFFIX,openai.com
