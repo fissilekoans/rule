@@ -1,23 +1,23 @@
 # NAME: TW
 
 # time
-DEST-PORT,123
+# DEST-PORT,123
 
 # ???
-DOMAIN-SUFFIX,gov.tw
-DOMAIN-SUFFIX,edu.tw
-DOMAIN-SUFFIX,org.tw
+# DOMAIN-SUFFIX,gov.tw
+# DOMAIN-SUFFIX,edu.tw
+# DOMAIN-SUFFIX,org.tw
 
 # 台灣電力公司
-DOMAIN-SUFFIX,taipower.com.tw
+# DOMAIN-SUFFIX,taipower.com.tw
 
 # 台灣大哥大
-DOMAIN-SUFFIX,taiwanmobile.com
-DOMAIN-SUFFIX,taiwanmobile.net
+# DOMAIN-SUFFIX,taiwanmobile.com
+# DOMAIN-SUFFIX,taiwanmobile.net
 
 # kktv
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,hinet.net
+# DOMAIN-SUFFIX,hinet.net
 
 SRC-IP,192.168.88.226/32
