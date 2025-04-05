@@ -8,6 +8,7 @@ DOMAIN,mozilla.cloudflare-dns.com
 DOMAIN,a.nel.cloudflare.com
 DOMAIN,fp.msedge.net
 DOMAIN,logs.netflix.com
+DOMAIN,metrics.icloud.com
 DOMAIN-SUFFIX,xp.apple.com
 
 # stun
