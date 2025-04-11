@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,taiwanlife.com
 # ptt
 DOMAIN-SUFFIX,ptt.cc
 # time
-DOMAIN,time.windows.com
+DEST-PORT,123
 
 # OpenAI
 DOMAIN-SUFFIX,openai.com
