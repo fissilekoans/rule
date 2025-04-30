@@ -20,4 +20,7 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN,theater-kktv.cdn.hinet.net
 
+
+DOMAIN-SUFFIX,imgur.com
+
 SRC-IP,192.168.88.226/32
