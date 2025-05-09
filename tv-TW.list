@@ -27,8 +27,8 @@ DOMAIN-SUFFIX,imgur.com
 SRC-IP,192.168.88.226/32
 
 # test
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,x.com
+# DOMAIN-SUFFIX,pscp.tv
+# DOMAIN-SUFFIX,twimg.com
+# DOMAIN-SUFFIX,twitter.com
+# DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,ltn.com.tw
