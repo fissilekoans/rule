@@ -31,4 +31,4 @@ SRC-IP,192.168.88.226/32
 # DOMAIN-SUFFIX,twimg.com
 # DOMAIN-SUFFIX,twitter.com
 # DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,ltn.com.tw
+# DOMAIN-SUFFIX,ltn.com.tw
