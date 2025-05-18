@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazon-adsystem.com
 
 # youtube
 DOMAIN-SUFFIX,youtube.com
