@@ -11,3 +11,8 @@ DOMAIN-SUFFIX,amazonaws.com
 # youtube
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
+
+# X
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
