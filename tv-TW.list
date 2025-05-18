@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,imgur.com
 
 SRC-IP,192.168.88.226/32
+SRC-IP,192.168.88.104/32
 
 # test
 # DOMAIN-SUFFIX,pscp.tv
