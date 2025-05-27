@@ -1,19 +1,34 @@
 # NAME: TW
 
-# time
-# DEST-PORT,123
-
 # ???
-# DOMAIN-SUFFIX,gov.tw
-# DOMAIN-SUFFIX,edu.tw
-# DOMAIN-SUFFIX,org.tw
+DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,edu.tw
+DOMAIN-SUFFIX,org.tw
 
 # 台灣電力公司
-# DOMAIN-SUFFIX,taipower.com.tw
+DOMAIN-SUFFIX,taipower.com.tw
 
 # 台灣大哥大
-# DOMAIN-SUFFIX,taiwanmobile.com
-# DOMAIN-SUFFIX,taiwanmobile.net
+DOMAIN-SUFFIX,taiwanmobile.com
+DOMAIN-SUFFIX,taiwanmobile.net
+DOMAIN-SUFFIX,myfone.com.tw
+
+# pchome24
+DOMAIN-SUFFIX,a.run.app
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pcloud.tw
+DOMAIN-SUFFIX,ecimg.tw
+DOMAIN-SUFFIX,pchome.tw
+
+# momo
+DOMAIN-SUFFIX,momo.com.tw
+DOMAIN-SUFFIX,momoshop.com.tw
+DOMAIN-SUFFIX,momo.dm
+DOMAIN-SUFFIX,momopay.com.tw
+
+# uniqlo
+DOMAIN-SUFFIX,uniqlo.com
+DOMAIN-SUFFIX,uniqlo.tw
 
 # kktv
 DOMAIN-SUFFIX,kktv.me
@@ -28,8 +43,8 @@ SRC-IP,192.168.88.226/32
 SRC-IP,192.168.88.104/32
 
 # test
-# DOMAIN-SUFFIX,pscp.tv
-# DOMAIN-SUFFIX,twimg.com
-# DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,api.beptt.cc
+DOMAIN-SUFFIX,api.putyputy.com
 # DOMAIN-SUFFIX,x.com
 # DOMAIN-SUFFIX,ltn.com.tw
