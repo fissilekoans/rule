@@ -44,7 +44,7 @@ SRC-IP,192.168.88.104/32
 
 # test
 DOMAIN-SUFFIX,com.tw
-DOMAIN-SUFFIX,api.beptt.cc
-DOMAIN-SUFFIX,api.putyputy.com
+# DOMAIN-SUFFIX,api.beptt.cc
+DOMAIN-SUFFIX,forum.jorsindo.com
 # DOMAIN-SUFFIX,x.com
 # DOMAIN-SUFFIX,ltn.com.tw
