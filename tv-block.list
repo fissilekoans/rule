@@ -1,10 +1,11 @@
 # NAME: block
 
-DOMAIN,one.one.one.one
-DOMAIN,dns.google.com
-DOMAIN,dns.google
-DOMAIN,dns.quad9.net
-DOMAIN,mozilla.cloudflare-dns.com
+# DOMAIN,one.one.one.one
+# DOMAIN,dns.google.com
+# DOMAIN,dns.google
+# DOMAIN,dns.quad9.net
+# DOMAIN,mozilla.cloudflare-dns.com
+
 DOMAIN,a.nel.cloudflare.com
 DOMAIN,fp.msedge.net
 DOMAIN,logs.netflix.com
