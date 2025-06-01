@@ -37,7 +37,7 @@ DOMAIN,theater-kktv.cdn.hinet.net
 
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,cht.com.tw
-DOMAIN-SUFFIX,i.imgur.com
+# DOMAIN-SUFFIX,i.imgur.com
 
 SRC-IP,192.168.88.226/32
 SRC-IP,192.168.88.104/32
