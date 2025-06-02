@@ -25,3 +25,6 @@ DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,t.me
+
+# test
+DOMAIN,i.imgur.com
