@@ -27,5 +27,4 @@ DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,t.me
 
 # test
-DOMAIN,i.imgur.com
-DOMAIN,imgur.com
+DOMAIN-SUFFIX,imgur.com
