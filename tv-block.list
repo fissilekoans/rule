@@ -45,10 +45,10 @@ DOMAIN,wrr.mask.apple-dns.net
 DOMAIN,south-america-mask.wrr.mask.apple-dns.net
 DOMAIN,north-america-mask.wrr.mask.apple-dns.net
 DOMAIN,mask.icloud.com
+DOMAIN,mask.apple-dns.net
 DOMAIN,mask-h2.icloud.com
 DOMAIN,mask-canary.icloud.com
 DOMAIN,mask-boot.icloud.com
-DOMAIN,mask.apple-dns.net
 DOMAIN,mask-api.icloud.com
 DOMAIN,mask-api.fe2.apple-dns.net
 DOMAIN,emea-mask.wrr.mask.apple-dns.net
@@ -60,6 +60,7 @@ DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.akamaized.net
+DOMAIN,apple-carry-relay.cloudflare.com
 DOMAIN,apac-mask.wrr.mask.apple-dns.net
 DOMAIN,africa-mask.wrr.mask.apple-dns.net
 
