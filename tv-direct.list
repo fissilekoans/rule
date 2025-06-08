@@ -53,6 +53,7 @@ IP-CIDR,17.188.0.0/16
 
 # test
 IP-CIDR,192.168.88.234/32
+DEST-PORT,6170
 
 # Apple Push Notifications
 # Device setup
