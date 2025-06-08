@@ -51,6 +51,9 @@ IP-CIDR,223.143.0.0/16
 IP-CIDR,223.140.0.0/15
 IP-CIDR,17.188.0.0/16
 
+# test
+SRC-IP,192.168.88.234/32
+
 # Apple Push Notifications
 # Device setup
 DOMAIN,sq-device.apple.com
