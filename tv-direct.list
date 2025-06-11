@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,nflxvideo.net
 
 # disneyplus
 DOMAIN,cdn.registerdisney.go.com
+DOMAIN,xpaywalletcdn-prod.azureedge.net
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
