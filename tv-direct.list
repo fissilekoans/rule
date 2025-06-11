@@ -33,11 +33,10 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
 
 # disneyplus
+DOMAIN,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
-DOMAIN-SUFFIX,disneystreaming.com
-DOMAIN,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,dssott.com
 
 # SSH
