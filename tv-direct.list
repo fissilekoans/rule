@@ -36,8 +36,6 @@ DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
 
 # SSH
 IP-CIDR,150.230.59.212/32
