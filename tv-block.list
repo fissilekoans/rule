@@ -1,16 +1,24 @@
 # NAME: block
 
+# 這邊都是提早幹掉的規則
 DOMAIN,ads.imgur.com
 DOMAIN,mp.imgur.com
 DOMAIN,p.imgur.com
 DOMAIN,t.imgur.com
 DOMAIN,zrk.imgur.com
+DOMAIN,pv.ltn.com.tw
 
+# 一直失敗看的很煩的規則
 DOMAIN,a.nel.cloudflare.com
 DOMAIN,fp.msedge.net
 DOMAIN,logs.netflix.com
 DOMAIN,metrics.icloud.com
 DOMAIN-SUFFIX,xp.apple.com
+DOMAIN,arc.msn.com
+DOMAIN,bat.bing.com
+DOMAIN,settings-win.data.microsoft.com
+DOMAIN-SUFFIX,activity.windows.com
+DOMAIN-SUFFIX,events.data.microsoft.com
 
 # stun
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
@@ -22,23 +30,8 @@ DOMAIN-WILDCARD,*.stun.*
 DOMAIN-WILDCARD,*.turn.*
 IP-CIDR,39.107.142.158/32
 
-# 擋掉微軟爛的伺服器跟tracker
-DOMAIN,arc.msn.com
-DOMAIN,bat.bing.com
-DOMAIN,settings-win.data.microsoft.com
-DOMAIN-SUFFIX,activity.windows.com
-DOMAIN-SUFFIX,events.data.microsoft.com
-# IP-CIDR,172.82.0.1/24
-# IP-CIDR,103.1.215.171/32
-
 # ???
-# PROTOCOL,STUN
 IP-CIDR,0.0.0.0/32
-# IP-CIDR,127.0.0.0/8
-# IP-CIDR,10.0.0.0/8
-# IP-CIDR,172.16.0.0/12
-# IP-CIDR,192.168.0.0/16
-# IP-CIDR,169.254.0.0/16
 
 # iCloud Private Relay
 DOMAIN,wrr.mask.apple-dns.net
@@ -106,11 +99,3 @@ IP-CIDR,143.92.82.119/32
 IP-CIDR,143.92.85.12/32
 IP-CIDR,143.92.88.1/32
 IP-CIDR,23.46.16.134/32
-
-# 7mmtv,njav
-# URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/owl\.carousel\.min\.js$
-# URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/css\/owl\.carousel\.min\.css$
-# URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/js\/fresco\.min\.js$
-# URL-REGEX,^https?:\/\/7mmtv\.sx\/assets\/css\/fresco\.css$
-# URL-REGEX,^https?:\/\/njav\.tv\/zh\/ajax\/user\/info$
-# URL-REGEX,^https?:\/\/njav\.tv\/assets\/njav\/dist\/app\.js\?v=\d+
