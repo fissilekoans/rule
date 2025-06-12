@@ -47,3 +47,10 @@ DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,forum.jorsindo.com
 # DOMAIN-SUFFIX,x.com
 # DOMAIN-SUFFIX,ltn.com.tw
+
+# shoes
+DOMAIN-SUFFIX,adidas.com.tw
+DOMAIN-SUFFIX,newbalance.com.tw
+DOMAIN-SUFFIX,newbalancetw.zendesk.com
+DOMAIN-SUFFIX,nike.com
+DOMAIN-SUFFIX,converse.com.tw
