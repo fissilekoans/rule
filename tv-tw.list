@@ -1,5 +1,8 @@
 # NAME: TW
 
+SRC-IP,192.168.88.226/32
+SRC-IP,192.168.88.104/32
+
 # ???
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,edu.tw
@@ -37,13 +40,9 @@ DOMAIN,theater-kktv.cdn.hinet.net
 
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,cht.com.tw
-# DOMAIN-SUFFIX,i.imgur.com
-
-SRC-IP,192.168.88.226/32
-SRC-IP,192.168.88.104/32
 
 # test
-DOMAIN-SUFFIX,com.tw
+# DOMAIN-SUFFIX,com.tw
 # DOMAIN-SUFFIX,api.beptt.cc
 DOMAIN-SUFFIX,forum.jorsindo.com
 # DOMAIN-SUFFIX,x.com
