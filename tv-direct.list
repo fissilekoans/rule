@@ -62,6 +62,7 @@ IP-CIDR,17.188.0.0/16
 # test
 IP-CIDR,192.168.88.234/32
 IP-CIDR,192.168.88.101/32
+IP-CIDR,17.253.0.1/16
 
 # Apple Push Notifications
 # Device setup
