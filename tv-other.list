@@ -170,3 +170,23 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
+
+# NAME: KKTV
+
+DOMAIN,theater-kktv.cdn.hinet.net
+DOMAIN,drm.platform.blendvision.com
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,kk.stream
+DOMAIN-KEYWORD,kktv
+USER-AGENT,com.kktv.ios.kktv*
+USER-AGENT,KKTV*
+
+# 下面是巴哈的 也還沒確認
+# DOMAIN,bahamut.akamaized.net
+# DOMAIN,gamer-cds.cdn.hinet.net
+# DOMAIN,gamer2-cds.cdn.hinet.net
+# DOMAIN-SUFFIX,viblast.com
+# DOMAIN-SUFFIX,bahamut.com.tw
+# DOMAIN-SUFFIX,gamer.com.tw
+# USER-AGENT,Anime*
