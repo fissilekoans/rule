@@ -9,7 +9,7 @@ SRC-IP,192.168.88.104/32
 # DOMAIN-SUFFIX,org.tw
 
 # 台灣電力公司
-DOMAIN-SUFFIX,taipower.com.tw
+# DOMAIN-SUFFIX,taipower.com.tw
 
 # 台灣大哥大
 DOMAIN-SUFFIX,taiwanmobile.com
