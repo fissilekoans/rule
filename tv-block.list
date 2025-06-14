@@ -86,6 +86,18 @@ DOMAIN-SUFFIX,ads.test-stable.shopee.tw
 DOMAIN-SUFFIX,tracking.shopee.tw
 DOMAIN-SUFFIX,userstats.shopee.tw
 
+DOMAIN-SUFFIX,ads.shopee.sg
+DOMAIN-SUFFIX,df.infra.shopee.sg
+DOMAIN-SUFFIX,livetech.shopee.sg
+DOMAIN-SUFFIX,log-collector.shopee.sg
+DOMAIN-SUFFIX,msdk.shopee.sg
+DOMAIN-SUFFIX,pevftg.shopee.sg
+DOMAIN-SUFFIX,seller-log-collector.shopee.sg
+DOMAIN-SUFFIX,tracking.staging.shopee.sg
+DOMAIN-SUFFIX,df.infra.test.shopee.sg
+DOMAIN-SUFFIX,tracking.shopee.sg
+DOMAIN-SUFFIX,userstats.shopee.sg
+
 DOMAIN-SUFFIX,ccms.shopee.io
 DOMAIN-SUFFIX,c-api-sentry3.sto.shopee.io
 
