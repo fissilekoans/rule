@@ -163,3 +163,10 @@ IP-CIDR,192.0.0.0/24
 IP-CIDR,192.0.2.0/24
 IP-CIDR,192.168.0.0/16
 IP-CIDR,224.0.0.0/4
+
+# netflix
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxvideo.net
