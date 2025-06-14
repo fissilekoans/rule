@@ -4,9 +4,9 @@ SRC-IP,192.168.88.226/32
 SRC-IP,192.168.88.104/32
 
 # ???
-DOMAIN-SUFFIX,gov.tw
-DOMAIN-SUFFIX,edu.tw
-DOMAIN-SUFFIX,org.tw
+# DOMAIN-SUFFIX,gov.tw
+# DOMAIN-SUFFIX,edu.tw
+# DOMAIN-SUFFIX,org.tw
 
 # 台灣電力公司
 DOMAIN-SUFFIX,taipower.com.tw
