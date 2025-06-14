@@ -117,9 +117,9 @@ DOMAIN-SUFFIX,tracking.shopee.co.id
 DOMAIN-SUFFIX,userstats.shopee.co.id
 DOMAIN-SUFFIX,vzeyba.shopee.co.id
 
-# IP-CIDR,143.92.82.119/32
-# IP-CIDR,143.92.85.12/32
-# IP-CIDR,143.92.88.1/32
+IP-CIDR,143.92.82.119/32
+IP-CIDR,143.92.85.12/32
+IP-CIDR,143.92.88.1/32
 
 # windscribe R.O.B.E.R.T.
 DOMAIN,dem.exp.shopee.io
