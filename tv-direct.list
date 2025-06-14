@@ -7,11 +7,11 @@ DOMAIN-SUFFIX,post.gov.tw
 DOMAIN-SUFFIX,cch.org.tw
 DOMAIN-SUFFIX,mohw.gov.tw
 # 統一發票(還有兼職ocsp)
-DOMAIN-SUFFIX,nat.gov.tw
+# DOMAIN-SUFFIX,nat.gov.tw
 # 台灣人壽
 DOMAIN-SUFFIX,taiwanlife.com
 # finalaa
-DOMAIN-SUFFIX,finalaa.win
+# DOMAIN-SUFFIX,finalaa.win
 # ptt
 DOMAIN-SUFFIX,ptt.cc
 # time
@@ -41,8 +41,8 @@ DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,dssott.com
 
 # SSH
-# IP-CIDR,150.230.59.212/32
-# IP-CIDR,64.110.103.244/32
+IP-CIDR,150.230.59.212/32
+IP-CIDR,64.110.103.244/32
 
 # Hinet
 IP-CIDR,111.82.0.0/15
