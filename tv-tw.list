@@ -12,34 +12,34 @@ SRC-IP,192.168.88.104/32
 # DOMAIN-SUFFIX,taipower.com.tw
 
 # 台灣大哥大
-DOMAIN-SUFFIX,taiwanmobile.com
-DOMAIN-SUFFIX,taiwanmobile.net
-DOMAIN-SUFFIX,myfone.com.tw
+# DOMAIN-SUFFIX,taiwanmobile.com
+# DOMAIN-SUFFIX,taiwanmobile.net
+# DOMAIN-SUFFIX,myfone.com.tw
 
 # pchome24
-DOMAIN-SUFFIX,a.run.app
-DOMAIN-SUFFIX,pchome.com.tw
-DOMAIN-SUFFIX,pcloud.tw
-DOMAIN-SUFFIX,ecimg.tw
-DOMAIN-SUFFIX,pchome.tw
+# DOMAIN-SUFFIX,a.run.app
+# DOMAIN-SUFFIX,pchome.com.tw
+# DOMAIN-SUFFIX,pcloud.tw
+# DOMAIN-SUFFIX,ecimg.tw
+# DOMAIN-SUFFIX,pchome.tw
 
 # momo
-DOMAIN-SUFFIX,momo.com.tw
-DOMAIN-SUFFIX,momoshop.com.tw
-DOMAIN-SUFFIX,momo.dm
-DOMAIN-SUFFIX,momopay.com.tw
+# DOMAIN-SUFFIX,momo.com.tw
+# DOMAIN-SUFFIX,momoshop.com.tw
+# DOMAIN-SUFFIX,momo.dm
+# DOMAIN-SUFFIX,momopay.com.tw
 
 # uniqlo
-DOMAIN-SUFFIX,uniqlo.com
-DOMAIN-SUFFIX,uniqlo.tw
+# DOMAIN-SUFFIX,uniqlo.com
+# DOMAIN-SUFFIX,uniqlo.tw
 
 # kktv
-DOMAIN-SUFFIX,kktv.me
-DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN,theater-kktv.cdn.hinet.net
+# DOMAIN-SUFFIX,kktv.me
+# DOMAIN-SUFFIX,kktv.com.tw
+# DOMAIN,theater-kktv.cdn.hinet.net
 
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,cht.com.tw
+# DOMAIN-SUFFIX,hinet.net
+# DOMAIN-SUFFIX,cht.com.tw
 
 # test
 # DOMAIN-SUFFIX,com.tw
@@ -49,7 +49,7 @@ DOMAIN-SUFFIX,cht.com.tw
 # DOMAIN-SUFFIX,ltn.com.tw
 
 # shoes
-DOMAIN-SUFFIX,newbalance.com.tw
-DOMAIN-SUFFIX,newbalancetw.zendesk.com
-DOMAIN-SUFFIX,nike.com
-DOMAIN-SUFFIX,converse.com.tw
+# DOMAIN-SUFFIX,newbalance.com.tw
+# DOMAIN-SUFFIX,newbalancetw.zendesk.com
+# DOMAIN-SUFFIX,nike.com
+# DOMAIN-SUFFIX,converse.com.tw
