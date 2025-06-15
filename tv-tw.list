@@ -44,7 +44,7 @@ DOMAIN-SUFFIX,cht.com.tw
 # test
 # DOMAIN-SUFFIX,com.tw
 # DOMAIN-SUFFIX,api.beptt.cc
-DOMAIN-SUFFIX,forum.jorsindo.com
+# DOMAIN-SUFFIX,forum.jorsindo.com
 # DOMAIN-SUFFIX,x.com
 # DOMAIN-SUFFIX,ltn.com.tw
 
