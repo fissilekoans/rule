@@ -13,6 +13,13 @@ DOMAIN,t.imgur.com
 DOMAIN,zrk.imgur.com
 DOMAIN,pv.ltn.com.tw
 DOMAIN,ad.ntust.edu.tw
+DOMAIN,ad-ettoday.cdn.hinet.net
+DOMAIN,adv-ettoday.cdn.hinet.net
+DOMAIN,cdnadspecs-onead.cdn.hinet.net
+DOMAIN,cdnonead-onead.cdn.hinet.net
+DOMAIN,cdnpixel-onead.cdn.hinet.net
+DOMAIN,ssp.hinet.net
+DOMAIN,vatrack.hinet.net
 
 # 一直失敗看的很煩的規則
 DOMAIN,a.nel.cloudflare.com
