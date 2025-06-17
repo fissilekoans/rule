@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,ads.test-stable.shopee.tw
 DOMAIN-SUFFIX,tracking.shopee.tw
 DOMAIN-SUFFIX,userstats.shopee.tw
 
+DOMAIN-SUFFIX,livetech.shopee.sg.cdn20.com
 DOMAIN-SUFFIX,ads.shopee.sg
 DOMAIN-SUFFIX,df.infra.shopee.sg
 DOMAIN-SUFFIX,livetech.shopee.sg
@@ -108,11 +109,32 @@ DOMAIN-SUFFIX,userstats.shopee.sg
 DOMAIN-SUFFIX,ccms.shopee.io
 DOMAIN-SUFFIX,c-api-sentry3.sto.shopee.io
 
+DOMAIN-SUFFIX,livetech.shopee.com.my.cdn20.com
+DOMAIN-SUFFIX,ads.shopee.com.br
+DOMAIN-SUFFIX,food-metric.shopee.com.my
+DOMAIN-SUFFIX,df.infra.shopee.com.br
+DOMAIN-SUFFIX,df.infra.shopee.com.co
+DOMAIN-SUFFIX,df.infra.shopee.com.mx
+DOMAIN-SUFFIX,df.infra.shopee.com.my
+DOMAIN-SUFFIX,livetech.shopee.com.br
+DOMAIN-SUFFIX,livetech.shopee.com.mx
+DOMAIN-SUFFIX,livetech.shopee.com.my
+DOMAIN-SUFFIX,data-rep.livetech.shopee.com.co
+DOMAIN-SUFFIX,log-collector.shopee.com.br
+DOMAIN-SUFFIX,log-collector.shopee.com.my
+DOMAIN-SUFFIX,msdk.shopee.com.br
+DOMAIN-SUFFIX,msdk.shopee.com.my
+DOMAIN-SUFFIX,tracking.staging.shopee.com.my
+DOMAIN-SUFFIX,tracking.shopee.com.br
+DOMAIN-SUFFIX,tracking.shopee.com.co
+DOMAIN-SUFFIX,tracking.shopee.com.mx
+DOMAIN-SUFFIX,tracking.shopee.com.my
 DOMAIN-SUFFIX,dem.shopee.com
 DOMAIN-SUFFIX,sentry.dp.shopee.com
 DOMAIN-SUFFIX,aurora-data-tracker-ivs.iv.shopee.com
 DOMAIN-SUFFIX,tracking.mg.shopee.com
 
+DOMAIN-SUFFIX,livetech.shopee.co.id.cdn20.com
 DOMAIN-SUFFIX,food-metric.shopee.co.id
 DOMAIN-SUFFIX,livetech.shopee.co.id
 DOMAIN-SUFFIX,log-collector.shopee.co.id
@@ -120,9 +142,11 @@ DOMAIN-SUFFIX,log-collector.mitra.shopee.co.id
 DOMAIN-SUFFIX,msdk.shopee.co.id
 DOMAIN-SUFFIX,livetech.staging.shopee.co.id
 DOMAIN-SUFFIX,tracking.staging.shopee.co.id
+DOMAIN-SUFFIX,df.infra.sz.shopee.co.id
 DOMAIN-SUFFIX,tracking.shopee.co.id
 DOMAIN-SUFFIX,userstats.shopee.co.id
 DOMAIN-SUFFIX,vzeyba.shopee.co.id
+DOMAIN-SUFFIX,livetech.shopee.co.id.txlivecdn.com
 
 IP-CIDR,143.92.82.119/32
 IP-CIDR,143.92.85.12/32
