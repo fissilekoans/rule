@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,live-video.net
 # YouTube
 DOMAIN,youtu.be
 DOMAIN,write.as
+DOMAIN,sponsor.ajay.app
 DOMAIN,invidious.jing.rocks
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
