@@ -53,3 +53,19 @@ SRC-IP,192.168.88.104/32
 # DOMAIN-SUFFIX,newbalancetw.zendesk.com
 # DOMAIN-SUFFIX,nike.com
 # DOMAIN-SUFFIX,converse.com.tw
+
+# twitch
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,live-video.net
+
+# YouTube
+DOMAIN,youtu.be
+DOMAIN,write.as
+DOMAIN,invidious.jing.rocks
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,invidious.io
+DOMAIN-SUFFIX,youtubei.googleapis.com
