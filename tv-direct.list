@@ -19,13 +19,14 @@ DOMAIN,images.ptt.cc
 # time
 DEST-PORT,123
 
-# OpenAI
-# DOMAIN-SUFFIX,openai.com
-# DOMAIN-SUFFIX,chatgpt.com
-# DOMAIN-SUFFIX,auth0.com
-# DOMAIN-SUFFIX,oaistatic.com
-# DOMAIN-SUFFIX,oaiusercontent.com
-# DOMAIN-SUFFIX,featureassets.org
+# steam
+DOMAIN,steamcommunity.com
+DOMAIN,steamcommunity-a.akamaihd.net
+# DOMAIN,steamstore-a.akamaihd.net
+# DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamserver.net
 
 # Netflix
 DOMAIN-SUFFIX,netflix.com
