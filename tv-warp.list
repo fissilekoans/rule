@@ -1,13 +1,5 @@
 # warp
 
-# OpenAI
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,featureassets.org
-
 DOMAIN-SUFFIX,cwa.gov.tw
 DOMAIN-SUFFIX,ems2.panasonic.com.tw
 
