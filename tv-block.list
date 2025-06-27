@@ -36,6 +36,9 @@ DOMAIN,graph.facebook.com
 DOMAIN,connect.facebook.net
 DOMAIN,69game.biz
 
+DOMAIN,api-v6.controld.com
+DOMAIN-SUFFIX,ipv6.controld.io
+
 # stun
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
 DOMAIN,meet-jit-si-turnrelay.jitsi.net
