@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 
+DOMAIN-SUFFIX,op-ads-sg8-sg10-10.dr-wan.shopeemobile.com
 DOMAIN-SUFFIX,op-ads-sg8-sg10-14.dr-wan.shopeemobile.com
 DOMAIN-SUFFIX,patronus.idata.shopeemobile.com
 DOMAIN-SUFFIX,offline.toc.shopeemobile.com
@@ -127,7 +128,6 @@ DOMAIN-SUFFIX,data-rep.livetech.shopee.com.co
 DOMAIN-SUFFIX,log-collector.shopee.com.br
 DOMAIN-SUFFIX,log-collector.shopee.com.my
 DOMAIN-SUFFIX,msdk.shopee.com.br
-DOMAIN-SUFFIX,msdk.shopee.com.mx
 DOMAIN-SUFFIX,msdk.shopee.com.my
 DOMAIN-SUFFIX,tracking.staging.shopee.com.my
 DOMAIN-SUFFIX,tracking.shopee.com.br
