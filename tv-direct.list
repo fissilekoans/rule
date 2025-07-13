@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,featureassets.org
 # steam
 DOMAIN,steamcommunity.com
 DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,steamusercontent.com
+DOMAIN-SUFFIX,steamusercontent.com
 # DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steampowered.com
@@ -70,12 +70,13 @@ IP-CIDR,223.143.0.0/16
 IP-CIDR,223.140.0.0/15
 IP-CIDR,17.188.0.0/16
 
-# test
+# home
 IP-CIDR,192.168.88.234/32
 IP-CIDR,192.168.88.101/32
+
+# apple-asn
 IP-ASN,714
 IP-ASN,6185
-# IP-CIDR,17.253.0.1/16
 
 # Apple Push Notifications
 # Device setup
