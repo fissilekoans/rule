@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN,graph.facebook.com
 DOMAIN,connect.facebook.net
 DOMAIN,partiality.itunes.apple.com
+DOMAIN-SUFFIX,csp.withgoogle.com
 
 DOMAIN,api-v6.controld.com
 DOMAIN-SUFFIX,ipv6.controld.io
