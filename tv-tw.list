@@ -34,12 +34,12 @@ SRC-IP,192.168.88.104/32
 # DOMAIN-SUFFIX,uniqlo.tw
 
 # kktv
-DOMAIN-SUFFIX,kktv.me
-DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN,theater-kktv.cdn.hinet.net
+# DOMAIN-SUFFIX,kktv.me
+# DOMAIN-SUFFIX,kktv.com.tw
+# DOMAIN,theater-kktv.cdn.hinet.net
 
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,cht.com.tw
+# DOMAIN-SUFFIX,hinet.net
+# DOMAIN-SUFFIX,cht.com.tw
 
 # test
 # DOMAIN-SUFFIX,com.tw
