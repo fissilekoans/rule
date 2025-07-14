@@ -5,21 +5,17 @@
 # 邏輯規則：AND、OR、NOT
 # 其他：SUBNET、DEST-PORT、SRC-PORT、SRC-IP
 
-# 這邊都是提早幹掉的規則
-DOMAIN,ads.imgur.com
-DOMAIN,mp.imgur.com
-DOMAIN,p.imgur.com
-DOMAIN,t.imgur.com
-DOMAIN,zrk.imgur.com
-DOMAIN,pv.ltn.com.tw
-DOMAIN,ad.ntust.edu.tw
-DOMAIN,ad-ettoday.cdn.hinet.net
-DOMAIN,adv-ettoday.cdn.hinet.net
-DOMAIN,cdnadspecs-onead.cdn.hinet.net
-DOMAIN,cdnonead-onead.cdn.hinet.net
-DOMAIN,cdnpixel-onead.cdn.hinet.net
-DOMAIN,ssp.hinet.net
-DOMAIN,vatrack.hinet.net
+# 這邊都是提早幹掉的規則 
+# gov.tw edu.tw org.tw
+DOMAIN-SUFFIX,ad.nccu.edu.tw
+DOMAIN-SUFFIX,ad.ntust.edu.tw
+DOMAIN-SUFFIX,ad.yuntech.edu.tw
+DOMAIN-SUFFIX,error.khcc.gov.tw
+DOMAIN-SUFFIX,sw-track.tygh.mohw.gov.tw
+DOMAIN-SUFFIX,sw-tracker.tygh.mohw.gov.tw
+
+# ltn.com.tw 可能IP太髒
+# DOMAIN,pv.ltn.com.tw
 
 # 一直失敗看的很煩的規則
 DOMAIN,a.nel.cloudflare.com
@@ -83,6 +79,8 @@ DOMAIN,s.shopee.tw
 DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
+
+DOMAIN,api.sentry.susercontent.com
 
 DOMAIN-SUFFIX,op-ads-sg8-sg10-10.dr-wan.shopeemobile.com
 DOMAIN-SUFFIX,op-ads-sg8-sg10-14.dr-wan.shopeemobile.com
