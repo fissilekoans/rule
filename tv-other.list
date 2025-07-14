@@ -255,3 +255,19 @@ httpdns-v6.gslb.yy.com
 42.81.232.18/32
 59.111.239.61/32
 59.111.239.62/32
+
+# 這邊都是提早幹掉的規則
+DOMAIN,ads.imgur.com
+DOMAIN,mp.imgur.com
+DOMAIN,p.imgur.com
+DOMAIN,t.imgur.com
+DOMAIN,zrk.imgur.com
+DOMAIN,pv.ltn.com.tw
+DOMAIN,ad.ntust.edu.tw
+DOMAIN,ad-ettoday.cdn.hinet.net
+DOMAIN,adv-ettoday.cdn.hinet.net
+DOMAIN,cdnadspecs-onead.cdn.hinet.net
+DOMAIN,cdnonead-onead.cdn.hinet.net
+DOMAIN,cdnpixel-onead.cdn.hinet.net
+DOMAIN,ssp.hinet.net
+DOMAIN,vatrack.hinet.net
