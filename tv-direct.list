@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,taiwanlife.com
 # ptt
 DOMAIN,ws.ptt.cc
 DOMAIN,term.ptt.cc
-DOMAIN,images.ptt.cc
 # time
 DEST-PORT,123
 
