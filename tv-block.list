@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,xp.apple.com
 DOMAIN,arc.msn.com
 DOMAIN,bat.bing.com
 DOMAIN,settings-win.data.microsoft.com
+DOMAIN,browser.pipe.aria.microsoft.com
 DOMAIN-SUFFIX,activity.windows.com
 DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN,graph.facebook.com
