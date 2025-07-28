@@ -125,9 +125,12 @@ DOMAIN-SUFFIX,livetech.shopee.com.br
 DOMAIN-SUFFIX,livetech.shopee.com.mx
 DOMAIN-SUFFIX,livetech.shopee.com.my
 DOMAIN-SUFFIX,data-rep.livetech.shopee.com.co
+DOMAIN-SUFFIX,data-rep.livetech.shopee.com.mx
 DOMAIN-SUFFIX,log-collector.shopee.com.br
 DOMAIN-SUFFIX,log-collector.shopee.com.my
 DOMAIN-SUFFIX,msdk.shopee.com.br
+DOMAIN-SUFFIX,msdk.shopee.com.co
+DOMAIN-SUFFIX,msdk.shopee.com.mx
 DOMAIN-SUFFIX,msdk.shopee.com.my
 DOMAIN-SUFFIX,tracking.staging.shopee.com.my
 DOMAIN-SUFFIX,tracking.shopee.com.br
