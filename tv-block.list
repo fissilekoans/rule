@@ -161,6 +161,9 @@ DOMAIN-SUFFIX,livetech.shopee.co.id.txlivecdn.com
 IP-CIDR,143.92.82.119/32
 IP-CIDR,143.92.85.12/32
 IP-CIDR,143.92.88.1/32
+IP-CIDR,143.92.88.1/32
+IP-CIDR,143.92.66.16/32
+IP-CIDR,103.117.4.25/32
 
 # windscribe R.O.B.E.R.T.
 DOMAIN,dem.exp.shopee.io
