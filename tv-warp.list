@@ -2,6 +2,9 @@
 
 DOMAIN-SUFFIX,forum.jorsindo.com
 
-DOMAIN,api.openai.com
+# OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,featureassets.org
 
 # DOMAIN-SUFFIX,imgur.com
