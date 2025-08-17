@@ -9,7 +9,8 @@ DOMAIN-SUFFIX,kktv.com.tw
 # DOMAIN,theater-kktv.cdn.hinet.net
 
 DOMAIN-SUFFIX,hinet.net
-# DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,emome.net
 
 # test
 # DOMAIN-SUFFIX,com.tw
