@@ -3,42 +3,12 @@
 SRC-IP,192.168.88.226/32
 SRC-IP,192.168.88.104/32
 
-# ???
-# DOMAIN-SUFFIX,gov.tw
-# DOMAIN-SUFFIX,edu.tw
-# DOMAIN-SUFFIX,org.tw
-
-# 台灣電力公司
-# DOMAIN-SUFFIX,taipower.com.tw
-
-# 台灣大哥大
-# DOMAIN-SUFFIX,taiwanmobile.com
-# DOMAIN-SUFFIX,taiwanmobile.net
-# DOMAIN-SUFFIX,myfone.com.tw
-
-# pchome24
-# DOMAIN-SUFFIX,a.run.app
-# DOMAIN-SUFFIX,pchome.com.tw
-# DOMAIN-SUFFIX,pcloud.tw
-# DOMAIN-SUFFIX,ecimg.tw
-# DOMAIN-SUFFIX,pchome.tw
-
-# momo
-# DOMAIN-SUFFIX,momo.com.tw
-# DOMAIN-SUFFIX,momoshop.com.tw
-# DOMAIN-SUFFIX,momo.dm
-# DOMAIN-SUFFIX,momopay.com.tw
-
-# uniqlo
-# DOMAIN-SUFFIX,uniqlo.com
-# DOMAIN-SUFFIX,uniqlo.tw
-
 # kktv
-# DOMAIN-SUFFIX,kktv.me
-# DOMAIN-SUFFIX,kktv.com.tw
-# DOMAIN,theater-kktv.cdn.hinet.net
+DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN,theater-kktv.cdn.hinet.net
 
-# DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,hinet.net
 # DOMAIN-SUFFIX,cht.com.tw
 
 # test
