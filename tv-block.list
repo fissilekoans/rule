@@ -33,6 +33,7 @@ DOMAIN,partiality.itunes.apple.com
 DOMAIN-SUFFIX,csp.withgoogle.com
 DOMAIN,normandy.cdn.mozilla.net
 DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,appsflyersdk.com
 
 DOMAIN,api-v6.controld.com
 DOMAIN-SUFFIX,ipv6.controld.io
