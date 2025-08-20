@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,emome.net
 
 # 中央社
-DOMAIN-SUFFIX,cna.com.tw
+# DOMAIN-SUFFIX,cna.com.tw
 # DOMAIN-SUFFIX,api.beptt.cc
 # DOMAIN-SUFFIX,forum.jorsindo.com
 # DOMAIN-SUFFIX,x.com
