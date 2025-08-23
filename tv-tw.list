@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,edu.tw
 DOMAIN-SUFFIX,gov.tw
 
-DOMAIN-SUFFIX,cna.com.tw
+# DOMAIN-SUFFIX,cna.com.tw
 
 # DOMAIN-SUFFIX,ltn.com.tw
 
