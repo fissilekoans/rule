@@ -17,6 +17,8 @@ DOMAIN,ws.ptt.cc
 DOMAIN,term.ptt.cc
 # time
 # DEST-PORT,123
+# ###
+DOMAIN-SUFFIX,totallyacdn.com
 
 # OpenAI
 DOMAIN-SUFFIX,openai.com
