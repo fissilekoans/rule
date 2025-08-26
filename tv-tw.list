@@ -4,24 +4,13 @@
 # SRC-IP,192.168.88.104/32
 
 # kktv
-DOMAIN-SUFFIX,kktv.me
-DOMAIN-SUFFIX,kktv.com.tw
-# DOMAIN,theater-kktv.cdn.hinet.net
+# DOMAIN-SUFFIX,kktv.me
+# DOMAIN-SUFFIX,kktv.com.tw
 
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,cht.com.tw
-DOMAIN-SUFFIX,emome.net
+# DOMAIN-SUFFIX,hinet.net
+# DOMAIN-SUFFIX,cht.com.tw
+# DOMAIN-SUFFIX,emome.net
 
-DOMAIN-SUFFIX,org.tw
-DOMAIN-SUFFIX,edu.tw
-DOMAIN-SUFFIX,gov.tw
-
-# DOMAIN-SUFFIX,cna.com.tw
-
-# DOMAIN-SUFFIX,ltn.com.tw
-
-# shoes
-# DOMAIN-SUFFIX,newbalance.com.tw
-# DOMAIN-SUFFIX,newbalancetw.zendesk.com
-# DOMAIN-SUFFIX,nike.com
-# DOMAIN-SUFFIX,converse.com.tw
+# DOMAIN-SUFFIX,org.tw
+# DOMAIN-SUFFIX,edu.tw
+# DOMAIN-SUFFIX,gov.tw
