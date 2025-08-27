@@ -11,6 +11,6 @@
 # DOMAIN-SUFFIX,cht.com.tw
 # DOMAIN-SUFFIX,emome.net
 
-DOMAIN-SUFFIX,org.tw
+# DOMAIN-SUFFIX,org.tw
 # DOMAIN-SUFFIX,edu.tw
 # DOMAIN-SUFFIX,gov.tw
