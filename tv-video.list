@@ -25,10 +25,10 @@ DOMAIN-SUFFIX,mfcimg.com
 
 # DOMAIN-SUFFIX,missav.ai
 # DOMAIN-SUFFIX,missav.ws
-DOMAIN-SUFFIX,surrit.com
-DOMAIN-SUFFIX,recombee.com
-DOMAIN-SUFFIX,plyr.io
-DOMAIN-SUFFIX,fourhoi.com
+# DOMAIN-SUFFIX,surrit.com
+# DOMAIN-SUFFIX,recombee.com
+# DOMAIN-SUFFIX,plyr.io
+# DOMAIN-SUFFIX,fourhoi.com
 
 DOMAIN-SUFFIX,tkcdns.com
 DOMAIN-SUFFIX,tktube.com
