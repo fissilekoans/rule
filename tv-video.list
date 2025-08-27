@@ -23,8 +23,8 @@ DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,myfreecams.com
 DOMAIN-SUFFIX,mfcimg.com
 
-DOMAIN-SUFFIX,missav.ai
-DOMAIN-SUFFIX,missav.ws
+# DOMAIN-SUFFIX,missav.ai
+# DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,recombee.com
 DOMAIN-SUFFIX,plyr.io
