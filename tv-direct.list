@@ -19,6 +19,7 @@ DOMAIN,term.ptt.cc
 # DEST-PORT,123
 # ###
 DOMAIN-SUFFIX,totallyacdn.com
+DOMAIN-SUFFIX,kktv.me
 
 # OpenAI
 DOMAIN-SUFFIX,openai.com
