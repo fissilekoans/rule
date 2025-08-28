@@ -1,39 +1,32 @@
 # video
 
 # time
-DEST-PORT,123
+# DEST-PORT,123
 
-SRC-IP,192.168.88.226/32
-SRC-IP,192.168.88.104/32
+# SRC-IP,192.168.88.226/32
+# SRC-IP,192.168.88.104/32
 
 # twitch
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,live-video.net
+# DOMAIN-SUFFIX,twitch.tv
+# DOMAIN-SUFFIX,jtvnw.net
+# DOMAIN-SUFFIX,ttvnw.net
+# DOMAIN-SUFFIX,cloudfront.net
+# DOMAIN-SUFFIX,twitchcdn.net
+# DOMAIN-SUFFIX,live-video.net
 
 # ###
-DOMAIN-SUFFIX,chaturbate.com
-DOMAIN-SUFFIX,mmcdn.com
+# DOMAIN-SUFFIX,chaturbate.com
+# DOMAIN-SUFFIX,mmcdn.com
 
-DOMAIN-SUFFIX,fc2.com
+# DOMAIN-SUFFIX,fc2.com
 
-DOMAIN-SUFFIX,myfreecams.com
-DOMAIN-SUFFIX,mfcimg.com
+# DOMAIN-SUFFIX,myfreecams.com
+# DOMAIN-SUFFIX,mfcimg.com
 
-# DOMAIN-SUFFIX,missav.ai
-# DOMAIN-SUFFIX,missav.ws
-# DOMAIN-SUFFIX,surrit.com
-# DOMAIN-SUFFIX,recombee.com
-# DOMAIN-SUFFIX,plyr.io
-# DOMAIN-SUFFIX,fourhoi.com
+# DOMAIN-SUFFIX,tkcdns.com
+# DOMAIN-SUFFIX,tktube.com
+# DOMAIN-SUFFIX,cloudflarestorage.com
 
-DOMAIN-SUFFIX,tkcdns.com
-DOMAIN-SUFFIX,tktube.com
-DOMAIN-SUFFIX,cloudflarestorage.com
-
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitter.com
+# DOMAIN-SUFFIX,x.com
+# DOMAIN-SUFFIX,twimg.com
+# DOMAIN-SUFFIX,twitter.com
