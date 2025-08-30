@@ -18,7 +18,8 @@ DOMAIN,term.ptt.cc
 # time
 # DEST-PORT,123
 # ###
-DOMAIN-SUFFIX,totallyacdn.com
+# DOMAIN-SUFFIX,totallyacdn.com
+
 # DOMAIN-SUFFIX,kktv.me
 # DOMAIN-SUFFIX,kktv.com.tw
 # DOMAIN-SUFFIX,hinet.net
