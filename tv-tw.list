@@ -17,3 +17,9 @@ SRC-IP,192.168.88.104/32
 # DOMAIN-SUFFIX,org.tw
 # DOMAIN-SUFFIX,edu.tw
 # DOMAIN-SUFFIX,gov.tw
+
+DOMAIN-SUFFIX,fc2ppvdb.com
+
+#javdb
+DOMAIN,javdb.com
+DOMAIN,c0.jdbstatic.com
