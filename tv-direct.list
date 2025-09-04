@@ -53,6 +53,7 @@ DOMAIN-WILDCARD,blizzard*
 DOMAIN-WILDCARD,blz-contentstack*
 DOMAIN-WILDCARD,blzprofile*
 DOMAIN-WILDCARD,baseui*
+DOMAIN-WILDCARD,bnetaccount*
 DOMAIN,geolocation.onetrust.com
 DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,d2r.world
