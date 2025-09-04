@@ -61,6 +61,7 @@ DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,d2r.world
 DOMAIN,cdn.optimizely.com
 DOMAIN,cdn.cookielaw.org
+IP-ASN,57976
 
 # Netflix
 DOMAIN-SUFFIX,netflix.com
