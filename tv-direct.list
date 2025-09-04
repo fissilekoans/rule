@@ -49,7 +49,6 @@ DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,blzstatic.com
-DOMAIN-SUFFIX,d2r.world
 DOMAIN-WILDCARD,blizzard*
 DOMAIN-WILDCARD,blz-contentstack*
 DOMAIN-WILDCARD,blzprofile*
