@@ -77,6 +77,27 @@ DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,dssott.com
 
+
+# YouTube
+DOMAIN,youtu.be
+DOMAIN,yt3.ggpht.com
+DOMAIN,yt3.googleusercontent.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+# DOMAIN-SUFFIX,youtubei.googleapis.com
+# DOMAIN-SUFFIX,ggpht.com
+# DOMAIN-SUFFIX,ytimg.com
+# DOMAIN-SUFFIX,gstatic.com
+# DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,googleusercontent.com
+# DOMAIN-SUFFIX,google.com
+# DOMAIN-SUFFIX,google.co.jp
+# DOMAIN-SUFFIX,google.com.tw
+# DOMAIN-SUFFIX,google.co.uk
+# DOMAIN-SUFFIX,google.ca
+# DOMAIN-SUFFIX,google.com.ph
+# DOMAIN-SUFFIX,pki.goog
+
 # SSH
 IP-CIDR,150.230.59.212/32
 IP-CIDR,64.110.103.244/32
