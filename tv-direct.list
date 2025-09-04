@@ -77,10 +77,10 @@ DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,dssott.com
 
-
 # YouTube
 DOMAIN,youtu.be
 DOMAIN,yt3.ggpht.com
+DOMAIN,yt4.ggpht.com
 DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
