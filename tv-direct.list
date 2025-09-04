@@ -44,6 +44,13 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 
+# blizzard
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN,blz-contentstack-images.akamaized.net
+DOMAIN,blz-contentstack-assets.akamaized.net
+DOMAIN,images.blz-contentstack.com
+
 # Netflix
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nflxso.net
