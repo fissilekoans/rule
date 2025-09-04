@@ -58,6 +58,7 @@ DOMAIN,geolocation.onetrust.com
 DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,d2r.world
 DOMAIN,cdn.optimizely.com
+DOMAIN,cdn.cookielaw.org
 
 # Netflix
 DOMAIN-SUFFIX,netflix.com
