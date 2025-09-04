@@ -50,11 +50,9 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-WILDCARD,blizzard*
 DOMAIN-WILDCARD,blz-contentstack*
-# DOMAIN,blz-contentstack-images.akamaized.net
-# DOMAIN,blz-contentstack-assets.akamaized.net
-DOMAIN,baseui.akamaized.net
+DOMAIN-WILDCARD,blzprofile*
+DOMAIN-WILDCARD,baseui*
 DOMAIN,geolocation.onetrust.com
-DOMAIN,blzprofile.akamaihd.net
 DOMAIN,bnetcmsus-a.akamaihd.net
 
 # Netflix
