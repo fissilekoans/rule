@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,t.me
 
-# test
+#
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,pts.org.tw
@@ -40,8 +40,3 @@ DOMAIN-SUFFIX,irouteros.com
 DOMAIN-SUFFIX,lovelyping.com
 DOMAIN-SUFFIX,xukecheng.tech
 DOMAIN-SUFFIX,chongdiantou.com
-
-# javdb
-# DOMAIN,javdb.com
-# DOMAIN,c0.jdbstatic.com
-
