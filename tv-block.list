@@ -13,9 +13,7 @@ DOMAIN-SUFFIX,ad.yuntech.edu.tw
 DOMAIN-SUFFIX,error.khcc.gov.tw
 DOMAIN-SUFFIX,sw-track.tygh.mohw.gov.tw
 DOMAIN-SUFFIX,sw-tracker.tygh.mohw.gov.tw
-
-# ltn.com.tw 可能IP太髒
-# DOMAIN,pv.ltn.com.tw
+DOMAIN,flog.pressplay.cc
 
 # 一直失敗看的很煩的規則
 DOMAIN,a.nel.cloudflare.com
