@@ -35,6 +35,9 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 # DOMAIN-SUFFIX,oaiusercontent.com
 
+# perplexity
+DOMAIN-SUFFIX,perplexity.ai
+
 # steam
 DOMAIN,steamcommunity.com
 DOMAIN,steamcommunity-a.akamaihd.net
