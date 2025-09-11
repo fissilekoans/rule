@@ -18,6 +18,9 @@ SRC-IP,192.168.88.104/32
 # DOMAIN-SUFFIX,edu.tw
 # DOMAIN-SUFFIX,gov.tw
 
-#javdb
+# javdb
 DOMAIN,javdb.com
 DOMAIN,c0.jdbstatic.com
+
+# misrosoft 一直失敗
+DOMAIN,pti.store.microsoft.com
