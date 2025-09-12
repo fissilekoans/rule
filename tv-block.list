@@ -6,13 +6,36 @@
 # 其他：SUBNET、DEST-PORT、SRC-PORT、SRC-IP
 
 # 這邊都是提早幹掉的規則 
-# gov.tw edu.tw org.tw
+# gov.tw edu.tw org.tw .hinet.net
+
 DOMAIN-SUFFIX,ad.nccu.edu.tw
+DOMAIN-SUFFIX,stat.nccu.edu.tw
 DOMAIN-SUFFIX,ad.ntust.edu.tw
 DOMAIN-SUFFIX,ad.yuntech.edu.tw
+
 DOMAIN-SUFFIX,error.khcc.gov.tw
 DOMAIN-SUFFIX,sw-track.tygh.mohw.gov.tw
 DOMAIN-SUFFIX,sw-tracker.tygh.mohw.gov.tw
+
+DOMAIN-SUFFIX,ad-ettoday.cdn.hinet.net
+DOMAIN-SUFFIX,adv-ettoday.cdn.hinet.net
+DOMAIN-SUFFIX,cdnadspecs-onead.cdn.hinet.net
+DOMAIN-SUFFIX,cdnonead-onead.cdn.hinet.net
+DOMAIN-SUFFIX,cdnpixel-onead.cdn.hinet.net
+DOMAIN-SUFFIX,ssp.hinet.net
+DOMAIN-SUFFIX,vatrack.hinet.net
+
+# 被hinet 影響到的 已改成*.hinet.net 測試 2025.09.12
+DOMAIN-SUFFIX,ad.ettoday.net
+DOMAIN-SUFFIX,ad1.ettoday.net
+DOMAIN-SUFFIX,ad2.ettoday.net
+DOMAIN-SUFFIX,adv.ettoday.net
+DOMAIN-SUFFIX,dcs.ettoday.net
+DOMAIN-SUFFIX,nxnszu.ettoday.net
+DOMAIN-SUFFIX,momowa.momoshop.com.tw
+DOMAIN-SUFFIX,ybzcmz.momoshop.com.tw
+
+# pressplay.cc 渣報被CC幹掉的
 DOMAIN,flog.pressplay.cc
 
 # 一直失敗看的很煩的規則
