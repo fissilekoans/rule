@@ -30,3 +30,7 @@
 # DOMAIN-SUFFIX,x.com
 # DOMAIN-SUFFIX,twimg.com
 # DOMAIN-SUFFIX,twitter.com
+
+# javdb
+DOMAIN,javdb.com
+DOMAIN,c0.jdbstatic.com
