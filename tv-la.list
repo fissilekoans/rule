@@ -13,5 +13,8 @@
 # DOMAIN-SUFFIX,live-video.net
 
 # javdb
-# DOMAIN,javdb.com
-# DOMAIN,c0.jdbstatic.com
+DOMAIN,javdb.com
+DOMAIN,c0.jdbstatic.com
+
+DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,irouteros.com
