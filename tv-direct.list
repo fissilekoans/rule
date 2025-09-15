@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,taiwanlife.com
 DOMAIN,ws.ptt.cc
 DOMAIN,term.ptt.cc
 # time
-DOMAIN,time.apple.com
+DEST-PORT,123
 # ###
 # DOMAIN-SUFFIX,totallyacdn.com
 # 變IP的蘋果會一直被擋掉
