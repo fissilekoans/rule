@@ -1,7 +1,7 @@
 # time
 # DEST-PORT,123
 
-# SRC-IP,192.168.88.226/32
+SRC-IP,192.168.88.226/32
 # SRC-IP,192.168.88.104/32
 
 # twitch
@@ -12,23 +12,6 @@
 # DOMAIN-SUFFIX,twitchcdn.net
 # DOMAIN-SUFFIX,live-video.net
 
-# ###
-# DOMAIN-SUFFIX,chaturbate.com
-# DOMAIN-SUFFIX,mmcdn.com
-
-# DOMAIN-SUFFIX,fc2.com
-
-# DOMAIN-SUFFIX,myfreecams.com
-# DOMAIN-SUFFIX,mfcimg.com
-
-# DOMAIN-SUFFIX,tkcdns.com
-# DOMAIN-SUFFIX,tktube.com
-# DOMAIN-SUFFIX,cloudflarestorage.com
-
-# DOMAIN-SUFFIX,x.com
-# DOMAIN-SUFFIX,twimg.com
-# DOMAIN-SUFFIX,twitter.com
-
 # javdb
-DOMAIN,javdb.com
-DOMAIN,c0.jdbstatic.com
+# DOMAIN,javdb.com
+# DOMAIN,c0.jdbstatic.com
