@@ -1,10 +1,10 @@
 # NAME: TW
 
 # time
-DEST-PORT,123
+# DEST-PORT,123
 
-SRC-IP,192.168.88.226/32
-SRC-IP,192.168.88.104/32
+# SRC-IP,192.168.88.226/32
+# SRC-IP,192.168.88.104/32
 
 # kktv
 # DOMAIN-SUFFIX,kktv.me
@@ -21,6 +21,3 @@ SRC-IP,192.168.88.104/32
 # javdb
 # DOMAIN,javdb.com
 # DOMAIN,c0.jdbstatic.com
-
-# misrosoft 一直失敗
-DOMAIN,pti.store.microsoft.com
