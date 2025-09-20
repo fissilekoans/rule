@@ -47,22 +47,22 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 
 # blizzard
-DOMAIN-SUFFIX,blizzard.com
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,blz-contentstack.com
-DOMAIN-SUFFIX,blzstatic.com
-DOMAIN-WILDCARD,blizzard*
-DOMAIN-WILDCARD,blz-contentstack*
-DOMAIN-WILDCARD,blzprofile*
-DOMAIN-WILDCARD,baseui*
-DOMAIN-WILDCARD,bnetaccount*
-DOMAIN-WILDCARD,bnetcheckoutbkp*
-DOMAIN-WILDCARD,bnetstorefront*
-DOMAIN,geolocation.onetrust.com
-DOMAIN,bnetcmsus-a.akamaihd.net
-DOMAIN,cdn.optimizely.com
-DOMAIN,cdn.cookielaw.org
-IP-ASN,57976
+# DOMAIN-SUFFIX,blizzard.com
+# DOMAIN-SUFFIX,battle.net
+# DOMAIN-SUFFIX,blz-contentstack.com
+# DOMAIN-SUFFIX,blzstatic.com
+# DOMAIN-WILDCARD,blizzard*
+# DOMAIN-WILDCARD,blz-contentstack*
+# DOMAIN-WILDCARD,blzprofile*
+# DOMAIN-WILDCARD,baseui*
+# DOMAIN-WILDCARD,bnetaccount*
+# DOMAIN-WILDCARD,bnetcheckoutbkp*
+# DOMAIN-WILDCARD,bnetstorefront*
+# DOMAIN,geolocation.onetrust.com
+# DOMAIN,bnetcmsus-a.akamaihd.net
+# DOMAIN,cdn.optimizely.com
+# DOMAIN,cdn.cookielaw.org
+# IP-ASN,57976
 
 # Netflix
 DOMAIN-SUFFIX,netflix.com
