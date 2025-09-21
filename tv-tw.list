@@ -6,18 +6,7 @@
 # SRC-IP,192.168.88.226/32
 # SRC-IP,192.168.88.104/32
 
-# kktv
-# DOMAIN-SUFFIX,kktv.me
-# DOMAIN-SUFFIX,kktv.com.tw
-
-# DOMAIN-SUFFIX,hinet.net
-# DOMAIN-SUFFIX,cht.com.tw
-# DOMAIN-SUFFIX,emome.net
-
-# DOMAIN-SUFFIX,org.tw
-# DOMAIN-SUFFIX,edu.tw
-# DOMAIN-SUFFIX,gov.tw
-
-# javdb
-# DOMAIN,javdb.com
-# DOMAIN,c0.jdbstatic.com
+DOMAIN-SUFFIX,taiwanmobile.com
+DOMAIN-SUFFIX,taiwanmobile.net
+DOMAIN-SUFFIX,myfone.com.tw
+DOMAIN-SUFFIX,myvideo.net.tw
