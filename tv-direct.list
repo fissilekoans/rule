@@ -21,6 +21,7 @@ DEST-PORT,123
 # DOMAIN-SUFFIX,totallyacdn.com
 # 變IP的蘋果會一直被擋掉
 DOMAIN,tether.edge.apple
+DOMAIN-SUFFIX,fc2ppvdb.com
 
 # DOMAIN-SUFFIX,kktv.me
 # DOMAIN-SUFFIX,kktv.com.tw
