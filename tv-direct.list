@@ -64,7 +64,7 @@ DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,cdn.optimizely.com
 DOMAIN,cdn.cookielaw.org
 IP-ASN,57976
-DEST-PORT,6112-6119
+# DEST-PORT,6112-6119
 
 # Netflix
 DOMAIN-SUFFIX,netflix.com
