@@ -65,6 +65,8 @@ DOMAIN,cdn.optimizely.com
 DOMAIN,cdn.cookielaw.org
 IP-ASN,57976
 DEST-PORT,6112-6115
+DEST-PORT,54545-54548
+DEST-PORT,28893
 
 # Netflix
 DOMAIN-SUFFIX,netflix.com
