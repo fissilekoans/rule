@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,forum.jorsindo.com
 DOMAIN-SUFFIX,lovelyping.com
 DOMAIN-SUFFIX,xukecheng.tech
 DOMAIN-SUFFIX,chongdiantou.com
+
+DEST-PORT,6112-6115
