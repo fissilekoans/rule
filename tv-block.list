@@ -8,20 +8,11 @@
 # 這邊都是提早幹掉的規則 
 # gov.tw edu.tw org.tw .hinet.net
 
-DOMAIN-SUFFIX,ad.nccu.edu.tw
-DOMAIN-SUFFIX,stat.nccu.edu.tw
 DOMAIN-SUFFIX,ad.ntust.edu.tw
-DOMAIN-SUFFIX,ad.yuntech.edu.tw
-
-DOMAIN-SUFFIX,error.khcc.gov.tw
-DOMAIN-SUFFIX,sw-track.tygh.mohw.gov.tw
-DOMAIN-SUFFIX,sw-tracker.tygh.mohw.gov.tw
 
 DOMAIN-SUFFIX,ad-ettoday.cdn.hinet.net
 DOMAIN-SUFFIX,adv-ettoday.cdn.hinet.net
 DOMAIN-SUFFIX,cdnadspecs-onead.cdn.hinet.net
-DOMAIN-SUFFIX,cdnonead-onead.cdn.hinet.net
-DOMAIN-SUFFIX,cdnpixel-onead.cdn.hinet.net
 DOMAIN-SUFFIX,ssp.hinet.net
 DOMAIN-SUFFIX,vatrack.hinet.net
 
@@ -33,35 +24,36 @@ DOMAIN-SUFFIX,adv.ettoday.net
 DOMAIN-SUFFIX,dcs.ettoday.net
 DOMAIN-SUFFIX,nxnszu.ettoday.net
 DOMAIN-SUFFIX,momowa.momoshop.com.tw
-DOMAIN-SUFFIX,ybzcmz.momoshop.com.tw
 
 # pressplay.cc 渣報被CC幹掉的
 DOMAIN,flog.pressplay.cc
 
-# 一直失敗看的很煩的規則
-DOMAIN,a.nel.cloudflare.com
-DOMAIN,fp.msedge.net
-DOMAIN,logs.netflix.com
-DOMAIN,metrics.icloud.com
-DOMAIN-SUFFIX,xp.apple.com
-DOMAIN,arc.msn.com
-DOMAIN,bat.bing.com
-DOMAIN-SUFFIX,activity.windows.com
-DOMAIN-SUFFIX,events.data.microsoft.com
+# 一直失敗看的很煩的規則 pro++裡面的
+DOMAIN-SUFFIX,nel.cloudflare.com
+DOMAIN-SUFFIX,fp.msedge.net
+DOMAIN-SUFFIX,logs.netflix.com
+DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN,graph.facebook.com
 DOMAIN,connect.facebook.net
-DOMAIN,partiality.itunes.apple.com
+DOMAIN-SUFFIX,partiality.itunes.apple.com
 DOMAIN-SUFFIX,csp.withgoogle.com
-DOMAIN,normandy.cdn.mozilla.net
+DOMAIN-SUFFIX,normandy.cdn.mozilla.net
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN,a8270235338.cdn.optimizely.com
+DOMAIN-SUFFIX,a8270235338.cdn.optimizely.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,sentry.io
-DOMAIN,ichnaea-web.netflix.com
+DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN,ipv6.msftncsi.com
 
+# 自訂controld Tracker 裡面的
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,arc.msn.com
+DOMAIN-SUFFIX,bat.bing.com
+DOMAIN-SUFFIX,activity.windows.com
+DOMAIN-SUFFIX,events.data.microsoft.com
 
+# controld test ipv6
 DOMAIN,api-v6.controld.com
 DOMAIN-SUFFIX,ipv6.controld.io
 
