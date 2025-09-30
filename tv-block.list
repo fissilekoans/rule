@@ -59,6 +59,7 @@ DOMAIN,a8270235338.cdn.optimizely.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN,ichnaea-web.netflix.com
+DOMAIN,ipv6.msftncsi.com
 
 
 DOMAIN,api-v6.controld.com
