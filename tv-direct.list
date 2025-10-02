@@ -10,8 +10,8 @@ DOMAIN-SUFFIX,mohw.gov.tw
 # DOMAIN-SUFFIX,nat.gov.tw
 # 台灣人壽
 DOMAIN-SUFFIX,taiwanlife.com
-# finalaa
-# DOMAIN-SUFFIX,finalaa.win
+# 
+DOMAIN-SUFFIX,nkut.edu.tw
 # ptt
 DOMAIN,ws.ptt.cc
 DOMAIN,term.ptt.cc
