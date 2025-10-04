@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN,ipv6.msftncsi.com
+DOMAIN,ipv6.msftconnecttest.com
 
 # 自訂controld Tracker 裡面的
 DOMAIN-SUFFIX,xp.apple.com
