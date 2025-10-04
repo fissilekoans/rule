@@ -19,7 +19,7 @@ DOMAIN,term.ptt.cc
 # time
 DEST-PORT,123
 # ###
-# DOMAIN-SUFFIX,totallyacdn.com
+DEST-PORT,6464
 # 變IP的蘋果會一直被擋掉
 DOMAIN,tether.edge.apple
 DOMAIN-SUFFIX,fc2ppvdb.com
