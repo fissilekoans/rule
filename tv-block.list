@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN,ipv6.msftncsi.com
 DOMAIN,ipv6.msftconnecttest.com
+DOMAIN,telemetry-in.battle.net
 
 # 自訂controld Tracker 裡面的
 DOMAIN-SUFFIX,xp.apple.com
