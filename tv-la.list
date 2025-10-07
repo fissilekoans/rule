@@ -11,13 +11,3 @@
 # DOMAIN-SUFFIX,cloudfront.net
 # DOMAIN-SUFFIX,twitchcdn.net
 # DOMAIN-SUFFIX,live-video.net
-
-# javdb
-DOMAIN,javdb.com
-DOMAIN,c0.jdbstatic.com
-
-DOMAIN-SUFFIX,sspai.com
-DOMAIN-SUFFIX,irouteros.com
-
-# 極電魔方
-DOMAIN-SUFFIX,fcpowerup.com
