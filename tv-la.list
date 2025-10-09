@@ -1,13 +1,4 @@
-# time
-# DEST-PORT,123
+# ###
 
-# SRC-IP,192.168.88.226/32
-# SRC-IP,192.168.88.104/32
-
-# twitch
-# DOMAIN-SUFFIX,twitch.tv
-# DOMAIN-SUFFIX,jtvnw.net
-# DOMAIN-SUFFIX,ttvnw.net
-# DOMAIN-SUFFIX,cloudfront.net
-# DOMAIN-SUFFIX,twitchcdn.net
-# DOMAIN-SUFFIX,live-video.net
+# 少數派
+DOMAIN-SUFFIX,sspai.com
