@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,mohw.gov.tw
 # DOMAIN-SUFFIX,nat.gov.tw
 # 台灣人壽
 DOMAIN-SUFFIX,taiwanlife.com
-# 
+# edu
 DOMAIN-SUFFIX,nkut.edu.tw
 DOMAIN-SUFFIX,mail.edu.tw
 # ptt
@@ -21,6 +21,7 @@ DEST-PORT,123
 # 變IP的蘋果會一直被擋掉
 DOMAIN,tether.edge.apple
 DOMAIN-SUFFIX,fc2ppvdb.com
+DOMAIN-SUFFIX,finalaa.win
 
 # DOMAIN-SUFFIX,kktv.me
 # DOMAIN-SUFFIX,kktv.com.tw
