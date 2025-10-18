@@ -44,15 +44,16 @@ DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN,api-v6.controld.com
 DOMAIN-SUFFIX,ipv6.controld.io
 
-# stun
+# stun and httpdns
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
 DOMAIN,meet-jit-si-turnrelay.jitsi.net
-DOMAIN-WILDCARD,stun.*
-DOMAIN-WILDCARD,stunserver.*
-DOMAIN-WILDCARD,stun*.*
-DOMAIN-WILDCARD,*.stun.*
-DOMAIN-WILDCARD,*.turn.*
+DOMAIN-WILDCARD,stunserver*
+DOMAIN-WILDCARD,stun*
+DOMAIN-WILDCARD,*stun*
+DOMAIN-WILDCARD,*turn*
 IP-CIDR,39.107.142.158/32
+DOMAIN-WILDCARD,httpdns*
+DOMAIN-WILDCARD,*httpdns*
 
 # ???
 IP-CIDR,0.0.0.0/32
