@@ -7,3 +7,10 @@ DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
+
+# javdb
+DOMAIN,javdb.com
+DOMAIN,c0.jdbstatic.com
+
+# routeros
+DOMAIN-SUFFIX,irouteros.com
