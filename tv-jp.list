@@ -4,6 +4,8 @@
 # switch
 SRC-IP,192.168.88.104/32
 
+DOMAIN-SUFFIX,finalaa.win
+
 # DOMAIN-SUFFIX,imgur.com
 # DOMAIN-SUFFIX,cna.com.tw
 # DOMAIN-SUFFIX,pts.org.tw
