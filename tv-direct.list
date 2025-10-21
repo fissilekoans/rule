@@ -4,30 +4,23 @@
 DOMAIN-SUFFIX,hncb.com.tw
 DOMAIN-SUFFIX,post.gov.tw
 # 醫院
-DOMAIN-SUFFIX,cch.org.tw
-DOMAIN-SUFFIX,mohw.gov.tw
+# DOMAIN-SUFFIX,cch.org.tw
+# DOMAIN-SUFFIX,mohw.gov.tw
 # 統一發票(還有兼職ocsp)
 # DOMAIN-SUFFIX,nat.gov.tw
 # 台灣人壽
 DOMAIN-SUFFIX,taiwanlife.com
 # edu
-DOMAIN-SUFFIX,nkut.edu.tw
-DOMAIN-SUFFIX,mail.edu.tw
+# DOMAIN-SUFFIX,nkut.edu.tw
+# DOMAIN-SUFFIX,mail.edu.tw
 # ptt
-DOMAIN,ws.ptt.cc
-DOMAIN,term.ptt.cc
+# DOMAIN,ws.ptt.cc
+# DOMAIN,term.ptt.cc
 # time
 DEST-PORT,123
 # 變IP的蘋果會一直被擋掉
 DOMAIN,tether.edge.apple
-DOMAIN-SUFFIX,fc2ppvdb.com
-
-# DOMAIN-SUFFIX,kktv.me
-# DOMAIN-SUFFIX,kktv.com.tw
-# DOMAIN-SUFFIX,hinet.net
-# DOMAIN-SUFFIX,cht.com.tw
-# DOMAIN-SUFFIX,emome.net
-# DOMAIN-SUFFIX,pts.org.tw
+# DOMAIN-SUFFIX,fc2ppvdb.com
 
 # OpenAI
 # DOMAIN-SUFFIX,openai.com
@@ -38,13 +31,12 @@ DOMAIN-SUFFIX,fc2ppvdb.com
 # DOMAIN-SUFFIX,perplexity.ai
 
 # steam
-DOMAIN,steamcommunity.com
-DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN-SUFFIX,steamusercontent.com
-# DOMAIN,steamuserimages-a.akamaihd.net
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamserver.net
+# DOMAIN,steamcommunity.com
+# DOMAIN,steamcommunity-a.akamaihd.net
+# DOMAIN-SUFFIX,steamusercontent.com
+# DOMAIN-SUFFIX,steamstatic.com
+# DOMAIN-SUFFIX,steampowered.com
+# DOMAIN-SUFFIX,steamserver.net
 
 # 暴雪
 DOMAIN-SUFFIX,blizzard.com
@@ -75,12 +67,12 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
 
 # disney+
-DOMAIN,cdn.registerdisney.go.com
-DOMAIN,xpaywalletcdn-prod.azureedge.net
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,disney-plus.net
-DOMAIN-SUFFIX,dssott.com
+# DOMAIN,cdn.registerdisney.go.com
+# DOMAIN,xpaywalletcdn-prod.azureedge.net
+# DOMAIN-SUFFIX,disneyplus.com
+# DOMAIN-SUFFIX,bamgrid.com
+# DOMAIN-SUFFIX,disney-plus.net
+# DOMAIN-SUFFIX,dssott.com
 
 # YouTube
 DOMAIN,youtu.be
