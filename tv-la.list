@@ -14,3 +14,15 @@ DOMAIN,c0.jdbstatic.com
 
 # routeros
 DOMAIN-SUFFIX,irouteros.com
+
+# anime字幕論壇
+DOMAIN,bbs.acgrip.com
+
+# 我們的小屋
+DOMAIN-SUFFIX,lovelyping.com
+
+# XKC的不定期分享
+DOMAIN-SUFFIX,xukecheng.tech
+
+# 充電頭網 有時可以有時不行 在測試
+DOMAIN-SUFFIX,chongdiantou.com
