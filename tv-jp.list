@@ -8,6 +8,11 @@ SRC-IP,192.168.88.104/32
 
 DOMAIN-SUFFIX,finalaa.win
 
+# x
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+
 # telegram
 # Last Updated: 2025-08-12T10:49:16.608Z
 IP-CIDR,5.28.195.1/32
