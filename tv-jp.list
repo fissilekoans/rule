@@ -1,5 +1,5 @@
 # time
-DEST-PORT,123
+# DEST-PORT,123
 
 # switch
 # SRC-IP,192.168.88.104/32
