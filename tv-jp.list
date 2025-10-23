@@ -6,8 +6,6 @@ SRC-IP,192.168.88.104/32
 # 226
 # SRC-IP,192.168.88.226/32
 
-DOMAIN-SUFFIX,finalaa.win
-
 # x
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
