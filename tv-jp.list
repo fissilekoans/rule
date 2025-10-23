@@ -5,3 +5,6 @@ DEST-PORT,123
 # SRC-IP,192.168.88.104/32
 # 226
 # SRC-IP,192.168.88.226/32
+
+# 變IP的蘋果會一直被擋掉
+DOMAIN,tether.edge.apple
