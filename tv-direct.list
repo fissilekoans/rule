@@ -17,8 +17,7 @@ DOMAIN-SUFFIX,taiwanlife.com
 # DOMAIN,ws.ptt.cc
 # DOMAIN,term.ptt.cc
 
-# 
-# DOMAIN-SUFFIX,finalaa.win
+DOMAIN-SUFFIX,finalaa.win
 
 # time
 # DEST-PORT,123
