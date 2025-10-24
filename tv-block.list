@@ -8,10 +8,8 @@
 # 這邊都是提早幹掉的規則 
 # gov.tw edu.tw org.tw
 
-DOMAIN-SUFFIX,ad.ntust.edu.tw
-
 # pressplay.cc 渣報被CC幹掉的
-DOMAIN,flog.pressplay.cc
+# DOMAIN,flog.pressplay.cc
 
 # 一直失敗看的很煩的規則 pro++裡面的
 DOMAIN-SUFFIX,nel.cloudflare.com
@@ -41,8 +39,8 @@ DOMAIN-SUFFIX,activity.windows.com
 DOMAIN-SUFFIX,events.data.microsoft.com
 
 # controld test ipv6
-DOMAIN,api-v6.controld.com
-DOMAIN-SUFFIX,ipv6.controld.io
+# DOMAIN,api-v6.controld.com
+# DOMAIN-SUFFIX,ipv6.controld.io
 
 # stun and httpdns
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
