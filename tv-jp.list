@@ -1,70 +1,9 @@
+#####
+
 # time
 DEST-PORT,123
 
-# switch
-# SRC-IP,192.168.88.104/32
 # 226
 # SRC-IP,192.168.88.226/32
 
-# 變IP的蘋果會一直被擋掉
-# DOMAIN,tether.edge.apple
-
 DOMAIN-SUFFIX,finalaa.win
-
-# twitch
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,live-video.net
-
-# chaturbate
-DOMAIN-SUFFIX,chaturbate.com
-DOMAIN-SUFFIX,mmcdn.com
-
-# myfreecams
-DOMAIN-SUFFIX,myfreecams.com
-DOMAIN-SUFFIX,mfcimg.com
-
-# missav
-DOMAIN,missav.ai
-DOMAIN,missav.ws
-DOMAIN,fourhoi.com
-DOMAIN,cdn.plyr.io
-DOMAIN,client-rapi-missav.recombee.com
-DOMAIN,surrit.com
-
-# tktube
-DOMAIN,tktube.com
-DOMAIN-SUFFIX,tkcdns.com
-DOMAIN-SUFFIX,cloudflarestorage.com
-
-# Last Updated: 2025-08-12T10:49:16.608Z
-IP-CIDR,5.28.195.1/32
-IP-CIDR,5.28.195.2/32
-IP-CIDR,91.105.192.0/23
-IP-CIDR,91.108.4.0/22
-IP-CIDR,91.108.8.0/21
-IP-CIDR,91.108.16.0/21
-IP-CIDR,91.108.56.0/22
-IP-CIDR,95.161.64.0/20
-IP-CIDR,139.59.210.98/32
-IP-CIDR,149.154.160.0/20
-IP-CIDR,185.76.151.0/24
-IP-CIDR,196.55.216.167/32
-
-# Last Updated: 2025-07-21T08:09:50.409Z
-DOMAIN-SUFFIX,telegram.space
-DOMAIN-SUFFIX,cdn-telegram.org
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,graph.org
-DOMAIN-SUFFIX,telega.one
-DOMAIN-SUFFIX,telegram.dog
-DOMAIN-SUFFIX,tg.dev
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,legra.ph
-DOMAIN-SUFFIX,telesco.pe
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,tx.me
-DOMAIN-SUFFIX,t.me
