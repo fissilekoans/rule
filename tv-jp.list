@@ -26,6 +26,19 @@ DOMAIN-SUFFIX,mmcdn.com
 DOMAIN-SUFFIX,myfreecams.com
 DOMAIN-SUFFIX,mfcimg.com
 
+# missav
+DOMAIN,missav.ai
+DOMAIN,missav.ws
+DOMAIN,fourhoi.com
+DOMAIN,cdn.plyr.io
+DOMAIN,client-rapi-missav.recombee.com
+DOMAIN,surrit.com
+
+# tktube
+DOMAIN,tktube.com
+DOMAIN-SUFFIX,tkcdns.com
+DOMAIN-SUFFIX,cloudflarestorage.com
+
 # Last Updated: 2025-08-12T10:49:16.608Z
 IP-CIDR,5.28.195.1/32
 IP-CIDR,5.28.195.2/32
