@@ -8,3 +8,5 @@ DEST-PORT,123
 
 # 變IP的蘋果會一直被擋掉
 # DOMAIN,tether.edge.apple
+
+DOMAIN-SUFFIX,finalaa.win
