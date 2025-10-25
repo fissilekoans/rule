@@ -19,8 +19,16 @@ DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,taiwanmobile.com
 DOMAIN-SUFFIX,taiwanmobile.net
 DOMAIN-SUFFIX,fc2ppvdb.com
+DOMAIN-SUFFIX,twca.com.tw
 
-# DOMAIN,tether.edge.apple
+# pchome24
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pcloud.tw
+DOMAIN-SUFFIX,ecimg.tw
+DOMAIN-SUFFIX,pchome.tw
+
+# momo
+DOMAIN-SUFFIX,momoshop.com.tw
 
 # DOMAIN-SUFFIX,
 # DOMAIN,
