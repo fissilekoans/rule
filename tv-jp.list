@@ -11,6 +11,21 @@ DEST-PORT,123
 
 DOMAIN-SUFFIX,finalaa.win
 
+# twitch
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,live-video.net
+
+# chaturbate
+DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,mmcdn.com
+
+# myfreecams
+DOMAIN-SUFFIX,myfreecams.com
+DOMAIN-SUFFIX,mfcimg.com
+
 # Last Updated: 2025-08-12T10:49:16.608Z
 IP-CIDR,5.28.195.1/32
 IP-CIDR,5.28.195.2/32
