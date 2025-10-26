@@ -40,6 +40,7 @@ DOMAIN-WILDCARD,yt4.*
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN,youtubei.googleapis.com
+DOMAIN,www.youtube-nocookie.com
 # DOMAIN-SUFFIX,ggpht.com
 # DOMAIN-SUFFIX,ytimg.com
 # DOMAIN-SUFFIX,gstatic.com
