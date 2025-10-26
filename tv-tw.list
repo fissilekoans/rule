@@ -39,16 +39,6 @@ DOMAIN,bahamut.akamaized.net
 # DOMAIN-SUFFIX,
 # DOMAIN,
 
-# steam
-DOMAIN,steamcommunity.com
-DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,steampipe.akamaized.net
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamcontent.com
-
 # 暴雪
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,battle.net
