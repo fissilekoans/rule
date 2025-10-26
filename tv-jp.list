@@ -9,9 +9,10 @@ DEST-PORT,123
 DOMAIN-SUFFIX,finalaa.win
 
 # steam
-DOMAIN,steamcommunity.com
-DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,steampipe.akamaized.net
+DOMAIN-WILDCARD,steam*
+# DOMAIN,steamcommunity.com
+# DOMAIN,steamcommunity-a.akamaihd.net
+# DOMAIN,steampipe.akamaized.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steampowered.com
