@@ -10,12 +10,37 @@ DOMAIN-SUFFIX,finalaa.win
 
 # steam
 DOMAIN-WILDCARD,steam*
-# DOMAIN,steamcommunity.com
-# DOMAIN,steamcommunity-a.akamaihd.net
-# DOMAIN,steampipe.akamaized.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,hcaptcha.com
+
+# twitch
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,live-video.net
+
+# chaturbate
+DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,mmcdn.com
+
+# myfreecams
+DOMAIN-SUFFIX,myfreecams.com
+DOMAIN-SUFFIX,mfcimg.com
+
+# missav
+DOMAIN,missav.ai
+DOMAIN,missav.ws
+DOMAIN,fourhoi.com
+DOMAIN,cdn.plyr.io
+DOMAIN,client-rapi-missav.recombee.com
+DOMAIN,surrit.com
+
+# tktube
+DOMAIN,tktube.com
+DOMAIN-SUFFIX,tkcdns.com
+DOMAIN-SUFFIX,cloudflarestorage.com
