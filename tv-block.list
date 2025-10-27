@@ -39,8 +39,8 @@ DOMAIN-SUFFIX,activity.windows.com
 DOMAIN-SUFFIX,events.data.microsoft.com
 
 # controld test ipv6
-# DOMAIN,api-v6.controld.com
-# DOMAIN-SUFFIX,ipv6.controld.io
+DOMAIN,api-v6.controld.com
+DOMAIN-SUFFIX,ipv6.controld.io
 
 # stun and httpdns
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
