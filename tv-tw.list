@@ -1,7 +1,7 @@
 # NAME: TW
 
 # time
-# DEST-PORT,123
+DEST-PORT,123
 
 SRC-IP,192.168.88.226/32
 
