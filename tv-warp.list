@@ -1,10 +1,5 @@
 # warp
 
-DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,browserleaks.org
-DOMAIN-SUFFIX,browserleaks.net
-DOMAIN-SUFFIX,rdap.arin.net
-
 # steam
 DOMAIN-WILDCARD,steam*
 DOMAIN-SUFFIX,steamusercontent.com
