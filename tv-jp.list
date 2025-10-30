@@ -3,19 +3,7 @@
 # time
 DEST-PORT,123
 
-# 226
-# SRC-IP,192.168.88.226/32
-
 DOMAIN-SUFFIX,finalaa.win
-
-# steam
-DOMAIN-WILDCARD,steam*
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,hcaptcha.com
 
 # 暴雪
 DOMAIN-SUFFIX,blizzard.com
