@@ -53,3 +53,9 @@ DOMAIN,surrit.com
 DOMAIN,tktube.com
 DOMAIN-SUFFIX,tkcdns.com
 DOMAIN-SUFFIX,cloudflarestorage.com
+
+# discord
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
