@@ -27,19 +27,19 @@ DEST-PORT,54545-54548
 DEST-PORT,28891-28893
 
 # twitch
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,live-video.net
+# DOMAIN-SUFFIX,twitch.tv
+# DOMAIN-SUFFIX,jtvnw.net
+# DOMAIN-SUFFIX,ttvnw.net
+# DOMAIN-SUFFIX,twitchcdn.net
+# DOMAIN-SUFFIX,live-video.net
 
 # chaturbate
-DOMAIN-SUFFIX,chaturbate.com
-DOMAIN-SUFFIX,mmcdn.com
+# DOMAIN-SUFFIX,chaturbate.com
+# DOMAIN-SUFFIX,mmcdn.com
 
 # myfreecams
-DOMAIN-SUFFIX,myfreecams.com
-DOMAIN-SUFFIX,mfcimg.com
+# DOMAIN-SUFFIX,myfreecams.com
+# DOMAIN-SUFFIX,mfcimg.com
 
 # missav
 DOMAIN,missav.ai
