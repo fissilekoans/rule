@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,tkcdns.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 
 # discord
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discordapp.net
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discordapp.com
+# DOMAIN-SUFFIX,discord.gg
+# DOMAIN-SUFFIX,discordapp.net
+# DOMAIN-SUFFIX,discord.com
+# DOMAIN-SUFFIX,discordapp.com
