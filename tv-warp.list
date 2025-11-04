@@ -1,5 +1,7 @@
 # warp
 
+DOMAIN-SUFFIX,finalaa.win
+
 # steam
 DOMAIN-WILDCARD,steam*
 DOMAIN-SUFFIX,steamusercontent.com
