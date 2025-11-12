@@ -59,3 +59,9 @@ DOMAIN-SUFFIX,cloudflarestorage.com
 # DOMAIN-SUFFIX,discordapp.net
 # DOMAIN-SUFFIX,discord.com
 # DOMAIN-SUFFIX,discordapp.com
+
+# github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
