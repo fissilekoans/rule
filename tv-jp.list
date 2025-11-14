@@ -42,17 +42,17 @@ DEST-PORT,28891-28893
 # DOMAIN-SUFFIX,mfcimg.com
 
 # missav
-DOMAIN,missav.ai
-DOMAIN,missav.ws
-DOMAIN,fourhoi.com
-DOMAIN,cdn.plyr.io
-DOMAIN,client-rapi-missav.recombee.com
-DOMAIN,surrit.com
+# DOMAIN,missav.ai
+# DOMAIN,missav.ws
+# DOMAIN,fourhoi.com
+# DOMAIN,cdn.plyr.io
+# DOMAIN,client-rapi-missav.recombee.com
+# DOMAIN,surrit.com
 
 # tktube
-DOMAIN,tktube.com
-DOMAIN-SUFFIX,tkcdns.com
-DOMAIN-SUFFIX,cloudflarestorage.com
+# DOMAIN,tktube.com
+# DOMAIN-SUFFIX,tkcdns.com
+# DOMAIN-SUFFIX,cloudflarestorage.com
 
 # discord
 # DOMAIN-SUFFIX,discord.gg
