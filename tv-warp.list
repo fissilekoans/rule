@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,hcaptcha.com
 
-# Last Updated: 2025-10-25T05:15:12.372Z
+# Last Updated: 2025-11-15T18:34:09.161Z
 IP-CIDR,5.28.195.1/32
 IP-CIDR,5.28.195.2/32
 IP-CIDR,91.105.192.0/23
