@@ -46,9 +46,9 @@ DOMAIN-SUFFIX,momoshop.com.tw
 DOMAIN-SUFFIX,momo.com.tw
 
 # 巴哈
-DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN-SUFFIX,bahamut.com.tw
-DOMAIN,bahamut.akamaized.net
+# DOMAIN-SUFFIX,gamer.com.tw
+# DOMAIN-SUFFIX,bahamut.com.tw
+# DOMAIN,bahamut.akamaized.net
 
 # DOMAIN-SUFFIX,
 # DOMAIN,
