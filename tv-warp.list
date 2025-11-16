@@ -43,7 +43,3 @@ DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,t.me
-
-# ptt
-DOMAIN,ws.ptt.cc
-DOMAIN,term.ptt.cc
