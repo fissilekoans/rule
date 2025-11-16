@@ -3,7 +3,7 @@
 # time
 DEST-PORT,123
 
-DOMAIN-SUFFIX,finalaa.win
+# DOMAIN-SUFFIX,finalaa.win
 
 # 暴雪
 DOMAIN-SUFFIX,blizzard.com
