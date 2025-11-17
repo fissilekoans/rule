@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,blzstatic.com
 DOMAIN-WILDCARD,blizzard*
+DOMAIN-WILDCARD,blzddist1*
 DOMAIN-WILDCARD,blz-contentstack*
 DOMAIN-WILDCARD,blzprofile*
 DOMAIN-WILDCARD,baseui*
