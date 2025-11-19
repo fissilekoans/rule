@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,arc.msn.com
 DOMAIN-SUFFIX,bat.bing.com
 DOMAIN-SUFFIX,activity.windows.com
 DOMAIN-SUFFIX,events.data.microsoft.com
+DOMAIN,win10-trt.msedge.net
 
 # controld test ipv6
 DOMAIN,api-v6.controld.com
