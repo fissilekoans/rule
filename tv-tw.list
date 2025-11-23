@@ -70,6 +70,7 @@ DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,cdn.optimizely.com
 DOMAIN,cdn.cookielaw.org
 IP-ASN,57976
+IP-ASN,396982
 DEST-PORT,6112-6115
 DEST-PORT,54545-54548
 DEST-PORT,28891-28893
