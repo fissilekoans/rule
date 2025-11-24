@@ -52,29 +52,6 @@ DOMAIN,momo.dm
 # DOMAIN-SUFFIX,bahamut.com.tw
 # DOMAIN,bahamut.akamaized.net
 
-# 暴雪
-DOMAIN-SUFFIX,blizzard.com
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,blz-contentstack.com
-DOMAIN-SUFFIX,blzstatic.com
-DOMAIN-WILDCARD,blizzard*
-DOMAIN-WILDCARD,blzddist1*
-DOMAIN-WILDCARD,blz-contentstack*
-DOMAIN-WILDCARD,blzprofile*
-DOMAIN-WILDCARD,baseui*
-DOMAIN-WILDCARD,bnetaccount*
-DOMAIN-WILDCARD,bnetcheckoutbkp*
-DOMAIN-WILDCARD,bnetstorefront*
-DOMAIN,geolocation.onetrust.com
-DOMAIN,bnetcmsus-a.akamaihd.net
-DOMAIN,cdn.optimizely.com
-DOMAIN,cdn.cookielaw.org
-IP-ASN,57976   // 這應該是給暗黑4的
-IP-ASN,396982  // 暗黑2是給google-cloud-platform
-DEST-PORT,6112-6115
-DEST-PORT,54545-54548
-DEST-PORT,28891-28893
-
 # disney+
 # DOMAIN,cdn.registerdisney.go.com
 # DOMAIN,xpaywalletcdn-prod.azureedge.net
@@ -104,3 +81,9 @@ DOMAIN-SUFFIX,xukecheng.tech
 
 # 充電頭網 有時可以有時不行 在測試
 DOMAIN-SUFFIX,chongdiantou.com
+
+# 163
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,16163.com
+DOMAIN-SUFFIX,166.net
+DOMAIN-SUFFIX,netease.com
