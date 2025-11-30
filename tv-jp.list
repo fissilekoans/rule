@@ -1,5 +1,7 @@
 #####
 
+DOMAIN-SUFFIX,finalaa.win
+
 # time
 DEST-PORT,123
 
