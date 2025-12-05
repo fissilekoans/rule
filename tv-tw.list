@@ -2,4 +2,85 @@
 
 SRC-IP,192.168.88.226/32
 
-# 多的備份到-ph-other去了
+DOMAIN-SUFFIX,edu.tw
+DOMAIN-SUFFIX,org.tw
+DOMAIN-SUFFIX,gov.tw
+
+DOMAIN-SUFFIX,hinet.net
+DOMAIN,code.jquery.com // 搭配hinet的
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,myfone.com.tw
+DOMAIN-SUFFIX,cna.com.tw
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,taiwanmobile.com
+DOMAIN-SUFFIX,taiwanmobile.net
+DOMAIN-SUFFIX,fc2ppvdb.com
+DOMAIN-SUFFIX,twca.com.tw
+DOMAIN,chts.tw
+
+# Linetv kktv
+DOMAIN-SUFFIX,kktv.me
+DOMAIN,kktv.to
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,chocotv.com.tw
+DOMAIN-SUFFIX,blendvision.com
+DOMAIN,livebuy.tv
+DOMAIN,lottie.host
+DOMAIN,linetvhelp.zendesk.com
+DOMAIN,d36dgdk71xuzzg.cloudfront.net
+DOMAIN,d17lx9ucc6k9fc.cloudfront.net
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+
+# pchome24
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pcloud.tw
+DOMAIN-SUFFIX,ecimg.tw
+DOMAIN-SUFFIX,pchome.tw
+
+# momo
+DOMAIN-SUFFIX,momoshop.com.tw
+DOMAIN-SUFFIX,momo.com.tw
+DOMAIN,momo.dm
+
+# 巴哈
+# DOMAIN-SUFFIX,gamer.com.tw
+# DOMAIN-SUFFIX,bahamut.com.tw
+# DOMAIN,bahamut.akamaized.net
+
+# disney+
+# DOMAIN,cdn.registerdisney.go.com
+# DOMAIN,xpaywalletcdn-prod.azureedge.net
+# DOMAIN-SUFFIX,disneyplus.com
+# DOMAIN-SUFFIX,bamgrid.com
+# DOMAIN-SUFFIX,disney-plus.net
+# DOMAIN-SUFFIX,dssott.com
+
+# 少數派
+DOMAIN-SUFFIX,sspai.com
+
+# javdb
+DOMAIN,javdb.com
+DOMAIN,c0.jdbstatic.com
+
+# routeros
+DOMAIN-SUFFIX,irouteros.com
+
+# anime字幕論壇
+DOMAIN,bbs.acgrip.com
+
+# 我們的小屋
+DOMAIN-SUFFIX,lovelyping.com
+
+# XKC的不定期分享
+DOMAIN-SUFFIX,xukecheng.tech
+
+# 充電頭網 有時可以有時不行 在測試
+DOMAIN-SUFFIX,chongdiantou.com
+
+# 163
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,16163.com
+DOMAIN-SUFFIX,166.net
+DOMAIN-SUFFIX,netease.com
