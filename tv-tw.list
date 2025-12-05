@@ -102,6 +102,7 @@ DOMAIN,geolocation.onetrust.com
 DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,cdn.optimizely.com
 DOMAIN,cdn.cookielaw.org
+DOMAIN,d9qcypg7o58bv.cloudfront.net
 IP-ASN,57976   // 這應該是給暗黑4的
 IP-ASN,396982  // 暗黑2是給google-cloud-platform
 DEST-PORT,6112-6115
