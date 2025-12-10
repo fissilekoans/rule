@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,edu.tw
 DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,gov.tw
 
+DOMAIN-SUFFIX,ptt.cc
+
 DOMAIN-SUFFIX,hinet.net
 DOMAIN,code.jquery.com // 搭配hinet的
 DOMAIN-SUFFIX,emome.net
