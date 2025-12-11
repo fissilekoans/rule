@@ -10,6 +10,7 @@
 
 # 自訂controld Tracker 裡面的
 DOMAIN-SUFFIX,events.data.microsoft.com
+DOMAIN-SUFFIX,activity.windows.com
 
 # controld test ipv6 and or ipv6
 DOMAIN,api-v6.controld.com
