@@ -8,6 +8,9 @@
 # 這邊都是提早幹掉的規則 
 # gov.tw edu.tw org.tw
 
+# 自訂controld Tracker 裡面的
+DOMAIN-SUFFIX,events.data.microsoft.com
+
 # controld test ipv6 and or ipv6
 DOMAIN,api-v6.controld.com
 DOMAIN-SUFFIX,ipv6.controld.io
