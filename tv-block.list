@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN-SUFFIX,activity.windows.com
 DOMAIN,partiality.itunes.apple.com
 DOMAIN,fe2cr.update.microsoft.com // 反正有替代的 就幹掉吧
+DOMAIN-SUFFIX,arc.msn.com
 
 # controld test ipv6 and or ipv6
 DOMAIN,api-v6.controld.com
