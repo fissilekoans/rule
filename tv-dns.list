@@ -1,4 +1,4 @@
-# 要注意controld.com 跟IPs 76.76..* 也有使用208.67.222.222 208.67.220.220
+# 要注意controld.com 跟IPs 76.76.2.22 也有使用208.67.222.222 208.67.220.220
 # 以後刪除正確的的就好不要多刪
 # Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
 # Description: Prevent methods to bypass your DNS, blocks encrypted DNS only
@@ -8,10 +8,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 18:34 UTC
-# Version: 2025.1203.1834.29
+# Last modified: 12 Dec 2025 17:57 UTC
+# Version: 2025.1212.1757.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3368
+# Number of entries: 3370
 #
 .ss.0001.xyz
 .003153.xyz
@@ -19,6 +19,7 @@
 .dns.010812.xyz
 .dns.080590.xyz
 .0815cloud.de
+.0ms.dev
 .dns.0ooo.icu
 .1.0rz.space
 .2.0rz.space
@@ -125,6 +126,7 @@
 .arches-srv2.8ws.net
 .outie.8ws.net
 .outiejr.8ws.net
+.tokyo.92-m.com
 .de-passage.9273082020.ru
 .jp.95576.app
 .959818.xyz
@@ -229,6 +231,7 @@
 .resolvers-cn.httpdns.aliyuncs.com
 .httpdns-api.aliyuncs.com
 .httpdns-sc.aliyuncs.com
+.aliyunhttpdns.com
 .alleesph.online
 .dns.alloxr.info
 .micro.alloxr.info
@@ -309,6 +312,7 @@
 .adguardhome.atakorah.com
 .next.atomix.in
 .vps.atomix.in
+.atris.cyou
 .atsilva.link
 .atsssgo.xyz
 .dohtrial.att.net
@@ -447,6 +451,7 @@
 .dns.bovat.net
 .adguard.boykevanvugt.nl
 .adguard2.boykevanvugt.nl
+.dns.braene.com
 .dns.brahma.world
 .bravedns.com
 .dns.brembeck.cloud
@@ -481,6 +486,7 @@
 .unifi.carioka.com
 .dns.carson-family.com
 .dns.caspervk.net
+.catchen121299.top
 .catdns.org
 .sg-119.cattery.work
 .alidns.cb1999.top
@@ -677,7 +683,7 @@
 .dns1.conne.net
 .dns.connect.fail
 .dns.consoro.eu
-.doh.controld.com
+.dns.containerpi.com
 .freedns.controld.com
 .dns.cooluc.com
 .doh.cornes.me
@@ -707,7 +713,9 @@
 .curser.dev
 .dns.cwlys.com
 .gc.cyberbeta.cn
+.dns.cybertonic.tech
 .dns2.cybrespace.net
+.cynntex.fun
 .dns.cynthialabs.net
 .nextcloud.d-alahmad.de
 .dns.d365.in
@@ -794,6 +802,7 @@
 .dns.skous.dedyn.io
 .unraid.dedyn.io
 .dns.deekshith.in
+.deep-henchman-excuse.cfd
 .doh.defaultroutes.de
 .defendfrienddns.fyi
 .de.deghy.ir
@@ -845,6 +854,7 @@
 .dns.watch
 .fargos2.dns.army
 .guigu.dns.army
+.homec92.dns.army
 .dns.dns-53.com
 .dns.dns-53.uk
 .dns.dns-53.us
@@ -1025,6 +1035,7 @@
 .doh.dnscrypt.uk
 .v.dnscrypt.uk
 .dnsdoh.art
+.dnsenc.com
 .th1.dnsfinder.ir
 .doh-lb-atl.dnsflex.com
 .doh-lb-br.dnsflex.com
@@ -1067,6 +1078,7 @@
 .uncensored-dot.dnswarden.com
 .doh.us.dnswarden.com
 .dnswebvsn.com
+.do-39574-tr.xyz
 .docker-hub.ir
 .doh.beauty
 .doh.best
@@ -1148,6 +1160,8 @@
 .wired-guardian.duckdns.org
 .wisehomeguard.duckdns.org
 .workcavestl.duckdns.org
+.x-o-x.duckdns.org
+.x861g.duckdns.org
 .test.zkwg.duckdns.org
 .duii.de
 .dukun.de
@@ -1167,6 +1181,7 @@
 .oostelbos.dynu.com
 .quangdo92.dynu.net
 .saomai.dynu.com
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .adg.dz.ax
 .az.dz4fun.top
@@ -1181,6 +1196,7 @@
 .doh.eddi.net
 .dns.edgeburnmedia.com
 .dns.edgeworkssystems.ca
+.dns.edgy.network
 .edgy-dns.com
 .agh.amber.edu.vn
 .adblocker.institutobancario.edu.mx
@@ -1239,6 +1255,7 @@
 .beautifulthings.eu.org
 .jp.dns.bliod.eu.org
 .clic.eu.org
+.resolver.dns.eban.eu.org
 .doh.excdn.eu.org
 .doh.greenwood.eu.org
 .sweethome.in.eu.org
@@ -1321,6 +1338,7 @@
 .spyro-the-bat.fleuryk.ovh
 .spyrothebat.fleuryk.ovh
 .vps.fleuryk.ovh
+.dns.flightspace.net
 .dns01.flm9.net
 .ns1.flodns.net
 .ns2.flodns.net
@@ -1555,6 +1573,7 @@
 .cloud2.holzmannclouddns.de
 .socolov.home.ro
 .adguard.home-lab-network.com
+.home-server.store
 .pi.homeanywhere.org
 .admin.homedns.uk
 .isolacje.homeip.net
@@ -1889,6 +1908,7 @@
 .agh.kul-lippek.de
 .dns.kusoneko.moe
 .dns.kuuhaku.moe
+.kx-97795-tr.xyz
 .dns.kxy.ink
 .dn.kyay006.cn
 .agh.kyusang.win
@@ -1928,6 +1948,7 @@
 .lelux.fi
 .dns.lepilleur.com
 .dns.lermer.nl
+.lesuo.top
 .dns.levonet.sk
 .lewsha.lol
 .br2.lezainski.com
@@ -2176,6 +2197,7 @@
 .justfor.myasustor.com
 .nas-scheiben34.myasustor.com
 .zanty123456.myasustor.com
+.myatris.sbs
 .adguard.myddns.org
 .adguard-home.myddns.me
 .mydevpn.eu
@@ -2346,7 +2368,6 @@
 .2.dns.noridev.moe
 .3.local-dns.noridev.moe
 .adguard.nostaloogia.ir
-.dns.notjakob.com
 .dns.novali.date
 .us.novali.date
 .dns.novg.net
@@ -2357,6 +2378,7 @@
 .x.ns1net.com
 .ns3.com
 .dnscache0.ns71.net
+.nsown.com
 .dns.ntr.lol
 .ntwrkh.pro
 .dns.nubecita.biz
@@ -2371,6 +2393,7 @@
 .qdns02.nymterm.com
 .5g.o0o.re
 .o1.lt
+.ha.o51r15.com
 .dot.occ.top
 .dns.ocedric.net
 .dns.octoworld.fr
@@ -2493,6 +2516,7 @@
 .dns.pieterdherde.com
 .dns1.pietjacobs.be
 .dns.pine-home.de
+.pingbi.xyz
 .pioko.net
 .dns.pizzari.me
 .doh.plaawan.uk
@@ -2516,15 +2540,6 @@
 .dns.pmxu.link
 .muppy.pnamae.com
 .dns.pointless.chat
-.polisitogel.beauty
-.polisitogel.builders
-.polisitogel.contractors
-.polisitogel.cruises
-.polisitogel.diy
-.polisitogel.green
-.polisitogel.hair
-.polisitogel.living
-.polisitogel.luxe
 .polisitogel.show
 .polisitogel.webcam
 .vps.poly-tank.jp
@@ -2597,7 +2612,6 @@
 .dns.weixin.qq.com
 .paydns.weixin.qq.com
 .udns.weixin.qq.com
-.qqmcfw.tech
 .ns1.qquack.org
 .log.qrsoft.ru
 .dns.qrtz.club
@@ -2638,7 +2652,6 @@
 .raj.pw
 .ns.ral9005.org
 .dns.ramansarda.com
-.randn.ru
 .doh.rasmusminde.dk
 .emby.rasp.tv
 .dns.rayanbab.com
@@ -2750,7 +2763,6 @@
 .dns.homenet.saschagaspar.net
 .vpn.satadru.dev
 .dns.sbstructure.ir
-.defsnldns01.sc-hosting.info
 .ns1.sc-lezhi.com
 .us.sc92.cn
 .dns.scarx.net
@@ -2792,11 +2804,9 @@
 .servis4u.top
 .dns.servizimv.it
 .alidns.session.pub
-.dns.sethost.de
 .dns.sev.monster
 .pates.services.sfr.fr.casepp.sfr.fr
 .sgdns.site
-.d2.shabi.icu
 .shadowart.online
 .s1.s2.shahramv1.site
 .shakdns.cc
@@ -2825,10 +2835,6 @@
 .dns.simplylinux.ch
 .dns.sindominio.net
 .dns.sineone.icu
-.dnsovertls.sinodun.com
-.dnsovertls1.sinodun.com
-.dnsovertls2.sinodun.com
-.dnsovertls3.sinodun.com
 .sitdns.com
 .moto.adg.siudzinski.net
 .sams.adg.siudzinski.net
@@ -2841,7 +2847,6 @@
 .dns.skrep.eu
 .dns.skrep.in
 .gr.skrsteam.info
-.dns.skrzypiec.pl
 .skydragoness.com
 .dns.sledge.cc
 .homeguard.sleziona.org
@@ -2875,7 +2880,6 @@
 .doh-01.spectrum.com
 .doh-02.spectrum.com
 .doh-03.spectrum.com
-.speeddns.top
 .dns.spirio.fr
 .squidmall.vip
 .s1.srch.top
@@ -2934,7 +2938,6 @@
 .dns.surobe.com
 .surt.ovh
 .dns.sv-zauner.at
-.adguard.sverzhe.com
 .svg33.eu
 .dns2.svip.one
 .dns.svoi.dev
@@ -3155,7 +3158,6 @@
 .dns.virtual-qr.ir
 .ad.visbran.fr
 .dns.vk09.ru
-.dns.vkhudyakov.ru
 .vladpro.ru
 .dns.vlo.cc
 .dns.vmisch.tech
@@ -3166,7 +3168,6 @@
 .vorlif.org
 .dns.voronin.uk
 .vpn.vosjes.cloud
-.dns.voyager2.space
 .adguard.vozersky.com
 .killads.vpms.xyz
 .vpnhellings.nl
@@ -3269,6 +3270,7 @@
 .doh.xfinity.com
 .dot.xfinity.com
 .doh2.gslb2.xfinity.com
+.xholgm.top
 .xiaoxinhui.cn
 .xie.ke
 .agh.xinfeng16m.top
@@ -3305,7 +3307,6 @@
 .lion.yazilimatolye.com
 .ychen.cf
 .ychen.gq
-.adsfysdfgiuy.ydns.eu
 .vdska-pl.ydns.eu
 .sg.yepdns.com
 .yeralin.net
@@ -3395,7 +3396,6 @@
 101.236.69.43
 101.34.229.193
 101.6.6.6
-102.113.203.228
 102.222.106.96
 102.37.148.2
 103.1.223.110
@@ -3427,7 +3427,8 @@
 103.2.57.5
 103.2.57.6
 103.219.194.252
-103.224.212.216
+103.224.182.252
+103.224.212.130
 103.230.156.210
 103.253.215.19
 103.28.53.16
@@ -3446,6 +3447,8 @@
 103.86.99.100
 103.86.99.107
 103.86.99.108
+103.87.68.195
+103.87.68.196
 103.94.185.123
 103.97.179.29
 103.99.133.110
@@ -3487,8 +3490,8 @@
 109.234.165.186
 109.236.119.2
 109.236.120.2
-109.250.197.38
-109.250.204.234
+109.250.197.228
+109.250.205.226
 109.70.74.38
 109.70.74.68
 109.74.205.250
@@ -3497,6 +3500,7 @@
 111.235.222.100
 112.213.32.219
 112.78.125.221
+114.10.44.56
 114.33.26.67
 114.34.0.56
 114.41.240.88
@@ -3520,12 +3524,13 @@
 119.237.39.112
 120.24.213.35
 120.53.53.53
-121.121.197.178
+121.121.197.214
 122.117.222.121
 122.254.0.63
 123.26.193.85
 124.217.247.170
 124.219.110.49
+124.220.23.147
 124.70.37.233
 128.139.197.53
 128.140.110.120
@@ -3535,8 +3540,9 @@
 128.210.6.106
 128.254.207.50
 128.93.162.64
-129.146.12.195
+129.146.14.174
 129.146.238.240
+129.151.161.172
 129.151.162.166
 129.153.224.48
 129.154.217.90
@@ -3549,6 +3555,10 @@
 13.248.162.224
 13.248.169.48
 13.248.213.45
+13.32.205.100
+13.32.205.105
+13.32.205.26
+13.32.205.32
 13.89.120.251
 130.162.39.94
 130.225.244.166
@@ -3556,11 +3566,11 @@
 130.59.31.248
 130.59.31.251
 130.59.31.80
-130.61.0.178
 130.61.121.181
 130.61.149.26
 130.61.173.117
 130.61.24.160
+130.61.4.165
 130.61.51.39
 131.186.19.137
 131.186.63.141
@@ -3587,6 +3597,7 @@
 135.181.83.162
 136.243.156.176
 136.244.65.20
+137.220.48.110
 137.220.51.178
 137.66.7.89
 137.74.29.10
@@ -3631,6 +3642,7 @@
 143.198.172.202
 143.20.12.32
 143.244.128.32
+143.244.60.197
 143.47.228.93
 143.47.51.218
 144.202.60.17
@@ -3643,7 +3655,6 @@
 144.24.157.45
 144.24.180.116
 144.24.182.35
-144.31.118.180
 144.76.135.223
 144.76.199.177
 146.112.41.2
@@ -3663,6 +3674,7 @@
 146.59.87.16
 146.70.48.66
 146.70.48.82
+147.135.115.117
 147.162.22.1
 147.189.136.104
 147.189.140.136
@@ -3695,20 +3707,17 @@
 149.88.64.107
 15.197.162.184
 15.197.238.60
-15.197.240.20
 15.204.209.29
 15.204.227.22
 150.136.138.221
 150.230.197.227
 150.230.203.199
 150.230.35.93
-151.236.24.190
 151.240.0.182
 151.240.0.211
 151.242.64.36
 151.242.74.231
 151.243.222.94
-151.66.139.178
 151.80.145.143
 152.53.119.76
 152.53.130.105
@@ -3741,6 +3750,7 @@
 155.248.185.73
 155.248.232.226
 155.254.28.98
+155.94.241.150
 157.131.42.41
 157.20.105.115
 157.20.83.135
@@ -3761,6 +3771,7 @@
 159.69.4.2
 159.89.117.145
 160.119.253.209
+160.250.227.24
 160.250.95.28
 161.35.136.3
 162.19.227.251
@@ -3772,14 +3783,6 @@
 162.254.86.13
 162.255.119.236
 163.172.131.116
-163.181.66.188
-163.181.66.189
-163.181.66.190
-163.181.66.191
-163.181.66.211
-163.181.66.212
-163.181.66.213
-163.181.66.214
 163.47.117.176
 164.132.7.242
 164.90.207.7
@@ -4136,13 +4139,13 @@
 172.224.79.7
 172.224.79.8
 172.224.79.9
-172.232.13.17
 172.232.185.183
 172.232.246.225
 172.232.50.116
 172.233.147.42
 172.233.59.98
 172.234.24.211
+172.239.201.109
 172.239.57.117
 172.86.65.4
 172.93.167.214
@@ -4160,12 +4163,11 @@
 174.68.248.77
 175.24.154.66
 176.10.125.47
-176.107.131.185
 176.111.223.167
 176.123.10.105
 176.123.163.193
 176.147.243.164
-176.164.168.124
+176.164.157.51
 176.9.242.147
 176.9.25.158
 176.9.54.219
@@ -4192,6 +4194,11 @@
 178.254.6.49
 178.33.118.153
 178.85.214.38
+179.61.195.51
+18.160.213.102
+18.160.213.27
+18.160.213.44
+18.160.213.67
 18.168.255.186
 18.195.195.69
 18.200.70.220
@@ -4199,6 +4206,8 @@
 18.235.86.151
 18.252.156.1
 18.254.96.167
+181.214.35.150
+181.214.35.153
 183.171.200.162
 185.109.168.44
 185.111.159.59
@@ -4219,6 +4228,7 @@
 185.181.61.24
 185.183.156.85
 185.183.159.34
+185.191.229.13
 185.194.53.22
 185.194.94.71
 185.195.69.126
@@ -4284,7 +4294,6 @@
 188.68.50.215
 188.68.57.106
 188.83.241.98
-191.91.238.173
 191.96.153.102
 192.109.42.41
 192.109.42.42
@@ -4293,6 +4302,7 @@
 192.145.124.66
 192.145.47.80
 192.248.190.14
+192.71.218.121
 192.99.125.157
 192.99.139.168
 193.112.107.80
@@ -4311,7 +4321,6 @@
 193.190.198.16
 193.24.209.167
 193.30.122.186
-193.31.24.55
 193.7.200.123
 193.70.85.11
 193.95.243.186
@@ -4341,7 +4350,6 @@
 194.32.107.93
 194.36.144.87
 194.39.205.10
-194.50.19.150
 194.50.33.11
 194.53.137.2
 194.55.13.76
@@ -4401,7 +4409,6 @@
 204.12.237.197
 204.216.154.80
 204.9.92.87
-205.185.117.191
 206.119.179.8
 206.189.240.157
 207.127.93.3
@@ -4453,7 +4460,7 @@
 216.245.140.20
 216.73.156.52
 216.73.159.26
-217.0.43.2
+217.0.43.146
 217.0.43.66
 217.154.118.152
 217.154.148.131
@@ -4463,16 +4470,18 @@
 217.160.191.192
 217.160.213.186
 217.160.70.42
+217.165.39.94
 217.169.20.22
 217.169.20.23
 217.182.75.26
 217.197.91.153
+217.255.208.98
 217.61.98.63
 217.91.179.72
 218.154.183.208
 218.75.4.130
 220.135.223.18
-220.143.35.15
+220.143.13.250
 220.84.185.202
 221.131.165.165
 222.99.114.172
@@ -4485,16 +4494,14 @@
 23.154.81.92
 23.178.72.82
 23.184.48.19
-23.189.248.107
-23.191.80.72
+23.189.248.13
+23.191.80.43
 23.20.115.77
 23.21.5.212
 23.230.253.98
+23.239.10.192
 23.251.158.202
-23.81.204.10
-23.81.206.202
 23.81.246.121
-23.83.128.196
 23.88.6.31
 23.94.211.166
 23.95.134.15
@@ -4505,27 +4512,26 @@
 3.10.65.124
 3.108.130.184
 3.140.31.159
-3.168.132.103
-3.168.132.108
-3.168.132.25
-3.168.132.47
 3.215.83.62
 3.218.175.190
+3.218.219.225
 3.230.52.37
 3.33.139.32
 3.33.242.199
 3.34.32.82
 3.75.122.89
 3.9.180.22
+3.90.134.65
 31.13.248.149
 31.130.200.100
+31.190.56.185
 31.202.133.115
 31.97.249.178
 34.146.42.208
 34.159.232.134
+34.196.164.105
 34.202.129.50
 34.205.164.166
-34.206.245.242
 34.41.139.193
 34.75.163.154
 34.80.137.209
@@ -4560,13 +4566,14 @@
 37.59.103.226
 37.59.122.154
 38.107.232.115
+38.142.94.218
 38.186.42.90
 38.242.157.80
-38.32.110.58
 38.45.64.117
 38.47.176.112
 40.76.112.230
 40.83.97.172
+41.136.11.180
 42.192.89.119
 42.51.13.218
 42.51.37.18
@@ -4579,16 +4586,16 @@
 43.154.154.162
 43.154.23.198
 43.159.98.23
-43.159.98.30
 43.159.99.22
-43.159.99.30
 43.164.130.85
 43.164.134.122
+43.169.12.124
 43.224.180.137
 43.255.123.52
 44.227.65.245
 44.227.76.166
 44.232.93.239
+44.233.250.75
 45.11.45.11
 45.125.0.26
 45.129.181.164
@@ -4606,7 +4613,6 @@
 45.249.91.113
 45.249.91.114
 45.249.91.150
-45.32.75.24
 45.32.79.76
 45.33.105.91
 45.33.60.119
@@ -4627,6 +4633,7 @@
 45.79.102.67
 45.79.104.153
 45.79.156.126
+45.79.17.103
 45.79.208.98
 45.79.248.146
 45.79.33.43
@@ -4660,6 +4667,7 @@
 45.8.222.61
 45.8.222.62
 45.80.189.105
+45.82.120.61
 45.86.125.58
 45.86.162.110
 45.88.105.188
@@ -4692,8 +4700,6 @@
 47.100.62.161
 47.107.121.125
 47.243.233.55
-47.76.127.217
-47.91.170.222
 49.0.2.184
 49.12.222.213
 49.12.223.2
@@ -4715,6 +4721,7 @@
 5.135.96.35
 5.135.96.36
 5.15.65.144
+5.160.254.27
 5.161.191.104
 5.161.43.197
 5.175.222.6
@@ -4755,30 +4762,29 @@
 52.200.125.145
 52.201.53.166
 52.203.33.208
-52.222.244.11
-52.222.244.16
-52.222.244.47
-52.222.244.81
 52.246.182.50
 52.29.2.17
+52.38.196.63
 52.63.91.105
-52.7.145.68
 52.71.175.155
 52.71.192.161
+52.72.186.224
 52.72.38.182
 52.80.248.44
 52.86.7.150
-54.146.87.221
 54.152.244.160
 54.160.147.38
 54.164.175.4
 54.169.113.231
 54.172.110.180
 54.187.149.240
+54.192.55.54
+54.192.55.71
+54.192.55.73
+54.192.55.95
 54.197.96.136
 54.223.159.81
 54.224.16.96
-54.235.119.121
 54.243.56.78
 54.37.137.4
 54.38.215.19
@@ -4866,7 +4872,7 @@
 78.47.91.55
 78.94.217.198
 79.110.170.43
-79.124.77.3
+79.124.7.43
 79.143.240.5
 79.143.240.6
 79.143.240.7
@@ -4874,13 +4880,19 @@
 79.143.240.79
 79.143.240.81
 79.184.13.27
-79.250.76.6
-79.252.137.164
+79.250.68.120
 8.138.100.213
 8.20.247.20
 8.209.231.130
 8.210.109.238
-8.218.208.240
+8.25.82.224
+8.25.82.225
+8.25.82.226
+8.25.82.227
+8.25.82.228
+8.25.82.229
+8.25.82.230
+8.25.82.231
 8.26.56.26
 8.8.4.4
 8.8.8.8
@@ -4889,6 +4901,7 @@
 80.152.203.134
 80.156.145.201
 80.211.133.9
+80.211.196.177
 80.249.144.245
 80.249.149.178
 80.254.79.157
@@ -4937,9 +4950,9 @@
 84.17.46.133
 84.183.57.251
 84.33.12.158
-84.68.153.92
-85.195.238.80
-85.195.238.89
+84.67.109.76
+85.195.238.23
+85.195.238.60
 85.211.182.51
 85.214.111.78
 85.214.236.96
@@ -4959,7 +4972,6 @@
 86.54.11.211
 86.54.11.212
 86.54.11.213
-86.98.90.114
 87.106.103.65
 87.106.161.126
 87.106.35.241
@@ -4997,10 +5009,9 @@
 9.9.9.13
 9.9.9.9
 91.106.133.47
-91.107.184.115
 91.107.198.189
 91.134.75.146
-91.156.47.10
+91.156.46.88
 91.195.240.94
 91.197.1.176
 91.198.156.20
@@ -5024,7 +5035,7 @@
 93.144.34.114
 93.177.64.13
 93.190.126.69
-93.231.26.119
+93.200.30.202
 93.4.84.37
 93.95.115.21
 94.130.135.203
@@ -5075,7 +5086,3 @@
 99.192.182.201
 99.79.182.170
 99.80.192.194
-99.84.41.18
-99.84.41.29
-99.84.41.65
-99.84.41.72
