@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,hcaptcha.com
 IP-ASN,32590   // 測試看看
-DEST-PORT,27015-27056
+# DEST-PORT,27015-27056
 
 # Last Updated: 2025-11-28T12:47:56.768Z
 IP-CIDR,5.28.195.2/32
