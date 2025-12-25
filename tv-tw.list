@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,taiwanmobile.net
 DOMAIN-SUFFIX,fc2ppvdb.com
 DOMAIN-SUFFIX,twca.com.tw
 DOMAIN,chts.tw
-DOMAIN,ipinfo.io
 
 # Linetv kktv
 DOMAIN-SUFFIX,kktv.me
@@ -29,6 +28,7 @@ DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,chocotv.com.tw
 DOMAIN-SUFFIX,blendvision.com
+DOMAIN,ipinfo.io
 DOMAIN,livebuy.tv
 DOMAIN,lottie.host
 DOMAIN,linetvhelp.zendesk.com
