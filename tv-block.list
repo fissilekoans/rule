@@ -18,6 +18,10 @@ DOMAIN,xp.apple.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,fp.msedge.net
 
+# TV
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,crashlytics.com
+
 # controld test ipv6 and or ipv6
 DOMAIN,api-v6.controld.com
 DOMAIN-SUFFIX,ipv6.controld.io
