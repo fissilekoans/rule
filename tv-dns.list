@@ -1,5 +1,6 @@
 # 要注意dns.controld.com 跟IPs 76.76.2.22 也有使用208.67.222.222 208.67.220.220
 # 有加入VPN供應商了 目前刪除windscribe.com/net whiskergalaxy.com totallyacdn.com safing.io
+# safing.io mullcad.net torproject.org
 # 以後刪除正確的的就好不要多刪
 # Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
 # Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies.
