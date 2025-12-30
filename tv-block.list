@@ -23,9 +23,9 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,crashlytics.com
 
 # controld test ipv6 and or ipv6
-DOMAIN,api-v6.controld.com
-DOMAIN-SUFFIX,ipv6.controld.io
-DOMAIN-WILDCARD,ipv6*
+# DOMAIN,api-v6.controld.com
+# DOMAIN-SUFFIX,ipv6.controld.io
+# DOMAIN-WILDCARD,ipv6*
 
 # stun and httpdns
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
