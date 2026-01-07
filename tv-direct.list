@@ -32,13 +32,13 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
 
 # YouTube
-# DOMAIN,youtu.be
-# DOMAIN-WILDCARD,yt3.*
+DOMAIN,youtu.be
+DOMAIN-WILDCARD,yt3.*
 DOMAIN-WILDCARD,yt4.*
-# DOMAIN-SUFFIX,youtube.com
-# DOMAIN-SUFFIX,googlevideo.com
-# DOMAIN,youtubei.googleapis.com
-# DOMAIN,www.youtube-nocookie.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN,www.youtube-nocookie.com
 # DOMAIN-SUFFIX,ggpht.com
 # DOMAIN-SUFFIX,ytimg.com
 # DOMAIN-SUFFIX,gstatic.com
