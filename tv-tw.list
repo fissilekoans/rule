@@ -88,6 +88,14 @@ DOMAIN-SUFFIX,16163.com
 DOMAIN-SUFFIX,166.net
 DOMAIN-SUFFIX,netease.com
 
+# google
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-WILDCARD,*.google.*
+DOMAIN-SUFFIX,pki.goog
+
 # 暴雪
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,battle.net
