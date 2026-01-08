@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-WILDCARD,*.google.*
+DOMAIN-WILDCARD,google.*
 DOMAIN-SUFFIX,pki.goog
 
 # 暴雪
