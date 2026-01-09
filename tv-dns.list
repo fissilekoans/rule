@@ -1,6 +1,6 @@
 # 要注意dns.controld.com 跟IPs 76.76.2.22 也有使用208.67.222.222 208.67.220.220
 # 有加入VPN供應商了 目前刪除windscribe.com/net whiskergalaxy.com totallyacdn.com
-# safing.io mullvad.net torproject.org
+# safing.io mullvad.net torproject.org obscura.net
 # Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
 # Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies.
 # Note: To ensure the bootstrap is your DNS server: Redirect standard DNS outbound (UDP 53) to an internal server. Block all DoT/DoQ (TCP/UDP 853) outbound.
@@ -9,10 +9,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Dec 2025 10:37 UTC
-# Version: 2025.1228.1037.20
+# Last modified: 09 Jan 2026 03:25 UTC
+# Version: 2026.0109.0325.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6262
+# Number of entries: 6406
 #
 .ss.0001.xyz
 .003153.xyz
@@ -54,14 +54,11 @@
 .123hideip.com
 .123inside.net
 .123li.me
-.123me.net
 .123music.app
 .123proxy.app
 .123proxy.biz
 .123proxy.cool
 .123proxy.me
-.123proxyx.com
-.123prx.com
 .123roms.com
 .123rooms.net
 .123streaming.org
@@ -73,9 +70,11 @@
 .12vpx.com
 .hkali.13142233.xyz
 .usxui.13142233.xyz
+.zhk.13142233.xyz
 .dns.13evl.com
 .dns1.13evl.com
 .dns.141664.xyz
+.14921004.xyz
 .hk-nnss.150076.xyz
 .httpdns.c.163.com
 .httpdns.music.163.com
@@ -98,6 +97,7 @@
 .20010114.xyz
 .adhome.2011101.xyz
 .onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com
+.vps.202316.xyz
 .220913.xyz
 .233py.com
 .chronos.24-7.ro
@@ -126,12 +126,14 @@
 .dns.320888.xyz
 .dnstw.3300000.xyz
 .oracle001.330k.biz
+.dns.333551.xyz
 .n.3363.net
 .dhlifeus-micro1.dns.3456.kr
 .dns.354688.xyz
 .xjpdns.354688.xyz
 .doh.360.cn
 .dot.360.cn
+.doh.361.best
 .dns.3dcapitaltrust.net
 .3dcosas.xyz
 .3dns.eu
@@ -155,6 +157,7 @@
 .adh.51st.top
 .alidns.51top.info
 .dns.52306.org
+.dns.5273.ltd
 .www-vpn.52oupa.com
 .adguard2.546413.xyz
 .bwg.559299366.xyz
@@ -164,8 +167,10 @@
 .sgd.559299366.xyz
 .tokyo.559299366.xyz
 .vps.559299366.xyz
+.dns.565349.xyz
 .57824.com
 .dns.58jdl.com
+.scratchdevfourums.5a3bz.cn
 .dns.5ososea.com
 .family.5ososea.com
 .kids.5ososea.com
@@ -179,6 +184,7 @@
 .ns.77ll.ru
 .dns.7vpn.com
 .ad.800801.xyz
+.my.8484848.cn
 .dns.853852.xyz
 .dns19.854000.xyz
 .dns.866865.xyz
@@ -196,15 +202,18 @@
 .outie.8ws.net
 .outiejr.8ws.net
 .tokyo.92-m.com
+.dns.920313.xyz
 .922proxy.com
 .de-passage.9273082020.ru
 .jp.95576.app
 .959818.xyz
 .dd.961188.xyz
 .bella.981377612.xyz
+.9827015.xyz
 .cld.996969.xyz
 .ddd.999369.xyz
 .dns.9999.sg
+.99proxy.com
 .9w9.org
 .dns.a47.me
 .doh.aaaab3n.moe
@@ -222,10 +231,12 @@
 .adguard.abd.ong
 .dns.abdullahabas.de
 .dns.abdullahabas.online
+.dns.abhimankolte.com
 .abluehope.com
 .dns.abppro.ru
 .abpvn.org
 .vn.dns.abpvn.com
+.abrakadabra.pro
 .doh.abraservice.xyz
 .res-acst1.absolight.net
 .res-acst2.absolight.net
@@ -266,6 +277,7 @@
 .adfiltro.fun
 .adfreedns.eu
 .adfreedns.top
+.adghome.ru
 .adghs.de
 .adgremoteau.com
 .adguard.io
@@ -294,7 +306,6 @@
 .research.africa.com
 .dns.agfiudsv.icu
 .aghdns.com
-.agmath.xyz
 .ahadns.net
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
@@ -302,6 +313,7 @@
 .dns.ahmgam.com
 .ahoj.email
 .router.ahzol.com
+.dns.aicreate360.com
 .aicx99.shop
 .adb.aiec.vn
 .doh.aipps.vip
@@ -316,7 +328,6 @@
 .akunssh.net
 .dns.alanpearce.eu
 .dns.albony.xyz
-.mrs-smiths-science-help.alcrb.ru
 .aldhaferi.store
 .dnsnl.alekberg.net
 .agh.alematho.de
@@ -337,6 +348,7 @@
 .alleesph.online
 .scholastic.allez.la
 .gaagleclassroom.tci.iready.school.allisons.org
+.allorigins.win
 .dns.alloxr.info
 .micro.alloxr.info
 .vps.alloxr.info
@@ -357,6 +369,7 @@
 .adguard.altgr.xyz
 .adguard.alu.dog
 .aluu.xyz
+.dnssecure.aluwela.se
 .kintoun.alves.cc
 .dns.alvosec.com
 .alwaysvpn.com
@@ -390,6 +403,7 @@
 .andrewnw.xyz
 .andrey93rus.ru
 .dns.andreykiv.com
+.andy123123.xyz
 .doh.angry.im
 .angrysky.ru
 .anhphamhn82.uk
@@ -397,6 +411,8 @@
 .dot.anir0y.in
 .rootdns.anir0y.in
 .aniscartujo.com
+.dns.anitelekom.ru
+.dns.ru.anitelekom.ru
 .sanns.aniuo.com
 .anixlab.com
 .mabelnice.anjumanallana.in
@@ -409,6 +425,7 @@
 .anonproxy.org
 .anonvpn.io
 .anonwebproxy.com
+.anonymitynetwork.com
 .anonymize.com
 .anonymizer.com
 .anonymizing.com
@@ -437,7 +454,6 @@
 .anyip.io
 .ad.anym0re.ru
 .doh.apad.pro
-.owens-engineering-info.aperture.cl
 .adguard01.apexhost.net
 .dns1.api110.com
 .dns.apigw.online
@@ -445,13 +461,13 @@
 .aplusvpn.com
 .ag.apollohct.com
 .mustafaiguess.app.tc
+.ds.appl.pk
 .doh.dns.apple.com
 .appleproxy.com
 .dns.applewebkit.dev
 .applied-privacy.net
 .doh.appliedprivacy.net
 .dot1.appliedprivacy.net
-.garrettini.apps.dj
 .appshost.us
 .iron-dot-cobalt-antenna-219709.appspot.com
 .vpn.appsverse.com
@@ -477,6 +493,7 @@
 .asheranztwitch.online
 .dns.ashleyjackson.net
 .megaus.asistdoc.ar
+.doh.asli.id
 .dns.asterimoon.com
 .astrill.com
 .astrill.org
@@ -486,6 +503,7 @@
 .himeko297.asuscomm.com
 .xkariak.asuscomm.com
 .dns.asysec.com
+.oci02.at9.eu
 .adguardhome.atakorah.com
 .pulsewire.atamanco.eu
 .shopinshops.atamanco.eu
@@ -497,6 +515,7 @@
 .atsilva.link
 .atsssgo.xyz
 .dohtrial.att.net
+.auberge78.site
 .dns.audet.cloud
 .dns.auffray.org
 .auto-aufladen.de
@@ -508,6 +527,7 @@
 .europe.avastdns.com
 .europe-west.avastdns.com
 .secure.avastdns.com
+.adguard.avavd.ru
 .vps.avc.cx
 .adguard.avdkishore.dev
 .avira-vpn.com
@@ -551,7 +571,9 @@
 .b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 .baconmania.click
 .franzosen.bad.mn
+.dns.bad-taste.app
 .filter.badbotdev.xyz
+.safe-guard.badbotdev.xyz
 .dns.bai0012.com
 .dnscdn.bai0012.com
 .httpdns.baidu.com
@@ -565,7 +587,6 @@
 .freshstats.banglaraloprotidin.com
 .keenlogic.banglaraloprotidin.com
 .nexthistory.banglaraloprotidin.com
-.itrsa.banquick.com
 .alphabio.baodacn.cn
 .fasthistory.baodacn.cn
 .barnabech.fr
@@ -595,11 +616,13 @@
 .dns.beardic.cn
 .bebasid.com
 .bebra.ai
+.dns.home.beckett.io
 .friend.bedro.cloud
 .justhost.bedro.cloud
 .beecomf.xyz
 .beepassvpn.com
 .cloud.beerloga.su
+.senko.beerloga.su
 .beetvpn.com
 .beevpn.com
 .bellproxy.com
@@ -612,6 +635,7 @@
 .bestaitool.news
 .bestfreevpn.com
 .bestproxy.xyz
+.bestssh.net
 .lebron.is.the.besttoday.ru
 .bestukvpn.com
 .bestvideoproxy.com
@@ -619,6 +643,7 @@
 .bestvpnprovider.info
 .bestvpnrating.com
 .bestvpnserver.com
+.bestvpnservice.top
 .bestvpnssh.com
 .bestwon203.com
 .www-proxy.bettercallghaith.wiki
@@ -645,6 +670,7 @@
 .ore-dns.bitdefender.net
 .tky-dns.bitdefender.net
 .tips.bitesmagazine.com
+.dns.bitgeek.in
 .bitping.com
 .dns.bitservices.io
 .adguard.bitteeinbyte.de
@@ -705,6 +731,7 @@
 .blurpath.com
 .bmetrics.org
 .dns.bmwhocking.com
+.cloud.boboba.ru
 .bobstrecansky.com
 .bocaplanet.com
 .d.bod.lol
@@ -737,6 +764,7 @@
 .boxpn.com
 .adguard.boykevanvugt.nl
 .adguard2.boykevanvugt.nl
+.ram.br3xality.org
 .dns.braene.com
 .dns.brahma.world
 .bramka-proxy.pl
@@ -756,7 +784,9 @@
 .britishproxy.com
 .agh.broaddy.com
 .dns.brono.cloud
+.blooket.broomleigh.org
 .linewize.broomleigh.org
+.schoolwork.broomleigh.org
 .brovpn.io
 .browsec.com
 .browser.lol
@@ -785,6 +815,8 @@
 .dns.busold.ws
 .dns.butterfly87.sbs
 .bvpn.com
+.adc.bxq.net
+.sig.bxq.net
 .byewall.com
 .bypass.pw
 .bypassable.com
@@ -803,18 +835,23 @@
 .dns.cahlen.com
 .aduhai.caksono.com
 .dns.caliph.dev
+.callbackping.net
 .needhelp.callmark.cl
 .tor.calyxinstitute.org
 .bananakun.camdvr.org
 .adguard.camn.uk
 .canadaproxy.info
+.canlite.org
 .cantfindme.org
+.tysonsbackagain.capnorthshore.org
 .2.dnscrypt-cert.captnemo.in
 .doh.captnemo.in
 .carebuzz.io
 .careproxy.com
 .unifi.carioka.com
 .dns.carson-family.com
+.dns.carter.me
+.dns.casadecampo.casa
 .casinovpn.com
 .dns.caspervk.net
 .history.cassettica.com
@@ -902,6 +939,7 @@
 .ciscossh.com
 .citizenvpn.com
 .dns.citrahost.com
+.citrik.design
 .dns.citystars.cn
 .ns.ciwer.cn
 .alpha.cixy.xyz
@@ -926,6 +964,7 @@
 .cloakpoint.com
 .cloakvpn.com
 .closetruth.date
+.cloudbob.fr
 .dns.cloudfiction.eu
 .meow.partedu.club.cdn.cloudflare.net
 .dns.233py.com.cdn.cloudflare.net
@@ -1059,6 +1098,7 @@
 .doh.cnetwork.cloud
 .adguard.aa4.co.uk
 .akashiro.co.id
+.fpfanzduucru.anchorchain.co.za
 .antidnsvpn.co.cc
 .binhexsolutions.co.uk
 .btunnel.co.in
@@ -1067,6 +1107,7 @@
 .dns.chaosen3.co.uk
 .clearvpn.co.uk
 .dns-01.computerservices.co.nz
+.dns-02.computerservices.co.nz
 .croxyproxy.co.in
 .crusnik80.co.za
 .adg.datamatter.co.za
@@ -1128,6 +1169,7 @@
 .uk-proxy.co.uk
 .unblocksites.co.uk
 .dns1.understandingcyber.co.uk
+.dns.unknown-universe.co.uk
 .vpn-proxies.co.cc
 .vpn-services.co.cc
 .vpncompare.co.uk
@@ -1182,15 +1224,14 @@
 .german-proxy.com.de
 .germany-proxy.com.de
 .btg.go4it.com.mx
-.securly.com.go4it.com.mx
 .dns2.gregoret.com.ar
 .blackhole.gugainfo.com.br
 .dns.hub.com.de
 .adguardcloud.iasm.com.ar
 .modernlogic.iceage.com.my
-.itrsa.injectoclean.com.mx
 .uptime.injectoclean.com.mx
 .tasks.know.kabindrakajibajracharya.com.np
+.dns.koretech.com.br
 .dnssp.koretech.com.br
 .arrakis.korolyzer.com.br
 .lothuscorp.com.br
@@ -1214,6 +1255,7 @@
 .skynetinternet.com.br
 .dns.snaketech.com.br
 .adg.spacework.com.mx
+.dot.srito.com.br
 .surfshark.com.au
 .edu.ts-me.com.my
 .unblock-proxy.com.de
@@ -1232,6 +1274,7 @@
 .confirmedvpn.com
 .dns1.conne.net
 .dns.connect.fail
+.connect-with.click
 .connectionvpn.com
 .dns.consoro.eu
 .constitutional.design
@@ -1291,7 +1334,6 @@
 .croxy.red
 .croxy.rocks
 .croxy-proxy.com
-.croxy-proxy.id
 .croxyproxy.app
 .croxyproxy.best
 .croxyproxy.com
@@ -1304,6 +1346,7 @@
 .cryptd.space
 .crypticvpn.com
 .crypto.sx
+.crypto2049.store
 .dns.cryptomize.com
 .cryptostorm.is
 .cryptovpn.com
@@ -1338,6 +1381,7 @@
 .dns2.cybrespace.net
 .cynntex.fun
 .dns.cynthialabs.net
+.dns.cysynex.cloud
 .nextcloud.d-alahmad.de
 .dns.d365.in
 .s2.d3mik.ru
@@ -1347,13 +1391,16 @@
 .dns.d4d.moe
 .dns.d8e.ru
 .dns.d94.xyz
+.dns.daarrk.tech
 .dabmix.com
+.daddyproxy.com
 .dns.dallinbryce.com
 .fr.dalockd.net
 .orbit.tutor.damienhollier.com
 .dns.danamas.net
 .logs.danamas.net
 .6301s.dangkiem.com
+.ire.danielfreyr.com
 .dns.home.daniil.it
 .adguard.dantynes.cyou
 .darkfat.com
@@ -1393,6 +1440,7 @@
 .dnsresolver02.ddns.net
 .dnsvs.ddns.net
 .drkcloud.ddns.net
+.facomunit.ddns.net
 .gmf-dns.ddns.net
 .gmf2.ddns.net
 .inadsware.ddns.net
@@ -1402,6 +1450,7 @@
 .kwas24izynek74.ddns.net
 .leochen-dns.ddns.net
 .massivemangoes.ddns.net
+.mipelinusa.ddns.net
 .mydns.ddns.me
 .mzs1.ddns.net
 .nicknarayong.ddns.net
@@ -1409,6 +1458,7 @@
 .pccoach.ddns.net
 .plichaa12.ddns.net
 .pqh.ddns.net
+.reaplay.ddns.net
 .ronaldvkrueger.ddns.net
 .sarawut.ddns.net
 .sorephie-dns2.ddns.net
@@ -1429,6 +1479,7 @@
 .dns.deadsec.net
 .dear.actor
 .epichistory.dearabba.org
+.vps.deckberg.de
 .dns.decky.eu
 .www-plo.declan-reid.me
 .dns.decloudus.com
@@ -1436,6 +1487,7 @@
 .te.decolores.cl
 .dedidl.com
 .dns.dedsuts.com
+.c9.dedyn.io
 .frank-web.dedyn.io
 .k03.dedyn.io
 .dns.skous.dedyn.io
@@ -1498,12 +1550,13 @@
 .vcjcjmgjfjfkghjfhnuixfyagofygrna.dinprima.ro
 .whyarewearewhatarewearewhatarewe.dinprima.ro
 .dns.dionperera.com
-.s6.dipper315.tech
 .directoryproxy.info
 .dirtyworkproxy.com
+.dns-telkominfra.disacloud.com
 .disbish.com
 .disconnect.me
 .doh.disconnect.app
+.discountdiskz.com
 .smart-tiger-985.discovergeographics.com
 .blackdragon6699.diskstation.me
 .ebpmc.diskstation.me
@@ -1512,10 +1565,12 @@
 .districtnewyork.com
 .divalane.com
 .divaloo.com
+.adguard.diylab.in
 .coolgams.dk-condos.com
 .f4ckdns.dl4mt.dev
 .dns.dlinders.nl
 .home.dlinkddns.com
+.d.dnns.fun
 .dns.expert
 .dns.google
 .dns.pub
@@ -1535,6 +1590,7 @@
 .dns3.dns-ga.de
 .doh.dns-ga.de
 .secure-dns.dns-ga.de
+.dns.dns-heimdall.com
 .dns.dns-over-https.com
 .i.dns-over-https.tk
 .dns-savage.com
@@ -1570,6 +1626,7 @@
 .bne01.dnscry.pt
 .bog01.dnscry.pt
 .bom01.dnscry.pt
+.bom02.dnscry.pt
 .bru01.dnscry.pt
 .bts01.dnscry.pt
 .bud01.dnscry.pt
@@ -1586,9 +1643,9 @@
 .dub01.dnscry.pt
 .dus01.dnscry.pt
 .dus02.dnscry.pt
+.dus03.dnscry.pt
 .evn01.dnscry.pt
 .eyg01.dnscry.pt
-.fet01.dnscry.pt
 .fet02.dnscry.pt
 .fjr01.dnscry.pt
 .fnt01.dnscry.pt
@@ -1651,6 +1708,7 @@
 .ncl01.dnscry.pt
 .nue01.dnscry.pt
 .nyc01.dnscry.pt
+.ogd01.dnscry.pt
 .omr01.dnscry.pt
 .ord01.dnscry.pt
 .ott01.dnscry.pt
@@ -1668,10 +1726,13 @@
 .rix01.dnscry.pt
 .sea01.dnscry.pt
 .sel01.dnscry.pt
+.sel02.dnscry.pt
 .sgn01.dnscry.pt
 .sin02.dnscry.pt
 .sin03.dnscry.pt
 .sjc01.dnscry.pt
+.sjc02.dnscry.pt
+.skg01.dnscry.pt
 .slc01.dnscry.pt
 .sof01.dnscry.pt
 .sto01.dnscry.pt
@@ -1700,6 +1761,7 @@
 .yvr01.dnscry.pt
 .yyc01.dnscry.pt
 .yyz01.dnscry.pt
+.yyz02.dnscry.pt
 .zal01.dnscry.pt
 .dns1.dnscrypt.ca
 .do.dnscrypt.uk
@@ -1728,12 +1790,12 @@
 .a.safe.ns.dnslify.com
 .b.safe.ns.dnslify.com
 .dnslow.me
-.dnsmurray.de
 .dns.dnsoverhttps.net
 .adguard2.dnsovertor.cc
 .chuncheon.dnsovertor.cc
 .japan.dnsovertor.cc
 .seoul.dnsovertor.cc
+.dnspod.com
 .dnssilo.top
 .bilidon.dnsuser.info
 .ns.dnsviewer.org
@@ -1787,6 +1849,7 @@
 .downloadvpnfree.com
 .doyouremember.love
 .dns35.allone.dpdns.org
+.dns.ikun6.dpdns.org
 .de-adguard.dr3ff1c13nt.com
 .dns.dr3ff1c13nt.com
 .laptopdns.dr3ff1c13nt.com
@@ -1813,18 +1876,22 @@
 .adguardpi.duckdns.org
 .andryk111.duckdns.org
 .armm.duckdns.org
+.baksabal.duckdns.org
 .bitly-galatikx.duckdns.org
 .blamb.duckdns.org
 .cdzopi.duckdns.org
 .derekcastle.duckdns.org
+.dirrectumrx.duckdns.org
 .dorkanddoodle.duckdns.org
 .eweyo.duckdns.org
 .gcpddns.duckdns.org
 .genielee.duckdns.org
 .home27.duckdns.org
 .homejerem.duckdns.org
+.hrsm12181.duckdns.org
 .huawaakiskokoa.duckdns.org
 .jfeoks.duckdns.org
+.jonzalvo.duckdns.org
 .jurre-home.duckdns.org
 .kalwat.duckdns.org
 .kiwifunke.duckdns.org
@@ -1833,8 +1900,10 @@
 .krtekvpn.duckdns.org
 .ldaman.duckdns.org
 .leoadguard.duckdns.org
+.mipelinusa.duckdns.org
 .morgenegg.duckdns.org
 .nas1403.duckdns.org
+.naujas123.duckdns.org
 .nikamurs.duckdns.org
 .nqh-dns.duckdns.org
 .o--o.duckdns.org
@@ -1842,9 +1911,15 @@
 .pitchforkwaydns.duckdns.org
 .punono.duckdns.org
 .rcpc2.duckdns.org
+.rexdns.duckdns.org
+.sabeendns.duckdns.org
 .salvadoserver.duckdns.org
 .site-2.duckdns.org
 .site-3.duckdns.org
+.testapp-0-1-1.duckdns.org
+.thaibksri.duckdns.org
+.theadblocksg.duckdns.org
+.ts653d.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .unixfox.duckdns.org
@@ -1871,6 +1946,7 @@
 .akhilkalwakurthy.dyndns.org
 .ueni.dyndns.org
 .roucious.dyndns-remote.com
+.resolver2.dyndnsinternetguide.com
 .cart.dyndnssec.de
 .adbox-v9.dynipv6.de
 .rafi.dynns.com
@@ -1922,15 +1998,17 @@
 .edgedcircles.com
 .dns.edgeworkssystems.ca
 .dns.edgy.network
+.edgy-dns.com
+.doh.edifiels.ru
 .edpuzzle.space
 .agh.amber.edu.vn
 .adblocker.institutobancario.edu.mx
 .dns.tuna.tsinghua.edu.cn
 .educationdean.us
-.adunanini.edurapp.tk
 .adguard.ef67daisuki.club
 .tor.eff.org
 .dns.efficientdocuments.com
+.cloud.efreakbnc.net
 .egorovna.su
 .vpn.egorrko.ru
 .doh.eieidns.com
@@ -1959,7 +2037,6 @@
 .hk.end.pub
 .endente.com
 .adguard.ender.fr
-.dns.enderblocks.net
 .schoology.engalsaati.com
 .dns.engineer-lib.ru
 .dnssec.dns.enginyring.com
@@ -1975,6 +2052,7 @@
 .enrollkirgo.com
 .owenforzono.entergod.com
 .owenforzonoiseeyou.entergod.com
+.dns.enzomtp.party
 .adguard.eoghan-net.com
 .eonvpn.com
 .dns.epcot.fr
@@ -2036,6 +2114,7 @@
 .evyy.net
 .ewon.biz
 .exns1.exalto.nu
+.dns.exhome.pl
 .adguard.eximpius.xyz
 .dns.exitstat.us
 .dot-public.exitstat.us
@@ -2053,6 +2132,7 @@
 .extravpn.top
 .dns.extrawdw.net
 .extremevpn.com
+.ad.exxo.work
 .fra1.eyecay.xyz
 .eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 .f0lga.tech
@@ -2067,6 +2147,8 @@
 .jp1.f7b6h9.tk
 .dns.f97.xyz
 .faceless.me
+.proxy.facil.wtf
+.www-proxy.facil.wtf
 .pdns.faelix.net
 .rdns.faelix.net
 .dns.fahr.in
@@ -2090,7 +2172,8 @@
 .dns.farshidhakimy.de
 .fastestvpn.com
 .fastfoxvpn.com
-.fastfreeproxy.info
+.desmossciencehelp.global.ssl.fastly.net
+.fastlyusers.global.ssl.fastly.net
 .fastp.org
 .adh.fastpacefixit.info
 .fastproxy.nl
@@ -2134,6 +2217,7 @@
 .filesdownloader.com
 .dns.filipccz.eu
 .filterbypass.me
+.fimoshinckaya-federation.site
 .learngeometryfr.fin-tech.com
 .finchvpn.com
 .fineproxy.org
@@ -2158,9 +2242,7 @@
 .flashputon.net
 .doh.flashstart.com
 .flashvpn.li
-.spyro-the-bat.fleuryk.ovh
-.spyrothebat.fleuryk.ovh
-.vps.fleuryk.ovh
+.dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
 .ns1.flodns.net
@@ -2206,7 +2288,9 @@
 .us-sj.foxyfy.net
 .securly.com.fpr.net
 .hotmoms.fpr.net
+.scienceschoolmath.fpr.net
 .turtlelover.fpr.net
+.zi000.fpr.net
 .fptdns.site
 .dns.family.fraiss.at
 .frandcomfort.us
@@ -2279,10 +2363,10 @@
 .freesafeip.com
 .freesupervpn.com
 .freetrialvpn.com
-.freetunnel.net
 .freeukvpn.com
 .freevideoproxy.com
 .freevmess.com
+.freevpn.cloud
 .freevpn.me
 .freevpn.org
 .freevpn.pw
@@ -2301,12 +2385,14 @@
 .french-vpn.com
 .dns.freopc.fr
 .dns.freyja.pw
+.dns.friezer.eu
 .frkn.frkn.cloud
 .ivica-vulas.from.hr
 .frootvpn.com
 .dns.froth.zone
 .dns.fsociety.club
 .dns.fsociety.red
+.ychk.ft1991.top
 .ablock.fuckit.ovh
 .dns.fulgore.fr
 .fun4school.store
@@ -2316,10 +2402,13 @@
 .funtikspb.ru
 .doh.funtopia.tv
 .furriesarecute.furryplace.eu
+.furrytech.io
 .doh.futa.app
 .doh.futa.gg
+.us.future-world.net
 .futurearts.cc
 .dns.futuredns.me
+.wp-test.fvds.ru
 .dns.fxdc.ru
 .vpn.g-s-a.me
 .adg.g3.monster
@@ -2351,15 +2440,12 @@
 .genmirror.com
 .genscorp.es
 .dns.geohide.ru
-.adfree-games-at.geometry-games.online
-.browser.geometry-games.online
 .play-games-at.geometry-games.online
 .rammerhead.geometry-games.online
 .shameless-plug-for.geometry-games.online
 .unblocked-games-at.geometry-games.online
 .geonix.com
 .geonode.com
-.adguard.georgev22.com
 .geosurf.io
 .german-proxy.de
 .gersoctruda.ru
@@ -2377,6 +2463,7 @@
 .geti2p.net
 .getiantem.org
 .getlantern.org
+.dns.getnoclip.link
 .getoutline.org
 .getoutunblock.com
 .getproton.me
@@ -2406,6 +2493,7 @@
 .dns.ginovs.nl
 .gipvpn.com
 .dns.girino.org
+.dns.giriprabhat.com
 .masterproxy-proxy.github.io
 .proxybrowser.github.io
 .shadowsocks5.github.io
@@ -2414,6 +2502,7 @@
 .gizlibaglanti.com
 .h.gjrick.tw
 .sdns22.gkonuralp.com
+.gl33tch.pro
 .glacius.top
 .dns.glampool.cloud
 .adguard.glbd.fr
@@ -2444,6 +2533,7 @@
 .boltisback.panel-laboralcj.gob.mx
 .gobestvpn.com
 .dns.goertz.digital
+.panel.gogolvpn.com
 .goingthere.org
 .gointerstellar.app
 .eime.goip.de
@@ -2453,6 +2543,7 @@
 .goldenfrog.com
 .dns.goldplate.org
 .golegana.de
+.gologin.com
 .dev.gonnadive.com
 .adguard.gonzcid.com
 .doh-primary-pool.goodbyegambling.com
@@ -2488,6 +2579,8 @@
 .greatestfreeproxy.com
 .dns.green-ping.lol
 .adguard.green1052.com
+.pleasework.greenaudio.ch
+.theyhavehollowknight.greenaudio.ch
 .c00lkiddtech.ut.greenaudio.ch
 .terms.graph.greenmantools.com
 .greenproxy.net
@@ -2531,6 +2624,7 @@
 .hkns.gzelvis.com
 .gztech.me
 .h-vpn.org
+.schoolnotes.h0rst.us
 .dns.h0schi.cloud
 .dns2.h0schi.cloud
 .potatojuice.h0stname.net
@@ -2556,17 +2650,16 @@
 .adguard.haneulo.com
 .dns.hanmey.de
 .dns.hannielzhang.com
+.jp.hannielzhang.com
 .d.hansj.cc
 .classroom.haoqiw.com
 .happy-vpn.com
-.happy365.me
 .happydata.info
 .cars.happyforever.com
 .skibidiparkergoon.happyforever.com
 .turtle.happyforever.com
 .yessir.happyforever.com
 .courses.happyrobotics.com
-.harbaletsstudy.com
 .resolver.haringstad.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
@@ -2596,12 +2689,14 @@
 .heroproxy.com
 .adg.herry.dev
 .dns.msk.hexagon1736.com
+.dns.hexservers.com
 .hexxitcompany.com
 .httpdns.ocloud.heytapmobi.com
 .hfgx.shop
 .hg8.asia
 .hgrps.eu
 .dns.sgp.hicn.site
+.hiddendigital.info
 .hiddendragon.site
 .hide.me
 .hide.mn
@@ -2684,7 +2779,7 @@
 .holavpnworld.com
 .holax.io
 .hi.hollandweather.net
-.beta.holyunblocker.org
+.holyunblocker.org
 .cloud2.holzmannclouddns.de
 .socolov.home.ro
 .adguard.home-lab-network.com
@@ -2693,6 +2788,7 @@
 .admin.homedns.uk
 .isolacje.homeip.net
 .homemail.info
+.adguard.homenetmedia.stream
 .adguard01.homepeter.de
 .homeproxy.com
 .homeproxy.net
@@ -2733,6 +2829,7 @@
 .hoxx.com
 .hoxx.net
 .hshh.org
+.doh.hshkf.com
 .hsselite.com
 .hsu.plus
 .pub.hsuan.ink
@@ -2748,7 +2845,6 @@
 .doh.hugang8.cn
 .hugeph.art
 .dns.huizegunsing.nl
-.dns.huizhechi.com
 .dns.hujiayucc.cn
 .ads.hunga1k47.com
 .solidgeo.hunnur.com
@@ -2768,7 +2864,8 @@
 .hkg.hytec.org
 .ur.hytec.org
 .ns1.i-evolve.net
-.i-puppy.ru
+.ec.i-puppy.ru
+.ru.i-puppy.ru
 .i2p-projekt.de
 .i2pd.xyz
 .az.i81.ru
@@ -2780,9 +2877,17 @@
 .vovale.px.i81.ru
 .vd.i81.ru
 .vpn.i81.ru
+.aq.iaalai.cn
 .dns.iamanuragh.in
 .dns.iamninja.ru
 .sec.iamninja.ru
+.ib.systems
+.dns-public.ibakerserver.pt
+.link-five.ibewlocalzero.com
+.link-four.ibewlocalzero.com
+.link-one.ibewlocalzero.com
+.link-three.ibewlocalzero.com
+.link-two.ibewlocalzero.com
 .dns.iblockads.net
 .dns-us.ibmcloud.top
 .ibvpn.com
@@ -2798,6 +2903,7 @@
 .rini.id.vn
 .tienpham.id.vn
 .guard-1.vilbav.id.lv
+.guard-2.vilbav.id.lv
 .idcloak.com
 .idealvpn.com
 .idolproxy.com
@@ -2811,6 +2917,7 @@
 .home.fc.idv.tw
 .tls.jackyhou.idv.tw
 .adguard.shuting.idv.tw
+.gitea.sukon.idv.tw
 .adguard.ihatemy.live
 .dns.ihaveacloud.com
 .learningwiki.iiiii.info
@@ -2822,7 +2929,6 @@
 .ilinhy.com
 .ilmxs.com
 .ilumu.com
-.ilysk.lol
 .ad.imblien.com
 .noads.imbuffering.com
 .dns.imchristian.de
@@ -2836,6 +2942,7 @@
 .http-dns.imoim.net
 .http-dns.imostatic.com
 .imperio.top
+.adgh.imtsui.com
 .host8.248.cloudhost.in.th
 .adguard.dbase.in.rs
 .dns1.in-berlin.de
@@ -2873,7 +2980,6 @@
 .instant-vpn.com
 .instantunblock.com
 .intego.com
-.dns.interhub.cc
 .interncloud.info
 .internetbypass.com
 .internetcloak.com
@@ -2883,6 +2989,7 @@
 .intl-alliance.com
 .dns.invent.hr
 .invisv.com
+.adb.intienquan.io.vn
 .ion.pm
 .dns.cloud.ionutl.ro
 .use.edu.iownyour.org
@@ -2898,7 +3005,6 @@
 .dns.ipoac.nl
 .iportal.me
 .ipprotectionauth.goog
-.ipredator.se
 .iprivatevpn.com
 .iprovpn.com
 .iproxy.lol
@@ -2943,6 +3049,7 @@
 .dns.iteo.pw
 .itlikehell.ru
 .itopvpn.com
+.diy.itsa.top
 .adguardhome.ittoolman.top
 .fl.ittqc.com
 .dns.itwht.com
@@ -3005,6 +3112,7 @@
 .dns.jiyi.eu
 .jkdns.me
 .vps.jmarkin.ru
+.dns.jmore.dev
 .adg.jnorton.us
 .jnprd.com
 .green2.jnraptor.net
@@ -3016,9 +3124,11 @@
 .vps2.jnraptor.net
 .home.jobytan.com
 .dns.joey01245.nl
+.dmjp.joeyl.de
 .vpn.jogjacloud.com
 .adguard.johanliebert.top
 .dns.johndave.me
+.johneldenring.lol
 .adguard.johnnypatras.org
 .joindns4.in
 .child.joindns4.eu
@@ -3028,6 +3138,7 @@
 .unfiltered.joindns4.eu
 .opencdn.jomodns.com
 .jongserver.xyz
+.panel.joosh.ru
 .joouddo.ru
 .josephfamily.org
 .agh.josephyap.me
@@ -3097,7 +3208,6 @@
 .server01.karl.one
 .adguard.kasbot.net
 .dns.kastner-online.de
-.kavkaz.monster
 .dns.kawa.tf
 .dns.kc2wbx.com
 .kcolspacrm.ir
@@ -3132,6 +3242,7 @@
 .khsan.com
 .adguard.kiboko.it
 .kickassproxy.com
+.shield.kidshielder.com
 .doh.kidzonet.io
 .kilabit.info
 .doh.killtw.im
@@ -3172,8 +3283,7 @@
 .dns.kostydenis.me
 .dns1.kostydenis.me
 .koxy.de
-.interesting-molli-qj-9c49db8e.koyeb.app
-.puzzled-dulci-ballpit-1-5f558a50.koyeb.app
+.koyeb.app
 .hkt.kozow.com
 .mechanikdns.kozow.com
 .notebooks.kozow.com
@@ -3251,6 +3361,7 @@
 .legalweb.info
 .br.servers.legat.ml
 .externalmobiel.lekdijk.online
+.sndkcuf.lekun.me
 .lelux.fi
 .dns.lepilleur.com
 .dns.lermer.nl
@@ -3259,7 +3370,6 @@
 .dns.levonet.sk
 .br2.lezainski.com
 .dns2.lezainski.com
-.kagurabachilover.lgmnow.com
 .dns.lgprk.com
 .nd.lgprk.com
 .dns.liberador.net
@@ -3268,7 +3378,6 @@
 .us.libost.xyz
 .doh.libredns.gr
 .dot.libredns.gr
-.lifeisa.live
 .neon.lifepixeled.com
 .dns.lifeym.xyz
 .dns.lightmaster.pw
@@ -3278,6 +3387,7 @@
 .dns.lilith.cloud
 .limevpn.com
 .limitlessproxy.com
+.adgaurd.lingmont.net
 .www-pa.linkall.uk
 .linkideo.com
 .linkmefree.net
@@ -3301,9 +3411,11 @@
 .s2.littlebr.link
 .blade.lixd.club
 .dns.lmir.info
+.10.ln7371.top
 .xm.ln7371.top
 .loadlow.me
 .dns.lobbygod.com
+.locabrowser.com
 .localto.net
 .localtonet.com
 .locaproxy.com
@@ -3324,12 +3436,10 @@
 .ddd.loukky.com
 .lovekers.cn
 .n5.lsasss.com
-.dns.lsho.top
 .lslnyjq.uk
 .ltlxvxjjmvhn.me
 .dns1.luan.contact
 .btg.ludopop.cl
-.e.luismedeiros.pt
 .dns.luismm2311.com
 .doh.lujiacai.top
 .lukscasino-479-tr.xyz
@@ -3345,24 +3455,12 @@
 .lurk.info
 .home.luther.io
 .d.luwei.date
+.ornext.luxury-web.kz
 .dns.lvl-network.de
 .orau.lz0724.com
 .orjp4.lz0724.com
 .addns1.m-it.ro
 .ag.m0fo.com
-.mabuktogel.builders
-.mabuktogel.business
-.mabuktogel.cards
-.mabuktogel.creditcard
-.mabuktogel.degree
-.mabuktogel.directory
-.mabuktogel.enterprises
-.mabuktogel.immobilien
-.mabuktogel.limited
-.mabuktogel.ltd
-.mabuktogel.marketing
-.mabuktogel.properties
-.mabuktogel.solutions
 .v971850.macloud.host
 .iloveshrek.madhacker.biz
 .dns.mafyuh.io
@@ -3388,10 +3486,10 @@
 .dns.mandre.dev
 .doh.manish.ltd
 .adguard.manmademagic.com
-.use.manutec.be
 .dns.maolaohei.xyz
 .adguard.mapor.co
 .mapspublications.us
+.maqgie.xyz
 .dns.marasov.id
 .dns.marbledfennec.net
 .dns.marcbond.uk
@@ -3421,6 +3519,7 @@
 .mathhelpnow.site
 .mathlearning.tech
 .mathnotes.help
+.mathnotes.icu
 .rasp.matthias-iwer.de
 .dns.matthias-prost.com
 .maxfong.cc
@@ -3447,7 +3546,6 @@
 .doh.meetz.pw
 .redsea.meetz.pw
 .testguard.meexx.de
-.mega123proxy.com
 .meganerd.nl
 .dns.megaong.com
 .megaproxy.biz
@@ -3511,7 +3609,6 @@
 .doh.mmmalia.com
 .dns.mnet-online.de
 .dns.mni.li
-.mo0on15.com
 .dnstls.mobik.com
 .mobilejump.mobi
 .mobilevpn.net
@@ -3545,8 +3642,10 @@
 .disinformer.mooo.com
 .e23a.mooo.com
 .lengua.insti.mooo.com
+.riga91197.mooo.com
 .sevenlaks.mooo.com
 .voyagermartians.mooo.com
+.dns.moraes.tech
 .dns.moraru.net
 .morbitzer.de
 .morevpn.com
@@ -3554,6 +3653,7 @@
 .dns.motazhakim.com
 .movieproxy.com
 .vpn.mozilla.org
+.mresquire.com
 .dns.mrkaran.dev
 .adguard.kazantsev97.msk.ru
 .msr177.com
@@ -3574,7 +3674,7 @@
 .d.apemlegit.my.id
 .be2aja.my.id
 .vpnto.bhadrikais.my.id
-.dns.dodhymikrotik.my.id
+.dns.fadhilyori.my.id
 .dns.freddys.my.id
 .dns.iki.my.id
 .dns-idx1.itsec.my.id
@@ -3595,6 +3695,7 @@
 .uto2.my.to
 .dns.velyn.my.id
 .dns.vmath.my.id
+.zapranet.my.id
 .ssl-proxy.my-addr.com
 .vds2380673.my-ihor.ru
 .my-proxy.com
@@ -3627,6 +3728,7 @@
 .myip-proxy.info
 .myiphide.com
 .prep.brain.mymiddlebury.com
+.agh-ovh.mynetgear.com
 .walker.mynetgear.com
 .kyotocatholicchurch.myogaya.jp
 .blackhole.myon.lu
@@ -3641,7 +3743,6 @@
 .egshe.myqnapcloud.com
 .newlibrarian.myqnapcloud.com
 .myrusvpn.de
-.mysiteunblocked.com
 .mysolod.xyz
 .myspaceunlock.com
 .mysteriumvpn.com
@@ -3660,6 +3761,7 @@
 .mzhlhrfr8z.info
 .dns.mzjtechnology.com
 .dns.mzrme.cn
+.pdns1.n00b.fr
 .dns.n23.io
 .n8nmegapixar.online
 .doh-ca.naftalie.net
@@ -3724,9 +3826,11 @@
 .vpn.ncapi.io
 .dns.ndo.dev
 .tk2-404-43267.vs.sakura.ne.jp
+.x210-131-219-118.static.xvps.ne.jp
 .ne1.ca
 .nebulaproxy.io
 .dns.neeb.it
+.adguard.neelyha.tk
 .dns.nekofish.cc
 .nekoray.org
 .nelsonleung.org
@@ -3808,6 +3912,7 @@
 .dns1.nielsdb.be
 .adguard.nielsenhost.dk
 .dns.nieto.app
+.dns.niffelen.com
 .sinkdns.nihatkalfazade.com
 .adguard.niko-sem.com
 .dnx.niko-sem.com
@@ -3896,6 +4001,7 @@
 .tall-heart-319.nstabiology.org
 .nsv4w.com
 .dns.ntr.lol
+.dns1.ntus.io
 .ntwrkh.pro
 .dns.nubecita.biz
 .dns2.nubecita.biz
@@ -3921,7 +4027,6 @@
 .5g.o0o.re
 .o1.lt
 .ha.o51r15.com
-# .obscura.net
 .dot.occ.top
 .oceanbrowser.co
 .dns.ocedric.net
@@ -3935,6 +4040,7 @@
 .oeck.com
 .dns.ofdoom.net
 .sq.ofmdirect.com
+.nl.ogne.top
 .adguard.ohmhv57.org
 .okado.online
 .okayfreedom.com
@@ -3977,10 +4083,12 @@
 .onlineproxy.io
 .onlineproxy.us
 .adns.onlinetools.rocks
+.onlinevpn.app
 .adguard.onlyfriends.info
 .d.onlyjsmylord.org
 .info.onnemaa.ee
 .ojjccwjwov.onnemaa.ee
+.secroxy-node-4.onrender.com
 .andybunn.onthewifi.com
 .onweb.info
 .onyx7.com
@@ -4045,6 +4153,7 @@
 .wireguard.osmenoga.com
 .ospylac.com
 .osqcsmm.shop
+.dns.ostfriese.org
 .adguard.ota.moe
 .adguard2.ota.moe
 .adguard3.ota.moe
@@ -4053,6 +4162,7 @@
 .dns.ourvau.lt
 .proxy.outred.dev
 .bolt.ovaa.cl
+.addns.ovalie.ovh
 .overplay.net
 .oversecure.ltd
 .vps-1f675aa1.vps.ovh.us
@@ -4095,7 +4205,6 @@
 .papervpn.info
 .paradise-human.shop
 .dns.pari.network
-.parkviewenglish.buzz
 .meow.partedu.club
 .pashagame456.com
 .paskam.xyz
@@ -4141,8 +4250,10 @@
 .dns.pgnhatrang.com
 .phantom3c.net
 .phantompeer.com
+.mydns.phatna.net
 .dns.phillipjberry.net
 .philqoo.com
+.phongg.vn
 .gojoiscoolbutweird.photo-frame.com
 .photonsecure.com
 .phpbido.com
@@ -4203,6 +4314,7 @@
 .polisitogel.show
 .polisitogel.webcam
 .vps.poly-tank.jp
+.dns.pondokngunut.ponpes.id
 .portalssh.com
 .dns.porteii.com
 .dns2.porteii.com
@@ -4235,6 +4347,8 @@
 .pproxy.org
 .pq7hdf.com
 .pr0xy.com
+.ny.pramanik.com
+.office.pramanik.org
 .topic.craft.prazerdiario.com
 .a1free-optimal.prcdn.net
 .bru-be.prcdn.net
@@ -4264,8 +4378,6 @@
 .oury.privado.ovh
 .privadovpn.com
 .privatebard.com
-.lmc.privatedns.org
-.lmc1.privatedns.org
 .privateinternetaccess.com
 .test.privatenode.ru
 .privateproxy.me
@@ -4286,7 +4398,6 @@
 .adg.proprietarypenguin.com
 .dns.proprietarypenguin.com
 .edu.prostitutki-na-vyezd.com
-.prostoclub.ru
 .prostovpn.org
 .vpn-api.proton.me
 .protonstatus.com
@@ -4298,6 +4409,7 @@
 .prox.pw
 .proxandthecity.com
 .proxbomb.com
+.proxbud.com
 .proxery.com
 .proxfree.com
 .proxied.org
@@ -4465,8 +4577,8 @@
 .psiphon.ca
 .psiphon3.com
 .psociety.de
+.psybolt.com
 .bit.psyk.fr
-.dns.psyk.fr
 .ptoserver.com
 .publicdnsserver.com
 .publicproxy.org
@@ -4529,6 +4641,7 @@
 .quickproxies.com
 .quicksilvervpn.com
 .dns.quickso.cn
+.dns.quidam.ovh
 .dns.quiet.rocks
 .quintex.com
 .172.96.141.252doge.quipasur.cl
@@ -4539,12 +4652,14 @@
 .frog.dns.qwer.pw
 .lion.dns.qwer.pw
 .tiger.dns.qwer.pw
+.kams.kii.qzz.io
 .home.r01.fr
 .resolver.r0cket.net
 .r1bnc.com
 .fi.r5acq.com
 .ad.r60.pl
 .h.ra3.in
+.jpser.ra3.us
 .ra4wvpn.com
 .dns.rabbitdns.org
 .family.rabbitdns.org
@@ -4571,6 +4686,7 @@
 .emby.rasp.tv
 .rateavon.je
 .ratecuts.us
+.ns2.ravdns.com
 .dns.rayanbab.com
 .dns.rayarksb.fun
 .rayneau.fr
@@ -4579,8 +4695,8 @@
 .dns.rbn.gr
 .rcsm.ir
 .searxng.rcxpony.name
+.rd-service.moscow
 .adguard.rdekuyper.nl
-.edu.readerwrangler.com
 .login.readinghelper.online
 .dns.readlook.tk
 .agh.realwap.net
@@ -4605,6 +4721,7 @@
 .renardbleu.dev
 .dns.renardyre.com
 .adblock.renedis.nl
+.reniac.su
 .dns.reolinks.ru
 .dns.repinger.com
 .repocket.co
@@ -4642,6 +4759,7 @@
 .adguard.rjscho.net
 .ollama.rke2.ltd
 .us-east-production-25671.rkimport.com
+.caddy.rkn.icu
 .zetland.rm-ni.uk
 .sudo.rm-rf.cloud
 .saya.rnrkurir.com
@@ -4650,6 +4768,7 @@
 .reallysmart.robertofreire.ca
 .skibidirizz.robinhud.com
 .1.rock-review.ru
+.dns2.rocksdns.ovh
 .rockwell.website
 .dns.roedel.cloud
 .dns.rogpurs.com
@@ -4660,7 +4779,6 @@
 .roodel.com
 .roogen.com
 .roonyx.com
-.dns.root.me
 .alishnekdi.rotorootie.net
 .asimplesanirb.rotorootie.net
 .dns.rotunneling.net
@@ -4685,8 +4803,11 @@
 .backup.rude.li
 .adg.rueiliu.space
 .rumpelsepp.org
+.vps.rumpus.cc
 .error404becausepar1scantlose.run.place
+.ramy.run.place
 .doh.runsel.id
+.agh-bitk.russel053.com
 .agh-yz.russel053.com
 .drs.rustsword.com
 .rustynailspace.com
@@ -4771,6 +4892,7 @@
 .dns.scott.ovh
 .dns.scott-smith.us
 .scottdylewski.com
+.dns.sct-pro.com
 .dns.scuola.org
 .sdvizhkov.ru
 .se3v5tjfff3aet.me
@@ -4892,7 +5014,6 @@
 .dns.simplylinux.ch
 .dns.sindominio.net
 .dns.sineone.icu
-.sinesprox.cloud
 .sinovpn.com
 .family.sinuabi.ee
 .sitdns.com
@@ -4935,6 +5056,7 @@
 .dns.skrep.eu
 .dns.skrep.in
 .gr.skrsteam.info
+.dns.sky-plex.com
 .skydragoness.com
 .skyssh.co
 .skyvpn.net
@@ -4979,14 +5101,16 @@
 .solaxy.live
 .soleilvpn-app.com
 .pteryla.solicituddemateriales.cl
+.siencehub.solicituddemateriales.cl
 .solidproxy.net
 .adguard.soloanvill.ru
+.wtbd02.solowalk.top
 .ns.solutics.ec
 .ns.solutionsbest.de
-.adguard.som-it.net
 .somelikeitproxy.com
 .bwg.sooda.moe
 .r.soraapp.gq
+.soundwaveearbuds.com
 .sourceproxy.com
 .spacedns.org
 .adguard.spaceindex.net
@@ -5034,6 +5158,7 @@
 .ssh-storage.ru
 .sshagan.net
 .sshdropbear.net
+.sshgofast.com
 .sshkit.com
 .sshmax.net
 .sshmyanmar.com
@@ -5055,6 +5180,7 @@
 .ag.ssrahul96.xyz
 .dns.sstomp.nl
 .ssytnik.de
+.dns2.st4rs.net
 .stable-vpn.com
 .stackfront.xyz
 .stage-ngrok.com
@@ -5071,9 +5197,7 @@
 .eu2-browse.startpage.com
 .eu3-browse.startpage.com
 .proxy1.startpage.com
-.proxy2.startpage.com
 .proxy3.startpage.com
-.proxy5.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com
 .us2-browse.startpage.com
@@ -5109,6 +5233,7 @@
 .streamvia.com
 .dns.streamvine.app
 .streamvpn.com
+.dns.stresslab.party
 .vpn.stroialliance.com
 .strongvpn.com
 .dns.struchkov.dev
@@ -5137,7 +5262,6 @@
 .superproxy123.com
 .adguard.superstefan.win
 .dns.superstefan.win
-.superunblocked.net
 .superunlimited.com
 .supervpn.best
 .supervpn.im
@@ -5207,6 +5331,7 @@
 .bucheli.synology.me
 .chlaebi.synology.me
 .hockaday.synology.me
+.hsulun2000.synology.me
 .ibksturm.synology.me
 .ihctw.synology.me
 .siddeus.synology.me
@@ -5233,6 +5358,7 @@
 .tailscale.com
 .dn5.talesam.org
 .talk2m.com
+.adguard.tammi.cc
 .smokerstale.tantrum.org
 .dns.taoday.top
 .dns.tapawan.ca
@@ -5244,6 +5370,7 @@
 .tbjr6.com
 .dns.tbs6920.sbs
 .tbunet.com
+.de51.tcpdoor.net
 .adguard.tcpu.io
 .tcpvpn.com
 .dns.teaminfo.fr
@@ -5275,6 +5402,7 @@
 .telleport.me
 .tempdns.net
 .temproxy.com
+.tempshf.world
 .agh.srv.tenete.net
 .vpn-tw.teng.sh
 .tenta.com
@@ -5418,6 +5546,8 @@
 .torguard.net
 .torguard.org
 .nsc.torgues.net
+.torproject.com
+.torproject.net
 .torrentproxy.co
 .torrentproxy.net
 .torry.io
@@ -5435,8 +5565,8 @@
 .chronicle14.tplinkdns.com
 .ebpmc.tplinkdns.com
 .ngk81hc.tplinkdns.com
-.dns.tracker.ink
 .tradeadspace.info
+.access.traders-friend.com
 .104.36.85.232.traefik.me
 .trafflink.xyz
 .traffmonetizer.com
@@ -5458,8 +5588,10 @@
 .dns.trifanov-online.ru
 .trilightzone.org
 .sq.trin.icu
+.doh.tritan-bb.net
 .trovs.ru
 .nebula.tru.io
+.apps.truckbel.com
 .yuno.truckbel.com
 .trueproxy.com
 .dns.truong.fi
@@ -5491,6 +5623,7 @@
 .tuvpn.com
 .nat64.tuxis.nl
 .tuxlervpn.com
+.adguard.tver-tech.ru
 .tvone.info
 .duck.twilightparadox.com
 .perdona.my.twilightparadox.com
@@ -5617,7 +5750,6 @@
 .unblockedwarez.com
 .unblocker.net
 .unblocker.us
-.unblockfav.com
 .unblockfreeproxy.com
 .unblockit.app
 .unblockit.club
@@ -5636,7 +5768,6 @@
 .unblockprox.com
 .unblockproxy.me
 .unblockproxy.win
-.unblocks.net
 .unblocksite.biz
 .unblocksite.fun
 .unblocksite.id
@@ -5672,6 +5803,7 @@
 .unifiedvpn.com
 .galileo.math.unipd.it
 .dns.unitech.company
+.dns.unitynetwork.ru
 .universityproxy.net
 .unknownproxy.com
 .unlimitedvpn.net
@@ -5689,6 +5821,7 @@
 .resolver.unstoppable.io
 .untraceable.us
 .untracer.com
+.doh.unveildns.com
 .dns.unx.io
 .yescool.upcg.xyz
 .updatedproxies.com
@@ -5757,7 +5890,9 @@
 .adguard.vegann.space
 .dns.veikus.com
 .dns.vemo.cc
+.dns.venclous.org
 .securedns.vendorvista.xyz
+.veraris.online
 .algebra-help-and-lessons.vercel.app
 .art-class-omg.vercel.app
 .asdsasd.vercel.app
@@ -5813,6 +5948,7 @@
 .vorlif.org
 .vornz.com
 .dns.voronin.uk
+.dns.vortexstore.cloud
 .vpn.vosjes.cloud
 .adguard.vozersky.com
 .vpernet.com
@@ -5821,7 +5957,6 @@
 .vpn.asia
 .vpn.com
 .vpn.express
-.vpn.fail
 .vpn.ht
 .vpn.lat
 .vpn.net
@@ -5921,7 +6056,6 @@
 .vpnwelt.com
 .dns.vps.pw
 .antispam.vpsvpn.com
-.vrehm.fr
 .vtcuong.site
 .vuivn.site
 .45.32.17.58.vultrusercontent.com
@@ -5938,6 +6072,7 @@
 .44c.wakemeup.ru
 .baldwinprepbyjerrydaniels.wakemeup.ru
 .kailovefurries.wakemeup.ru
+.dns.walker.id
 .walln.com
 .wallpap.eu
 .adguard.wallura.eu
@@ -6030,6 +6165,7 @@
 .wiksa.com
 .dns-1.wil.cloud
 .dns-2.wil.cloud
+.adguard.wild.ro
 .tests.excel.wild1.net
 .adguard.willhotard.com
 .dns.wincservices.com
@@ -6053,6 +6189,7 @@
 .woodbridge.club
 .woodenclock.us
 .dns.woodyli.dev
+.doh.ndmc.work.gd
 .workbypass.com
 .workdigi.com
 .test.cors.workers.dev
@@ -6083,6 +6220,7 @@
 .cors.x2u.in
 .ads.x88.in
 .adguard.x88x.xyz
+.dns.x8net.ru
 .x9fnzrtl4x8pynsf.com
 .adguard.xandersalarie.com
 .adb-home.xaoimoon.fr
@@ -6099,6 +6237,7 @@
 .dot.xfinity.com
 .doh2.gslb2.xfinity.com
 .xholgm.top
+.xiaoxie.pro
 .xiaoxinhui.cn
 .xie.ke
 .agh.xinfeng16m.top
@@ -6112,13 +6251,16 @@
 .dns.xivilay.dev
 .dns.xlion.tw
 .xmr.land
+.xn--80aeak3akfgk.xn--p1acf
 .xn--80aecoigf4aatn.xn--p1ai
 .xn--durhre-yxa.de
 .xomadns.com
 .xorbiadns.com
 .doh.xorlet.ru
 .xperienc.com
+.adgh.xrossj.top
 .look.xshentx.org
+.dns.xuann.my
 .dns.xuming.studio
 .dns.xusqui.com
 .dns.xv.fi
@@ -6162,7 +6304,6 @@
 .youcanhide.net
 .net01.youcef.io
 .adguard.youler.com
-.younblocked.com
 .dns.youni.win
 .youproxything.com
 .youproxytube.com
@@ -6184,8 +6325,8 @@
 .dns2.ytpom.ru
 .dns.yu.dev
 .yui.cat
-.yujunwanwu.cn
 .adguard.yuki2th.xyz
+.yundun.icu
 .httpdns.yunxindns.com
 .dns.yuu-g.net
 .yuvelirtut.website
@@ -6209,6 +6350,7 @@
 .bananakun.zapto.org
 .schoolwebsite.zapto.org
 .dns.zarchbox.fr
+.zaziss.com
 .zburger.top
 .zdn.ro
 .dns.zemows.industries
@@ -6253,6 +6395,7 @@
 .zproxy.org
 .d.zscale.gq
 .zscalertwo.net
+.zt.al
 .ztv.su
 .lookup.zucx.net
 .dns.zui.lol
@@ -6276,7 +6419,6 @@
 1.1.1.3
 1.12.12.12
 1.230.209.26
-100.48.34.7
 100.69.180.29
 101.101.101.101
 101.198.192.33
@@ -6284,7 +6426,7 @@
 101.236.69.43
 101.34.229.193
 101.6.6.6
-102.113.138.151
+102.113.14.157
 102.222.106.96
 102.37.148.2
 103.1.223.110
@@ -6317,7 +6459,6 @@
 103.224.182.252
 103.224.212.216
 103.230.156.210
-103.253.215.19
 103.28.53.16
 103.29.215.236
 103.29.68.118
@@ -6340,6 +6481,7 @@
 103.97.179.29
 103.99.133.110
 104.128.62.173
+104.156.154.11
 104.156.231.119
 104.167.199.135
 104.192.102.132
@@ -6353,8 +6495,8 @@
 104.238.181.28
 104.244.209.134
 104.244.72.39
+104.248.104.66
 104.36.86.181
-106.52.233.86
 106.55.100.51
 106.55.44.79
 106.55.91.174
@@ -6364,18 +6506,17 @@
 108.181.69.153
 108.61.208.139
 108.61.82.9
-109.107.190.149
 109.123.236.250
 109.123.253.27
 109.163.225.33
-109.173.165.131
+109.173.161.67
 109.205.183.11
 109.205.61.98
 109.234.165.186
 109.236.119.2
 109.236.120.2
-109.250.196.255
-109.250.204.171
+109.250.196.171
+109.250.204.48
 109.70.74.38
 109.70.74.68
 109.74.205.250
@@ -6384,13 +6525,14 @@
 111.235.222.100
 112.213.32.219
 112.78.125.221
-113.186.218.11
+113.179.130.19
+114.10.44.54
 114.33.26.67
 114.34.0.56
 114.41.240.88
 115.190.191.220
 115.190.192.208
-115.36.61.155
+115.36.76.80
 116.121.57.111
 116.202.176.26
 116.202.20.237
@@ -6406,6 +6548,7 @@
 116.90.211.184
 118.163.170.2
 119.237.39.112
+119.237.65.156
 120.24.213.35
 120.53.53.53
 121.121.197.217
@@ -6413,7 +6556,6 @@
 122.254.0.63
 124.217.247.170
 124.219.110.49
-124.220.23.147
 124.70.37.233
 128.139.197.53
 128.140.110.120
@@ -6423,7 +6565,7 @@
 128.210.6.106
 128.254.207.50
 128.93.162.64
-129.146.14.174
+129.146.13.150
 129.146.238.240
 129.151.161.172
 129.151.162.166
@@ -6431,20 +6573,13 @@
 129.154.217.90
 129.154.47.149
 129.159.249.152
+129.213.0.178
 129.213.138.95
-129.213.4.166
 13.211.90.38
-13.225.47.11
-13.225.47.121
-13.225.47.49
-13.225.47.56
+13.219.33.136
 13.248.162.224
 13.248.169.48
 13.248.213.45
-13.32.205.100
-13.32.205.105
-13.32.205.26
-13.32.205.32
 13.89.120.251
 130.162.39.94
 130.225.244.166
@@ -6452,19 +6587,19 @@
 130.59.31.248
 130.59.31.251
 130.59.31.80
+130.61.0.178
 130.61.121.181
 130.61.149.26
-130.61.173.117
-130.61.2.165
 130.61.24.160
 130.61.51.39
 131.186.19.137
 131.186.63.141
-132.145.0.172
+132.145.4.175
 132.145.83.120
 132.145.97.178
 132.145.98.168
 132.226.205.6
+132.226.217.133
 133.167.212.21
 133.167.212.25
 134.102.20.20
@@ -6488,6 +6623,7 @@
 138.199.222.186
 138.2.122.236
 138.2.123.220
+138.2.72.94
 138.2.75.228
 138.236.128.100
 138.236.128.101
@@ -6503,7 +6639,6 @@
 140.238.10.79
 140.238.14.191
 140.238.15.1
-140.238.27.174
 140.238.52.143
 140.238.65.73
 140.36.3.131
@@ -6525,7 +6660,6 @@
 143.198.172.202
 143.20.12.32
 143.244.128.32
-143.244.60.193
 143.47.228.93
 143.47.51.218
 144.202.60.17
@@ -6601,7 +6735,6 @@
 151.242.64.36
 151.242.74.231
 151.243.222.94
-151.48.202.149
 151.80.145.143
 152.53.119.76
 152.53.130.105
@@ -6635,6 +6768,7 @@
 155.248.232.226
 155.254.28.98
 157.131.42.41
+157.15.124.220
 157.20.105.115
 157.20.83.135
 157.230.188.174
@@ -6648,6 +6782,7 @@
 159.112.133.226
 159.112.133.72
 159.65.149.35
+159.65.244.135
 159.69.100.236
 159.69.114.157
 159.69.123.239
@@ -6655,6 +6790,7 @@
 160.119.253.209
 160.250.227.24
 160.250.95.28
+161.118.145.178
 161.35.136.3
 162.19.227.251
 162.218.114.81
@@ -6665,6 +6801,14 @@
 162.254.86.13
 162.255.119.236
 163.172.131.116
+163.181.66.188
+163.181.66.189
+163.181.66.190
+163.181.66.191
+163.181.66.211
+163.181.66.212
+163.181.66.213
+163.181.66.214
 163.47.117.176
 164.132.7.242
 164.90.207.7
@@ -7033,7 +7177,6 @@
 173.208.212.205
 173.230.149.113
 173.232.2.74
-173.242.124.6
 173.243.64.102
 173.249.208.245
 173.249.208.251
@@ -7047,7 +7190,7 @@
 176.123.10.105
 176.123.163.193
 176.147.243.164
-176.164.131.2
+176.164.170.187
 176.9.242.147
 176.9.25.158
 176.9.54.219
@@ -7073,15 +7216,17 @@
 178.22.122.101
 178.254.6.49
 178.33.118.153
-18.168.255.186
+18.133.197.139
 18.195.195.69
 18.200.70.220
 18.202.82.211
+18.244.214.119
+18.244.214.128
+18.244.214.6
+18.244.214.91
 18.252.156.1
 18.254.96.167
-181.214.35.148
-181.214.35.150
-181.214.35.151
+180.5.79.187
 183.171.200.162
 185.109.168.44
 185.111.159.59
@@ -7089,18 +7234,19 @@
 185.130.47.20
 185.131.216.152
 185.131.216.244
+185.131.216.30
 185.131.217.52
 185.132.53.173
 185.134.196.52
 185.134.196.54
 185.134.196.55
 185.139.7.51
+185.14.160.232
 185.150.99.255
 185.156.205.20
 185.16.60.194
 185.181.61.24
 185.183.159.34
-185.191.229.13
 185.194.53.22
 185.194.94.71
 185.195.69.126
@@ -7145,7 +7291,6 @@
 185.69.161.122
 185.70.9.10
 185.71.138.138
-185.93.1.245
 185.95.218.42
 185.95.218.43
 185.95.219.170
@@ -7154,8 +7299,6 @@
 188.165.20.42
 188.165.53.130
 188.172.251.1
-188.22.243.5
-188.245.124.128
 188.245.165.100
 188.245.45.16
 188.34.183.35
@@ -7183,8 +7326,10 @@
 193.122.96.153
 193.123.255.236
 193.123.64.47
+193.142.58.115
 193.142.58.137
 193.142.58.179
+193.148.251.93
 193.17.47.1
 193.17.92.42
 193.180.80.1
@@ -7254,7 +7399,10 @@
 199.119.137.74
 199.119.65.94
 199.58.83.33
+199.59.243.228
 2.135.147.99
+2.35.144.47
+2.50.158.176
 2.58.59.12
 2.59.169.204
 20.196.107.56
@@ -7262,6 +7410,7 @@
 20.239.160.119
 20.253.254.201
 200.1.123.46
+202.155.157.201
 202.172.26.36
 202.5.222.2
 202.61.199.183
@@ -7270,7 +7419,6 @@
 202.70.133.124
 203.107.1.100
 203.107.1.97
-203.141.158.167
 203.153.116.132
 203.160.55.187
 203.180.140.77
@@ -7280,6 +7428,7 @@
 204.12.237.197
 204.216.154.80
 204.9.92.87
+205.185.117.191
 206.119.179.8
 206.189.240.157
 207.127.93.3
@@ -7292,17 +7441,18 @@
 208.67.222.123
 208.67.222.2
 209.182.225.103
+209.208.26.145
 209.209.57.165
 209.209.59.227
 209.250.227.42
 209.250.246.198
+209.250.249.67
 212.109.195.93
 212.126.59.63
 212.132.117.52
 212.18.0.5
 212.18.3.5
 212.185.200.25
-212.227.237.22
 212.60.61.246
 212.60.63.246
 213.136.13.36
@@ -7326,10 +7476,9 @@
 216.238.107.112
 216.238.80.219
 216.245.140.20
-216.73.156.52
 216.73.159.26
 217.0.43.114
-217.0.43.50
+217.0.43.66
 217.154.118.152
 217.154.148.131
 217.154.173.29
@@ -7341,14 +7490,13 @@
 217.169.20.22
 217.169.20.23
 217.197.91.153
-217.255.209.91
-217.61.98.63
+217.30.10.68
+217.69.4.29
 217.91.179.72
-218.102.163.140
 218.154.183.208
 218.75.4.130
 220.135.223.18
-220.143.30.5
+220.143.16.173
 220.84.185.202
 221.131.165.165
 222.99.114.172
@@ -7365,6 +7513,9 @@
 23.230.253.98
 23.251.158.202
 23.81.246.121
+23.83.128.196
+23.83.129.216
+23.83.135.229
 23.88.6.31
 23.94.211.166
 23.95.11.50
@@ -7376,8 +7527,11 @@
 3.10.65.124
 3.108.130.184
 3.140.31.159
+3.168.132.103
+3.168.132.108
+3.168.132.25
+3.168.132.47
 3.217.141.28
-3.218.175.190
 3.218.219.225
 3.221.59.219
 3.227.192.213
@@ -7386,13 +7540,13 @@
 3.34.32.82
 3.75.122.89
 3.9.180.22
-3.90.134.65
 31.13.248.149
 31.130.200.100
 31.202.133.115
 31.97.249.178
 34.146.42.208
 34.159.232.134
+34.195.60.139
 34.196.164.105
 34.205.132.228
 34.233.202.171
@@ -7403,7 +7557,6 @@
 34.85.128.249
 35.168.217.114
 35.192.98.208
-35.195.3.94
 35.212.141.74
 35.212.190.110
 35.227.226.142
@@ -7434,6 +7587,7 @@
 38.107.232.115
 38.186.42.90
 38.242.157.80
+38.32.110.58
 38.45.64.117
 38.47.176.112
 40.76.112.230
@@ -7446,7 +7600,6 @@
 43.129.183.116
 43.130.30.237
 43.130.30.240
-43.130.48.100
 43.134.121.67
 43.154.154.162
 43.154.23.198
@@ -7470,19 +7623,21 @@
 45.125.0.26
 45.129.181.164
 45.132.75.178
-45.133.117.91
+45.134.88.121
 45.138.53.244
-45.140.168.250
 45.142.105.14
 45.142.17.72
 45.142.233.169
 45.144.235.228
 45.147.51.123
+45.151.30.16
 45.154.109.53
 45.155.37.165
 45.249.91.113
 45.249.91.114
 45.249.91.150
+45.32.184.23
+45.32.75.24
 45.32.79.76
 45.33.105.91
 45.33.60.119
@@ -7552,7 +7707,7 @@
 46.102.156.165
 46.124.85.193
 46.161.54.34
-46.165.252.147
+46.224.121.140
 46.226.108.173
 46.226.109.82
 46.226.110.211
@@ -7568,9 +7723,12 @@
 46.38.231.33
 46.38.234.60
 46.4.112.109
+46.8.158.15
 47.100.62.161
 47.107.121.125
 47.243.233.55
+47.76.127.217
+47.91.170.222
 49.0.2.184
 49.12.222.213
 49.12.223.2
@@ -7586,15 +7744,13 @@
 49.212.198.71
 49.212.198.89
 49.212.207.51
+5.1.66.255
 5.11.11.11
 5.11.11.5
 5.134.118.198
 5.135.96.35
 5.135.96.36
-5.15.71.221
-5.160.254.27
-5.161.191.104
-5.161.194.22
+5.15.67.85
 5.161.43.197
 5.175.180.171
 5.180.59.37
@@ -7603,23 +7759,21 @@
 5.196.8.241
 5.2.72.7
 5.2.75.75
-5.255.100.5
 5.255.103.159
 5.255.111.70
 5.39.88.20
 5.45.107.88
 5.75.228.192
 5.78.102.99
+5.78.158.2
 5.78.98.38
 5.79.70.195
 50.116.59.251
 51.15.113.207
-51.15.75.165
 51.158.147.92
 51.158.99.7
 51.159.138.172
 51.159.67.129
-51.161.115.44
 51.178.136.114
 51.178.29.75
 51.178.82.98
@@ -7631,8 +7785,8 @@
 52.154.75.179
 52.199.8.149
 52.20.74.94
-52.200.125.145
 52.201.53.166
+52.203.130.155
 52.22.118.223
 52.246.182.50
 52.29.2.17
@@ -7647,10 +7801,6 @@
 54.172.110.180
 54.173.8.137
 54.187.149.240
-54.192.55.54
-54.192.55.71
-54.192.55.73
-54.192.55.95
 54.198.94.26
 54.223.159.81
 54.224.16.96
@@ -7673,6 +7823,7 @@
 62.171.174.121
 62.192.153.242
 62.210.6.110
+62.46.47.227
 63.133.223.138
 63.32.212.172
 64.110.74.10
@@ -7692,6 +7843,7 @@
 66.187.4.39
 66.187.7.140
 66.55.159.186
+67.202.25.254
 67.207.70.129
 68.105.28.11
 68.105.28.12
@@ -7702,7 +7854,6 @@
 69.70.16.42
 70.253.80.157
 70.253.80.158
-70.34.243.158
 70.34.247.117
 71.19.243.34
 72.18.215.51
@@ -7712,7 +7863,6 @@
 74.57.1.59
 74.82.42.42
 75.119.137.239
-75.2.18.233
 76.223.37.67
 76.223.54.146
 76.223.67.189
@@ -7747,18 +7897,11 @@
 79.143.240.77
 79.143.240.79
 79.143.240.81
+79.184.31.61
 8.138.100.213
 8.20.247.20
 8.209.231.130
-8.210.109.238
-8.25.82.224
-8.25.82.225
-8.25.82.226
-8.25.82.227
-8.25.82.228
-8.25.82.229
-8.25.82.230
-8.25.82.231
+8.218.208.240
 8.26.56.26
 8.8.4.4
 8.8.8.8
@@ -7780,7 +7923,6 @@
 81.130.111.251
 81.169.136.222
 81.169.145.160
-81.181.113.211
 81.187.201.92
 81.187.221.24
 81.196.104.182
@@ -7810,7 +7952,6 @@
 83.229.70.182
 83.238.211.59
 83.32.196.7
-83.5.255.3
 84.104.237.102
 84.16.252.138
 84.17.46.130
@@ -7840,7 +7981,6 @@
 86.54.11.211
 86.54.11.212
 86.54.11.213
-86.98.90.55
 87.106.103.65
 87.106.161.126
 87.106.35.241
@@ -7852,7 +7992,6 @@
 88.116.200.30
 88.198.122.154
 88.202.190.120
-88.218.206.137
 88.80.135.238
 88.87.69.93
 88.99.142.87
@@ -7869,7 +8008,6 @@
 89.43.174.10
 89.57.45.206
 89.58.3.251
-89.58.41.122
 89.58.59.189
 9.9.9.10
 9.9.9.11
@@ -7879,7 +8017,7 @@
 91.106.133.47
 91.107.198.189
 91.134.75.146
-91.156.43.227
+91.157.243.84
 91.197.1.176
 91.198.156.20
 91.199.209.106
@@ -7897,12 +8035,12 @@
 92.118.190.116
 92.176.250.87
 92.205.21.178
-92.254.21.26
 92.63.169.45
 93.144.34.114
 93.190.126.69
 93.200.20.113
-93.221.43.220
+93.221.35.70
+93.231.26.93
 93.4.84.37
 93.95.115.21
 94.130.135.203
@@ -7920,6 +8058,7 @@
 94.16.117.107
 94.198.159.3
 94.23.71.64
+94.232.43.61
 94.247.43.254
 95.111.236.127
 95.129.233.120
@@ -7929,6 +8068,7 @@
 95.174.68.242
 95.174.68.73
 95.179.152.253
+95.179.232.193
 95.215.19.53
 95.216.187.185
 95.216.74.122
@@ -7944,6 +8084,7 @@
 96.9.215.92
 96.9.228.27
 98.82.42.139
+98.87.219.17
 98.91.137.167
 98.95.6.36
 99.192.182.100
@@ -7952,3 +8093,7 @@
 99.192.182.201
 99.79.182.170
 99.80.192.194
+99.84.41.18
+99.84.41.29
+99.84.41.65
+99.84.41.72
