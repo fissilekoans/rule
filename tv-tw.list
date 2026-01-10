@@ -100,9 +100,9 @@ DOMAIN-WILDCARD,google*
 DOMAIN-SUFFIX,pki.goog
 
 # chaturbate
-DOMAIN-SUFFIX,chaturbate.com
-DOMAIN-SUFFIX,highwebmedia.com
-DOMAIN-SUFFIX,mmcdn.com
+# DOMAIN-SUFFIX,chaturbate.com
+# DOMAIN-SUFFIX,highwebmedia.com
+# DOMAIN-SUFFIX,mmcdn.com
 
 # 暴雪
 DOMAIN-SUFFIX,blizzard.com
