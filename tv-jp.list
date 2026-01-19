@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,finalaa.win
 DOMAIN-SUFFIX,346252522.xyz
 
 # time
-DEST-PORT,123
+# DEST-PORT,123
 
 # DOMAIN,fe2cr.update.microsoft.com  // 微軟的不知道為啥用在101上面就是會失敗
 # 失敗就算了 反正他會換去連fe3cr.update.microsoft.com
