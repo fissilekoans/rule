@@ -21,22 +21,6 @@ DOMAIN-SUFFIX,fc2ppvdb.com
 DOMAIN-SUFFIX,twca.com.tw
 DOMAIN,chts.tw
 
-# Linetv kktv
-DOMAIN-SUFFIX,kktv.me
-DOMAIN,kktv.to
-DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,linetv.tw
-DOMAIN-SUFFIX,line-scdn.net
-DOMAIN-SUFFIX,chocotv.com.tw
-DOMAIN-SUFFIX,blendvision.com
-DOMAIN,ipinfo.io
-DOMAIN,livebuy.tv
-DOMAIN,lottie.host
-DOMAIN,linetvhelp.zendesk.com
-DOMAIN,d36dgdk71xuzzg.cloudfront.net
-DOMAIN,d17lx9ucc6k9fc.cloudfront.net
-DOMAIN,d3c7rimkq79yfu.cloudfront.net
-
 # pchome24
 DOMAIN-SUFFIX,pchome.com.tw
 DOMAIN-SUFFIX,pcloud.tw
