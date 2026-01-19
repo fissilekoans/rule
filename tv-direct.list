@@ -40,16 +40,14 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,www.youtube-nocookie.com
 DOMAIN-SUFFIX,ytimg.com
-# DOMAIN-SUFFIX,ggpht.com
-# DOMAIN-SUFFIX,gstatic.com
-# DOMAIN-SUFFIX,googleapis.com
-# DOMAIN-SUFFIX,googleusercontent.com
-# DOMAIN-SUFFIX,google.com
-# DOMAIN-SUFFIX,google.co.jp
-# DOMAIN-SUFFIX,google.com.tw
-# DOMAIN-SUFFIX,google.co.uk
-# DOMAIN-SUFFIX,google.ca
-# DOMAIN-SUFFIX,google.com.ph
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-WILDCARD,*.google.*
+DOMAIN-WILDCARD,*.google*
+DOMAIN-WILDCARD,google*
 # DOMAIN-SUFFIX,pki.goog
 
 # VPN
