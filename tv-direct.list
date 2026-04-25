@@ -34,23 +34,22 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
 
 # YouTube
-DOMAIN,youtu.be
-DOMAIN-WILDCARD,yt3.*
-DOMAIN-WILDCARD,yt4.*
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN,youtubei.googleapis.com
-DOMAIN,www.youtube-nocookie.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googledrive.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-WILDCARD,*.google.*
-DOMAIN-WILDCARD,*.google*
-DOMAIN-WILDCARD,google*
-# DOMAIN-SUFFIX,pki.goog
+# DOMAIN,youtu.be
+# DOMAIN-WILDCARD,yt3.*
+# DOMAIN-WILDCARD,yt4.*
+# DOMAIN-SUFFIX,youtube.com
+# DOMAIN-SUFFIX,googlevideo.com
+# DOMAIN,youtubei.googleapis.com
+# DOMAIN,www.youtube-nocookie.com
+# DOMAIN-SUFFIX,ytimg.com
+# DOMAIN-SUFFIX,ggpht.com
+# DOMAIN-SUFFIX,gstatic.com
+# DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,googledrive.com
+# DOMAIN-SUFFIX,googleusercontent.com
+# DOMAIN-WILDCARD,*.google.*
+# DOMAIN-WILDCARD,*.google*
+# DOMAIN-WILDCARD,google*
 
 # VPN
 IP-CIDR,138.199.39.1/24
