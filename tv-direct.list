@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,taiwanlife.com
 DOMAIN,ws.ptt.cc
 DOMAIN,term.ptt.cc
 # finalaa.win
-DOMAIN-SUFFIX,finalaa.win
+# DOMAIN-SUFFIX,finalaa.win
 
 # time
 # DEST-PORT,123
@@ -34,30 +34,25 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
 
 # YouTube
-DOMAIN,youtu.be
-DOMAIN-WILDCARD,yt3.*
-DOMAIN-WILDCARD,yt4.*
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN,youtubei.googleapis.com
-DOMAIN,www.youtube-nocookie.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googledrive.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-WILDCARD,*.google.*
-DOMAIN-WILDCARD,*.google*
-DOMAIN-WILDCARD,google*
+# DOMAIN,youtu.be
+# DOMAIN-WILDCARD,yt3.*
+# DOMAIN-WILDCARD,yt4.*
+# DOMAIN-SUFFIX,youtube.com
+# DOMAIN-SUFFIX,googlevideo.com
+# DOMAIN,youtubei.googleapis.com
+# DOMAIN,www.youtube-nocookie.com
+# DOMAIN-SUFFIX,ytimg.com
+# DOMAIN-SUFFIX,ggpht.com
+# DOMAIN-SUFFIX,gstatic.com
+# DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,googledrive.com
+# DOMAIN-SUFFIX,googleusercontent.com
+# DOMAIN-WILDCARD,*.google.*
+# DOMAIN-WILDCARD,*.google*
+# DOMAIN-WILDCARD,google*
 
 # VPN
-IP-CIDR,37.120.147.0/24
-IP-CIDR,82.102.31.0/24
-IP-CIDR,37.120.210.0/24
 IP-CIDR,138.199.39.0/24
-IP-CIDR,138.199.22.0/24
-IP-CIDR,143.244.40.0/24
 IP-CIDR,211.20.143.0/24
 IP-CIDR,220.130.62.0/24
 IP-CIDR,82.21.158.0/24
