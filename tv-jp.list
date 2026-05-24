@@ -58,3 +58,12 @@ DOMAIN-SUFFIX,346252522.xyz
 # SSH
 IP-CIDR,150.230.59.212/32
 IP-CIDR,64.110.103.244/32
+
+# Mata
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,instagram.com
