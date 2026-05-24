@@ -1,13 +1,10 @@
 #####
 
-# DOMAIN-SUFFIX,finalaa.win
-# DOMAIN-SUFFIX,346252522.xyz
+DOMAIN-SUFFIX,finalaa.win
+DOMAIN-SUFFIX,346252522.xyz
 
 # time
 # DEST-PORT,123
-
-# DOMAIN,fe2cr.update.microsoft.com  // 微軟的不知道為啥用在101上面就是會失敗
-# 失敗就算了 反正他會換去連fe3cr.update.microsoft.com
 
 # twitch
 # DOMAIN-SUFFIX,twitch.tv
@@ -50,13 +47,13 @@
 # DOMAIN-SUFFIX,githubassets.com
 
 # dmm
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-SUFFIX,dmm.com
-DOMAIN,navismithapis-cdn.com
-DOMAIN,p-smith.com
+# DOMAIN-SUFFIX,dmm.co.jp
+# DOMAIN-SUFFIX,dmm.com
+# DOMAIN,navismithapis-cdn.com
+# DOMAIN,p-smith.com
 
 # fc2
-DOMAIN-SUFFIX,fc2.com
+# DOMAIN-SUFFIX,fc2.com
 
 # SSH
 IP-CIDR,150.230.59.212/32
