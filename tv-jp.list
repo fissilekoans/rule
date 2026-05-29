@@ -40,11 +40,13 @@ DOMAIN-SUFFIX,346252522.xyz
 # DOMAIN-SUFFIX,discord.com
 # DOMAIN-SUFFIX,discordapp.com
 
-# github
-# DOMAIN-SUFFIX,github.com
-# DOMAIN-SUFFIX,github.io
-# DOMAIN-SUFFIX,githubusercontent.com
-# DOMAIN-SUFFIX,githubassets.com
+# OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+# DOMAIN-SUFFIX,oaistatic.com
+# DOMAIN-SUFFIX,gravatar.com
+# DOMAIN-SUFFIX,revenuecat.com
+# DOMAIN-SUFFIX,auth0.com
 
 # x
 DOMAIN-SUFFIX,x.com
