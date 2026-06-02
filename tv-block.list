@@ -18,14 +18,11 @@ DOMAIN,xp.apple.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,fp.msedge.net
 
-# TV
+# 常常有的
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,crashlytics.com
-
-# controld test ipv6 and or ipv6
-# DOMAIN,api-v6.controld.com
-# DOMAIN-SUFFIX,ipv6.controld.io
-# DOMAIN-WILDCARD,ipv6*
+DOMAIN,graph.facebook.com
+DOMAIN,connect.facebook.net
 
 # stun and httpdns
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
@@ -96,8 +93,7 @@ DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,tracking.shopee.tw
 DOMAIN-SUFFIX,patronus.idata.shopeemobile.com
-
-DOMAIN,api.sentry.susercontent.com
+DOMAIN-SUFFIX,offline.toc.shopeemobile.com
 
 # Title: HaGeZi's Apple Tracker DNS Blocklist
 # Description: Blocks Apple native broadband tracker that track your activity.
