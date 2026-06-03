@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,t.me
 
-IP-CIDR,210.64.50.1/24
-DOMAIN-SUFFIX,holydol.com
-DOMAIN-SUFFIX,wasabii.com.tw
+# holydol
+IP-CIDR,64.64.255.209/32
+
+
