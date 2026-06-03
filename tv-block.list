@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,tracking.shopee.tw
 DOMAIN-SUFFIX,patronus.idata.shopeemobile.com
 DOMAIN-SUFFIX,offline.toc.shopeemobile.com
+DOMAIN-SUFFIX,livetech.shopee.tw
 
 # Title: HaGeZi's Apple Tracker DNS Blocklist
 # Description: Blocks Apple native broadband tracker that track your activity.
