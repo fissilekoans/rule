@@ -47,12 +47,6 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
-# x
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,pscp.tv
-
 # fc2
 DOMAIN-SUFFIX,fc2.com
 
