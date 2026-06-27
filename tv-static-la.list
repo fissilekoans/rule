@@ -40,13 +40,6 @@ DOMAIN-SUFFIX,346252522.xyz
 # DOMAIN-SUFFIX,discord.com
 # DOMAIN-SUFFIX,discordapp.com
 
-# OpenAI
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-
 # fc2
 DOMAIN-SUFFIX,fc2.com
 
