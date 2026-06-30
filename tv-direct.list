@@ -85,6 +85,9 @@ IP-CIDR,192.168.88.101/32
 # apple cam
 IP-CIDR,17.188.0.1/16
 
+# Linetv kktv
+DOMAIN,theater-kktv.cdn.hinet.net
+
 # wasabii
 IP-CIDR,210.64.50.1/24
 DOMAIN-SUFFIX,wasabii.com.tw
