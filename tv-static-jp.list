@@ -15,3 +15,22 @@ DOMAIN-SUFFIX,oaiusercontent.com
 
 # fc2
 DOMAIN-SUFFIX,fc2.com
+
+###
+DOMAIN-SUFFIX,finalaa.win
+DOMAIN-SUFFIX,346252522.xyz
+
+# Mata
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,instagram.com
+
+# icloud
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN,ocsp.apple.com
