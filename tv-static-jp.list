@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,fc2.com
 
 # twitch
 DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,ttvnw.net
