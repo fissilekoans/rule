@@ -12,3 +12,15 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+
+# fc2
+DOMAIN-SUFFIX,fc2.com
+
+# twitch
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,live-video.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN,d3aqoihi2n8ty8.cloudfront.net
+DOMAIN,d3vd9lfkzbru3h.cloudfront.net
