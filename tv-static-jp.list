@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN,edgedl.me.gvt1.com
 
 # fc2
 DOMAIN-SUFFIX,fc2.com
