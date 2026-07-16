@@ -103,10 +103,10 @@ DOMAIN-SUFFIX,livetech.shopee.tw
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Apr 2026 17:03 UTC
-# Version: 2026.0422.1703.24
+# Last modified: 03 Jul 2026 18:44 UTC
+# Version: 2026.0703.1844.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 104
+# Number of entries: 107
 #
 DOMAIN-SUFFIX,cstat.g.aaplimg.com
 DOMAIN-SUFFIX,diagassets.g.aaplimg.com
@@ -120,12 +120,12 @@ DOMAIN-SUFFIX,prod-event-relay-stocks-api.v.aaplimg.com
 DOMAIN-SUFFIX,prod-event-relay-weather-api.v.aaplimg.com
 DOMAIN-SUFFIX,prod-news-notification-events.v.aaplimg.com
 DOMAIN-SUFFIX,securemetrics.v.aaplimg.com
+DOMAIN-SUFFIX,securemetrics-cn.v.aaplimg.com
 DOMAIN-SUFFIX,securemvt.v.aaplimg.com
 DOMAIN-SUFFIX,smoot-feedback.v.aaplimg.com
 DOMAIN-SUFFIX,supportmetrics.v.aaplimg.com
 DOMAIN-SUFFIX,xp.v.aaplimg.com
 DOMAIN-SUFFIX,ab.apple.com.akadns.net
-DOMAIN-SUFFIX,cstat-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,diagassets-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,diagnostics.apple.com.akadns.net
 DOMAIN-SUFFIX,iadcontent-lb.apple.com.akadns.net
@@ -133,13 +133,15 @@ DOMAIN-SUFFIX,iadsdk.apple.com.akadns.net
 DOMAIN-SUFFIX,idiagnostics.apple.com.akadns.net
 DOMAIN-SUFFIX,iphonesubmissions.apple.com.akadns.net
 DOMAIN-SUFFIX,radarsubmissions.apple.com.akadns.net
-DOMAIN-SUFFIX,iad-apple.com.akadns.net
 DOMAIN-SUFFIX,partiality.itunes-apple.com.akadns.net
-DOMAIN-SUFFIX,xp.itunes-apple.com.akadns.net
-DOMAIN-SUFFIX,xp-cdn-lb.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,searchads.lb-apple.com.akadns.net
+DOMAIN-SUFFIX,iad-apple.com.akadns.net
+DOMAIN-SUFFIX,partiality.itunes.apple.com
+DOMAIN-SUFFIX,msc-dct-prod.msc.apple.com
+DOMAIN-SUFFIX,fbs.smoot.apple.com
 DOMAIN-SUFFIX,advertising.apple.com
 DOMAIN-SUFFIX,advp.apple.com
+DOMAIN-SUFFIX,analytics-events.apple.com
 DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,books-analytics-events.apple.com
 DOMAIN-SUFFIX,cstat.apple.com
@@ -162,10 +164,9 @@ DOMAIN-SUFFIX,idiagnostics-mdn1.apple.com
 DOMAIN-SUFFIX,internalcheck.apple.com
 DOMAIN-SUFFIX,iphonesubmissions.apple.com
 DOMAIN-SUFFIX,iphonesubmissions-old.apple.com
-DOMAIN-SUFFIX,partiality.itunes.apple.com
 DOMAIN-SUFFIX,launch.apple.com
 DOMAIN-SUFFIX,metrics.apple.com
-DOMAIN-SUFFIX,msc-dct-prod.msc.apple.com
+DOMAIN-SUFFIX,news-analytics-events.apple.com
 DOMAIN-SUFFIX,news-app-events.apple.com
 DOMAIN-SUFFIX,news-events.apple.com
 DOMAIN-SUFFIX,news-notification-events.apple.com
@@ -174,33 +175,34 @@ DOMAIN-SUFFIX,notes-analytics-events.apple.com
 DOMAIN-SUFFIX,odin-signals.apple.com
 DOMAIN-SUFFIX,performance-partners.apple.com
 DOMAIN-SUFFIX,phonesubmissions.apple.com
+DOMAIN-SUFFIX,podcasts-analytics-events.apple.com
 DOMAIN-SUFFIX,prd-usw2-requestattribution-iad.apple.com
 DOMAIN-SUFFIX,proxy-skadnetwork.apple.com
 DOMAIN-SUFFIX,radarsubmissions.apple.com
 DOMAIN-SUFFIX,searchads.apple.com
 DOMAIN-SUFFIX,securemetrics.apple.com
 DOMAIN-SUFFIX,securemvt.apple.com
-DOMAIN-SUFFIX,fbs.smoot.apple.com
 DOMAIN-SUFFIX,stocks-analytics-events.apple.com
 DOMAIN-SUFFIX,supportmetrics.apple.com
+DOMAIN-SUFFIX,tv-analytics-events.apple.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,xp-cdn.apple.com
 DOMAIN-SUFFIX,feedbackws.fe.apple-dns.cn
+DOMAIN-SUFFIX,feedbackws.fe.apple-dns.net
 DOMAIN-SUFFIX,feedbackws.fe2.apple-dns.net
-DOMAIN-SUFFIX,me.apple-dns.net
 DOMAIN-SUFFIX,books-analytics-events.news.apple-dns.net
 DOMAIN-SUFFIX,notes-analytics-events.news.apple-dns.net
 DOMAIN-SUFFIX,stocks-analytics-events.news.apple-dns.net
 DOMAIN-SUFFIX,weather-analytics-events.news.apple-dns.net
-DOMAIN-SUFFIX,applemediaservices.com
+DOMAIN-SUFFIX,me.apple-dns.net
 DOMAIN-SUFFIX,cstat.cdn-apple.com
 DOMAIN-SUFFIX,securemetrics.apple.com.cn
 DOMAIN-SUFFIX,feedbackws.icloud.com.cn
 DOMAIN-SUFFIX,cdn-xp-ingest.edge.apple
+DOMAIN-SUFFIX,partiality.itunes.apple.com.edgekey.net
 DOMAIN-SUFFIX,experiments.apple.com.edgekey.net
 DOMAIN-SUFFIX,iadsdk.apple.com.edgekey.net
-DOMAIN-SUFFIX,partiality.itunes.apple.com.edgekey.net
 DOMAIN-SUFFIX,xp.apple.com.edgekey.net
 DOMAIN-SUFFIX,cstat.apple.com.edgesuite.net
 DOMAIN-SUFFIX,searchads.apple.com.edgesuite.net
@@ -208,10 +210,11 @@ DOMAIN-SUFFIX,acfeedbackws.icloud.com
 DOMAIN-SUFFIX,feedbackws.icloud.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,metrics.mzstatic.com
-DOMAIN-SUFFIX,qwapi.com
 DOMAIN-SUFFIX,marketing.services.apple
 DOMAIN-SUFFIX,beacon.shazam.com
 DOMAIN-SUFFIX,h4g3z1-native.apple.web.app
+DOMAIN-SUFFIX,applemediaservices.com
+DOMAIN-SUFFIX,qwapi.com
 
 # Title: HaGeZi's Windows/Office Tracker DNS Blocklist
 # Description: Blocks Windows/Office native broadband tracker that track your activity.
@@ -220,10 +223,10 @@ DOMAIN-SUFFIX,h4g3z1-native.apple.web.app
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 May 2026 20:16 UTC
-# Version: 2026.0523.2016.20
+# Last modified: 10 Jul 2026 18:07 UTC
+# Version: 2026.0710.1807.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 376
+# Number of entries: 388
 #
 DOMAIN-SUFFIX,c-bingapis-com.dual-a-0034.a-msedge.net
 DOMAIN-SUFFIX,measure.office.com.akamaized.net
@@ -263,12 +266,18 @@ DOMAIN-SUFFIX,commerce.bing.com
 DOMAIN-SUFFIX,g.bing.com
 DOMAIN-SUFFIX,raka.bing.com
 DOMAIN-SUFFIX,c.bingapis.com
+DOMAIN-SUFFIX,exo.nel.measure.office.net.cardano.com
+DOMAIN-SUFFIX,identity.nel.measure.office.net.cardano.com
+DOMAIN-SUFFIX,m365cdn.nel.measure.office.net.cardano.com
+DOMAIN-SUFFIX,spo.nel.measure.office.net.cardano.com
+DOMAIN-SUFFIX,teams.nel.measure.office.net.cardano.com
 DOMAIN-SUFFIX,insights.cloud.microsoft
 DOMAIN-SUFFIX,measure.office.net.edgesuite.net
 DOMAIN-SUFFIX,collector.azure.eaglex.ic.gov
 DOMAIN-SUFFIX,auc-visio-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,brc-visio-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,cac-visio-telemetry.officeapps.live.com
+DOMAIN-SUFFIX,chc-visio-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,dec-visio-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,euc-excel-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,euc-onenote-telemetry.officeapps.live.com
@@ -282,6 +291,7 @@ DOMAIN-SUFFIX,eurppc-word-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,excel-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,ffc-excel-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,ffc-word-telemetry.officeapps.live.com
+DOMAIN-SUFFIX,fgteu1-word-telemetry-vip.officeapps.live.com
 DOMAIN-SUFFIX,frc-visio-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,inc-visio-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,nexus.officeapps.live.com
@@ -363,7 +373,6 @@ DOMAIN-SUFFIX,ssw.live.com
 DOMAIN-SUFFIX,watson.live.com
 DOMAIN-SUFFIX,pipe.aria.microsoft.com
 DOMAIN-SUFFIX,collector.azure.microsoft.cloud
-DOMAIN-SUFFIX,collector.azure.microsoft.scloud
 DOMAIN-SUFFIX,track.notif.careersppe.microsoft.com
 DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN-SUFFIX,events-sandbox.data.microsoft.com
@@ -430,6 +439,7 @@ DOMAIN-SUFFIX,t-ring-s.msedge.net
 DOMAIN-SUFFIX,t-ring-s2.msedge.net
 DOMAIN-SUFFIX,t-ring-trafficshield.msedge.net
 DOMAIN-SUFFIX,t-s1-ring.msedge.net
+DOMAIN-SUFFIX,t-s2-ring.msedge.net
 DOMAIN-SUFFIX,win10-trt.msedge.net
 DOMAIN-SUFFIX,metric.appex-rf.msn.com
 DOMAIN-SUFFIX,c.ar.msn.com
@@ -491,8 +501,6 @@ DOMAIN-SUFFIX,arc9.msn.com
 DOMAIN-SUFFIX,confiant.msn.com
 DOMAIN-SUFFIX,flex.msn.com
 DOMAIN-SUFFIX,g00.msn.com
-DOMAIN-SUFFIX,h1.msn.com
-DOMAIN-SUFFIX,h2.msn.com
 DOMAIN-SUFFIX,h6.msn.com
 DOMAIN-SUFFIX,mobileads.msn.com
 DOMAIN-SUFFIX,mobileleads.msn.com
@@ -511,6 +519,7 @@ DOMAIN-SUFFIX,diagnostics.office.com
 DOMAIN-SUFFIX,diagnostics-eudb.office.com
 DOMAIN-SUFFIX,measure.office.com
 DOMAIN-SUFFIX,measure.office.net
+DOMAIN-SUFFIX,prod.editor.ads.trafficmanager.net
 DOMAIN-SUFFIX,tracker.flightview.com.trafficmanager.net
 DOMAIN-SUFFIX,events.data.trafficmanager.net
 DOMAIN-SUFFIX,vortex.data.trafficmanager.net
@@ -519,18 +528,22 @@ DOMAIN-SUFFIX,telemetry.eastus.trafficmanager.net
 DOMAIN-SUFFIX,euc-excel-telemetry.wac.trafficmanager.net
 DOMAIN-SUFFIX,euc-powerpoint-telemetry.wac.trafficmanager.net
 DOMAIN-SUFFIX,euc-word-telemetry.wac.trafficmanager.net
+DOMAIN-SUFFIX,eurffc-word-telemetry.wac.trafficmanager.net
 DOMAIN-SUFFIX,excel-telemetry.wac.trafficmanager.net
 DOMAIN-SUFFIX,powerpoint-telemetry.wac.trafficmanager.net
 DOMAIN-SUFFIX,ppc-excel-telemetry.wac.trafficmanager.net
 DOMAIN-SUFFIX,ppc-powerpoint-telemetry.wac.trafficmanager.net
 DOMAIN-SUFFIX,ppc-word-telemetry.wac.trafficmanager.net
 DOMAIN-SUFFIX,word-telemetry.wac.trafficmanager.net
+DOMAIN-SUFFIX,ads-msn-com-profile.trafficmanager.net
 DOMAIN-SUFFIX,adsdk.trafficmanager.net
 DOMAIN-SUFFIX,agps-location-livenet.trafficmanager.net
 DOMAIN-SUFFIX,analytics.trafficmanager.net
 DOMAIN-SUFFIX,analytics-listener.trafficmanager.net
 DOMAIN-SUFFIX,beacons.trafficmanager.net
 DOMAIN-SUFFIX,bingads.trafficmanager.net
+DOMAIN-SUFFIX,ch-asimov-leafs-events-data.trafficmanager.net
+DOMAIN-SUFFIX,collection-location-livenet.trafficmanager.net
 DOMAIN-SUFFIX,collector-main.trafficmanager.net
 DOMAIN-SUFFIX,dsp-ad-cache-tm.trafficmanager.net
 DOMAIN-SUFFIX,eventservice.trafficmanager.net
@@ -551,9 +564,9 @@ DOMAIN-SUFFIX,ssp-prod-eastus-nonmutt.trafficmanager.net
 DOMAIN-SUFFIX,stats-partner.trafficmanager.net
 DOMAIN-SUFFIX,teams-events-data.trafficmanager.net
 DOMAIN-SUFFIX,telemetry-lcp.trafficmanager.net
-DOMAIN-SUFFIX,tenmax-ads.trafficmanager.net
 DOMAIN-SUFFIX,tm-analytics-pr.trafficmanager.net
 DOMAIN-SUFFIX,tm-enrollment-telemetry-datacore.trafficmanager.net
+DOMAIN-SUFFIX,us-mesh-events-data-leafs.trafficmanager.net
 DOMAIN-SUFFIX,vstelemetry.trafficmanager.net
 DOMAIN-SUFFIX,win-global-asimov-leafs-events-data.trafficmanager.net
 DOMAIN-SUFFIX,dc.services.visualstudio.com
@@ -583,7 +596,9 @@ DOMAIN-SUFFIX,citrixtelemetryeheu.servicebus.windows.net
 DOMAIN-SUFFIX,citrixtelemetryeheu-alias.servicebus.windows.net
 DOMAIN-SUFFIX,ehtelemetrystaging-alias.servicebus.windows.net
 DOMAIN-SUFFIX,ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
+DOMAIN-SUFFIX,hme-live-loganalytics-namespace.servicebus.windows.net
 DOMAIN-SUFFIX,hme-uat-loganalytics-namespace.servicebus.windows.net
+DOMAIN-SUFFIX,kg-legacy-analytics.servicebus.windows.net
 DOMAIN-SUFFIX,licensingtelemetry-prod.servicebus.windows.net
 DOMAIN-SUFFIX,nexxtv-events.servicebus.windows.net
 DOMAIN-SUFFIX,ppm-licensingtelemetry.servicebus.windows.net
@@ -609,33 +624,113 @@ DOMAIN-SUFFIX,msads.net
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Feb 2026 16:12 UTC
-# Version: 2026.0206.1612.11
+# Last modified: 10 Jul 2026 07:34 UTC
+# Version: 2026.0710.0734.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 519
+# Number of entries: 580
 #
+# DOMAIN-SUFFIX
+DOMAIN-SUFFIX,business-tiktok.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,byteoversea.net
-DOMAIN-SUFFIX,bpgslb.com
 DOMAIN-SUFFIX,capcutapi.com
 DOMAIN-SUFFIX,capcutapi.us
 DOMAIN-SUFFIX,capcutw.us
-DOMAIN-SUFFIX,edgekey.net
-DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,tiktok.tv
+DOMAIN-SUFFIX,tiktok-row.net
+DOMAIN-SUFFIX,tiktok-row.org
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktok.in
-DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktok.tv
 DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv-eu.com
+DOMAIN-SUFFIX,tiktokv-us.com
 DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokv.eu
+DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
-DOMAIN-SUFFIX,tiktokv-us.com
-DOMAIN-SUFFIX,tiktokv-eu.com
-DOMAIN-SUFFIX,ttdns2.com
-DOMAIN-SUFFIX,ttdns3.com
-DOMAIN-SUFFIX,tiktok.extended.web.app
-DOMAIN-SUFFIX,dvaitas.lt
+
+# DOMAIN (Third-party CDN/DNS CNAMEs)
+DOMAIN,ad-instantpage-sg.tiktokv.com.edgekey.net
+DOMAIN,ad-instantpage-ttp2.tiktokv.eu.edgesuite.net
+DOMAIN,ad-instantpage-ttp2.tiktokv.eu.ttdns3.com
+DOMAIN,ad-instantpage-ttp2.tiktokv.us.edgesuite.net
+DOMAIN,ad-instantpage.tiktokv.us.edgesuite.net
+DOMAIN,ad-instantpage.tiktokv.us.ttdns4.com
+DOMAIN,adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net
+DOMAIN,analytics-attribution-va.tiktok.com.edgekey.net
+DOMAIN,analytics-exp-i18n.tiktok.com.edgekey.net
+DOMAIN,analytics-exp-ru.tiktok.com.edgesuite.net
+DOMAIN,analytics-exp-ru.tiktok.com.ttdns2.com
+DOMAIN,analytics-exp-sg.tiktok.com.edgekey.net
+DOMAIN,analytics-exp-ttp2.tiktokw.eu.edgesuite.net
+DOMAIN,analytics-exp.us.tiktok.com.edgesuite.net
+DOMAIN,analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net
+DOMAIN,analytics-i18n.tiktok.com.edgekey.net
+DOMAIN,analytics-ie.tiktokw.eu.ttdns3.com
+DOMAIN,analytics-ipv6.tiktokw.us.edgesuite.net
+DOMAIN,analytics-ru.tiktok.com.ttdns2.com
+DOMAIN,analytics-sg.tiktok.com.edgekey.net
+DOMAIN,analytics-ttp2.tiktokw.eu.edgesuite.net
+DOMAIN,analytics-ttp2.tiktokw.eu.ttdns3.com
+DOMAIN,analytics-ttp2.us.tiktok.com.edgesuite.net
+DOMAIN,analytics-v6.tiktok.com.edgesuite.net
+DOMAIN,analytics-v6.tiktok.com.ttdns2.com
+DOMAIN,analytics.tiktok.com.bytewlb.akadns.net
+DOMAIN,analytics.tiktok.com.edgekey.net
+DOMAIN,analytics.tiktok.com.ttdns2.com
+DOMAIN,analytics.us.tiktok.com-row.bytewlb.akadns.net
+DOMAIN,analytics.us.tiktok.com.bytedance.akadns.net
+DOMAIN,analytics.us.tiktok.com.bytewlb.akadns.net
+DOMAIN,analytics.us.tiktok.com.edgesuite.net
+DOMAIN,analytics16-normal-alisg.tiktok.com.edgesuite.net
+DOMAIN,analytics16-normal-no1a.tiktokw.eu.edgesuite.net
+DOMAIN,analytics16-normal-useast5.tiktokw.us.edgesuite.net
+DOMAIN,analytics16-normal-useast8.tiktokw.us.edgesuite.net
+DOMAIN,analytics16-normal-useastred.tiktokw.eu.edgesuite.net
+DOMAIN,analytics16-normal.tiktok.com.edgesuite.net
+DOMAIN,frontier-ru.tiktokv.com.edgekey.net
+DOMAIN,frontier-ttp2.tiktokv.us.edgesuite.net
+DOMAIN,frontier.capcutw.us.edgesuite.net
+DOMAIN,frontier.tiktokv-eu.com.edgesuite.net
+DOMAIN,frontier.tiktokv-eu.com.ttdns3.com
+DOMAIN,frontier.tiktokv.us.edgesuite.net
+DOMAIN,frontier16-normal-no1a.tiktokv.eu.edgesuite.net
+DOMAIN,frontier16-normal-useastred.tiktokv.eu.edgesuite.net
+DOMAIN,frontier23-normal-alisg.tiktokv.com.bpgslb.com
+DOMAIN,h4g3z1-native.tiktok.extended.web.app
+DOMAIN,mcs-i18n.tiktok.com.edgekey.net
+DOMAIN,mcs-ie.tiktokw.eu.ttdns3.com
+DOMAIN,mcs-ie2.tiktokw.eu.dvaitas.lt
+DOMAIN,mcs-ie2.tiktokw.eu.edgesuite.net
+DOMAIN,mcs-ie2.tiktokw.eu.ttdns3.com
+DOMAIN,mcs-sg.tiktok.com.edgekey.net
+DOMAIN,mcs-sg.tiktok.com.ttdns2.com
+DOMAIN,mcs-sg.tiktokv.com.edgekey.net
+DOMAIN,mcs-ttp2.tiktokv.us.edgesuite.net
+DOMAIN,mcs-ttp2.us.tiktok.com.edgesuite.net
+DOMAIN,mcs-va-useast2a.tiktokv.com.edgekey.net
+DOMAIN,mcs-va-useast2a.tiktokv.com.ttdns2.com
+DOMAIN,mcs-va.tiktok.com.edgekey.net
+DOMAIN,mcs-va.tiktok.com.ttdns2.com
+DOMAIN,mcs-va.tiktokv.com.edgekey.net
+DOMAIN,mcs-va.tiktokv.com.ttdns2.com
+DOMAIN,mcs.tiktokv.us.edgesuite.net
+DOMAIN,mcs.tiktokw.us.edgesuite.net
+DOMAIN,mcs.us.tiktok.com.edgesuite.net
+DOMAIN,mcs.us.tiktokv.com.edgesuite.net
+DOMAIN,mcs16-normal-no1a.tiktokw.eu.dvaitas.lt
+DOMAIN,mcs16-normal-no1a.tiktokw.eu.edgesuite.net
+DOMAIN,mcs16-normal-useastred.tiktokw.eu.edgesuite.net
+DOMAIN,mon-boot.tiktokv.com.edgekey.net
+DOMAIN,mon-i18n.tiktokv.com.dvaitas.lt
+DOMAIN,mon16-normal-no1a.tiktokv.eu.dvaitas.lt
+DOMAIN,mon16-normal-no1a.tiktokv.eu.numericable.fr
+DOMAIN,mon16-normal-useastred.tiktokv.eu.dvaitas.lt
+DOMAIN,mssdk-boot.tiktokv.com.edgekey.net
+DOMAIN,p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
+DOMAIN,p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
+DOMAIN,sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
+DOMAIN,sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
