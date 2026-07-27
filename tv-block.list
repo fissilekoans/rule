@@ -21,6 +21,7 @@ DOMAIN,fp.msedge.net
 # 常常有的
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN,graph.facebook.com
 DOMAIN,connect.facebook.net
 
