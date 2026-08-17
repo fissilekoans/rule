@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,onetrust.com // 很像會用到
+DOMAIN-SUFFIX,onetrust.io // 很像會用到
 
 # YouTube
 # DOMAIN,youtu.be
