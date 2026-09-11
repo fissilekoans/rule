@@ -61,6 +61,18 @@ IP-CIDR,118.89.204.198/32
 # ???
 IP-CIDR,0.0.0.0/32
 
+# shopee
+DOMAIN,shope.ee
+DOMAIN,s.shopee.tw
+
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,tracking.shopee.tw
+DOMAIN-SUFFIX,patronus.idata.shopeemobile.com
+DOMAIN-SUFFIX,offline.toc.shopeemobile.com
+DOMAIN-SUFFIX,livetech.shopee.tw
+
 # iCloud Private Relay
 DOMAIN,africa-mask.wrr.mask.apple-dns.net
 DOMAIN,apac-mask.wrr.mask.apple-dns.net
@@ -85,29 +97,17 @@ DOMAIN,north-america-mask.wrr.mask.apple-dns.net
 DOMAIN,south-america-mask.wrr.mask.apple-dns.net
 DOMAIN,wrr.mask.apple-dns.net
 
-# shopee
-DOMAIN,shope.ee
-DOMAIN,s.shopee.tw
-
-DOMAIN-SUFFIX,garena.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,tracking.shopee.tw
-DOMAIN-SUFFIX,patronus.idata.shopeemobile.com
-DOMAIN-SUFFIX,offline.toc.shopeemobile.com
-DOMAIN-SUFFIX,livetech.shopee.tw
-
-# Title: HaGeZi's Apple Tracker DNS Blocklist
-# Description: Blocks Apple native broadband tracker that track your activity.
+# Title: HaGeZi's Apple Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Apple native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 03 Jul 2026 18:44 UTC
-# Version: 2026.0703.1844.28
+# Expires: 8 hours
+# Last modified: 31 Aug 2026 18:36 UTC
+# Version: 2026.0831.1836.12
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 107
+# Number of entries: 108
 #
 DOMAIN-SUFFIX,cstat.g.aaplimg.com
 DOMAIN-SUFFIX,diagassets.g.aaplimg.com
@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,iad-apple.com.akadns.net
 DOMAIN-SUFFIX,partiality.itunes.apple.com
 DOMAIN-SUFFIX,msc-dct-prod.msc.apple.com
 DOMAIN-SUFFIX,fbs.smoot.apple.com
+DOMAIN-SUFFIX,ads.apple.com
 DOMAIN-SUFFIX,advertising.apple.com
 DOMAIN-SUFFIX,advp.apple.com
 DOMAIN-SUFFIX,analytics-events.apple.com
@@ -217,15 +218,15 @@ DOMAIN-SUFFIX,h4g3z1-native.apple.web.app
 DOMAIN-SUFFIX,applemediaservices.com
 DOMAIN-SUFFIX,qwapi.com
 
-# Title: HaGeZi's Windows/Office Tracker DNS Blocklist
-# Description: Blocks Windows/Office native broadband tracker that track your activity.
+# Title: HaGeZi's Microsoft Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Microsoft native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 10 Jul 2026 18:07 UTC
-# Version: 2026.0710.1807.47
+# Expires: 8 hours
+# Last modified: 04 Sep 2026 22:48 UTC
+# Version: 2026.0904.2248.42
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 388
 #
@@ -267,13 +268,16 @@ DOMAIN-SUFFIX,commerce.bing.com
 DOMAIN-SUFFIX,g.bing.com
 DOMAIN-SUFFIX,raka.bing.com
 DOMAIN-SUFFIX,c.bingapis.com
+DOMAIN-SUFFIX,excelonline.nel.measure.office.net.cardano.com
 DOMAIN-SUFFIX,exo.nel.measure.office.net.cardano.com
 DOMAIN-SUFFIX,identity.nel.measure.office.net.cardano.com
 DOMAIN-SUFFIX,m365cdn.nel.measure.office.net.cardano.com
+DOMAIN-SUFFIX,officehub.nel.measure.office.net.cardano.com
 DOMAIN-SUFFIX,spo.nel.measure.office.net.cardano.com
 DOMAIN-SUFFIX,teams.nel.measure.office.net.cardano.com
 DOMAIN-SUFFIX,insights.cloud.microsoft
 DOMAIN-SUFFIX,measure.office.net.edgesuite.net
+DOMAIN-SUFFIX,westeurope-5.in.applicationinsights.azure.com.fiege.de
 DOMAIN-SUFFIX,collector.azure.eaglex.ic.gov
 DOMAIN-SUFFIX,auc-visio-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,brc-visio-telemetry.officeapps.live.com
@@ -322,12 +326,8 @@ DOMAIN-SUFFIX,pgteu4-word-telemetry-vip.officeapps.live.com
 DOMAIN-SUFFIX,pgteu5-excel-telemetry-vip.officeapps.live.com
 DOMAIN-SUFFIX,pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 DOMAIN-SUFFIX,pgteu5-word-telemetry-vip.officeapps.live.com
-DOMAIN-SUFFIX,pgtmx1-excel-telemetry-vip.officeapps.live.com
 DOMAIN-SUFFIX,pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 DOMAIN-SUFFIX,pgtmx1-word-telemetry-vip.officeapps.live.com
-DOMAIN-SUFFIX,pgtsg1-excel-telemetry-vip.officeapps.live.com
-DOMAIN-SUFFIX,pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
-DOMAIN-SUFFIX,pgtsg1-word-telemetry-vip.officeapps.live.com
 DOMAIN-SUFFIX,pgtus1-excel-telemetry-vip.officeapps.live.com
 DOMAIN-SUFFIX,pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 DOMAIN-SUFFIX,pgtus1-word-telemetry-vip.officeapps.live.com
@@ -408,7 +408,6 @@ DOMAIN-SUFFIX,oca.microsoft.com
 DOMAIN-SUFFIX,rad.microsoft.com
 DOMAIN-SUFFIX,spynet2.microsoft.com
 DOMAIN-SUFFIX,spynetalt.microsoft.com
-DOMAIN-SUFFIX,tar.microsoft.com
 DOMAIN-SUFFIX,telecommandsvc.microsoft.com
 DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,telemetry.microsoft.us
@@ -502,6 +501,8 @@ DOMAIN-SUFFIX,arc9.msn.com
 DOMAIN-SUFFIX,confiant.msn.com
 DOMAIN-SUFFIX,flex.msn.com
 DOMAIN-SUFFIX,g00.msn.com
+DOMAIN-SUFFIX,h1.msn.com
+DOMAIN-SUFFIX,h2.msn.com
 DOMAIN-SUFFIX,h6.msn.com
 DOMAIN-SUFFIX,mobileads.msn.com
 DOMAIN-SUFFIX,mobileleads.msn.com
@@ -556,7 +557,6 @@ DOMAIN-SUFFIX,ir-tracking.trafficmanager.net
 DOMAIN-SUFFIX,irreverselookuptm.trafficmanager.net
 DOMAIN-SUFFIX,ism-telemetry.trafficmanager.net
 DOMAIN-SUFFIX,legacywatson.trafficmanager.net
-DOMAIN-SUFFIX,o365diagtelemetry.trafficmanager.net
 DOMAIN-SUFFIX,office-events-data.trafficmanager.net
 DOMAIN-SUFFIX,oms-analytics.trafficmanager.net
 DOMAIN-SUFFIX,pixel-sync.trafficmanager.net
@@ -570,6 +570,7 @@ DOMAIN-SUFFIX,tm-enrollment-telemetry-datacore.trafficmanager.net
 DOMAIN-SUFFIX,us-mesh-events-data-leafs.trafficmanager.net
 DOMAIN-SUFFIX,vstelemetry.trafficmanager.net
 DOMAIN-SUFFIX,win-global-asimov-leafs-events-data.trafficmanager.net
+DOMAIN-SUFFIX,wttwebsiteprodapi-liveevents.trafficmanager.net
 DOMAIN-SUFFIX,dc.services.visualstudio.com
 DOMAIN-SUFFIX,h4g3z1-native.winoffice.web.app
 DOMAIN-SUFFIX,ceuswatcab01.blob.core.windows.net
@@ -618,19 +619,16 @@ DOMAIN-SUFFIX,o.xbox.com
 DOMAIN-SUFFIX,beacons.xboxlive.com
 DOMAIN-SUFFIX,msads.net
 
-# Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
-# Description: Aggressive verion, may interfere with functionality. Blocks TikTok fingerprinting/tracker that track your activity.
-# Homepage: https://github.com/hagezi/dns-blocklists
-# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-# Issues: https://github.com/hagezi/dns-blocklists/issues
-# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 10 Jul 2026 07:34 UTC
-# Version: 2026.0710.0734.51
+# Name: HaGeZi TikTok Extended Tracker — Surge conversion
+# Source: HaGeZi TikTok Extended wildcard-domain list
+# Conversion: wildcard entries compressed on ByteDance/TikTok/CapCut-owned or dedicated roots; provider CNAMEs kept exact.
+# Note: DOMAIN-SUFFIX blocks the named root and every subdomain. Update from the source periodically; CDN aliases can change.
+# Last modified: 04 Sep 2026 22:51 UTC
+# Version: 2026.0904.2251.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 580
+# Number of entries: 612
 #
-# DOMAIN-SUFFIX
+# DOMAIN-SUFFIX (TikTok/ByteDance owned or dedicated domains)
 DOMAIN-SUFFIX,business-tiktok.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,byteoversea.net
@@ -653,7 +651,7 @@ DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
 
-# DOMAIN (Third-party CDN/DNS CNAMEs)
+# DOMAIN (Third-party CDN/DNS CNAMEs and other exact hosts)
 DOMAIN,ad-instantpage-sg.tiktokv.com.edgekey.net
 DOMAIN,ad-instantpage-ttp2.tiktokv.eu.edgesuite.net
 DOMAIN,ad-instantpage-ttp2.tiktokv.eu.ttdns3.com
@@ -725,13 +723,31 @@ DOMAIN,mcs.us.tiktokv.com.edgesuite.net
 DOMAIN,mcs16-normal-no1a.tiktokw.eu.dvaitas.lt
 DOMAIN,mcs16-normal-no1a.tiktokw.eu.edgesuite.net
 DOMAIN,mcs16-normal-useastred.tiktokw.eu.edgesuite.net
+DOMAIN,mon-boot.capcutapi.com.edgesuite.net
+DOMAIN,mon-boot.capcutapi.com.ttdns2.com
 DOMAIN,mon-boot.tiktokv.com.edgekey.net
 DOMAIN,mon-i18n.tiktokv.com.dvaitas.lt
+DOMAIN,mon-sg.capcutapi.com.edgesuite.net
+DOMAIN,mon-sg.capcutapi.com.ttdns2.com
+DOMAIN,mon-v2-boot.capcutapi.com.edgesuite.net
+DOMAIN,mon-v2-boot.capcutapi.com.ttdns2.com
+DOMAIN,mon-va.capcutapi.com.ttdns2.com
+DOMAIN,mon.capcutapi.us.edgesuite.net
 DOMAIN,mon16-normal-no1a.tiktokv.eu.dvaitas.lt
 DOMAIN,mon16-normal-no1a.tiktokv.eu.numericable.fr
+DOMAIN,mon16-normal-sg.capcutapi.com.edgesuite.net
+DOMAIN,mon16-normal-us-ttp.capcutapi.us.edgesuite.net
+DOMAIN,mon16-normal-us-ttp2.capcutapi.us.edgesuite.net
 DOMAIN,mon16-normal-useastred.tiktokv.eu.dvaitas.lt
 DOMAIN,mssdk-boot.tiktokv.com.edgekey.net
 DOMAIN,p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 DOMAIN,p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
+DOMAIN,pc-mon-boot.capcutapi.com.edgesuite.net
+DOMAIN,pc-mon-boot.capcutapi.com.ttdns2.com
+DOMAIN,pc-mon-normal-sg.capcutapi.com.edgesuite.net
+DOMAIN,pc-mon-normal-sg.capcutapi.com.ttdns2.com
+DOMAIN,pc-mon-v2-boot.capcutapi.com.edgesuite.net
+DOMAIN,pc-mon-v2-boot.capcutapi.com.ttdns2.com
+DOMAIN,pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net
 DOMAIN,sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
 DOMAIN,sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
