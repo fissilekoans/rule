@@ -76,7 +76,7 @@ DOMAIN-SUFFIX,livetech.shopee.tw
 # iCloud Private Relay
 DOMAIN,africa-mask.wrr.mask.apple-dns.net
 DOMAIN,apac-mask.wrr.mask.apple-dns.net
-DOMAIN,apple-carry-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-carry-relay.cloudflare.com
 DOMAIN,apple-relay.akamaized.net
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
