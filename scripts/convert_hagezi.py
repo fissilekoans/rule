@@ -1,19 +1,34 @@
 
 #!/usr/bin/env python3
-"""Convert HaGeZi Wildcard Asterisk list to Surge DOMAIN-SET."""
+"""Convert HaGeZi wildcard lists to Surge DOMAIN-SET."""
 
 from pathlib import Path
 from urllib.request import Request, urlopen
+import re
 import sys
 
-SOURCE_URL = (
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/"
-    "wildcard/pro.plus.txt"
-)
+ROOT_DIR = Path(__file__).resolve().parent.parent
 
-OUTPUT_FILE = Path("hagezi-pro-plus-surge.list")
+# Sources and corresponding output filenames
+SOURCES = [
+    {
+        "name": "HaGeZi Multi PRO++",
+        "url": (
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/"
+            "refs/heads/main/wildcard/pro.plus.txt"
+        ),
+        "output": "ph-pro++.list",
+    },
+    {
+        "name": "HaGeZi Multi PRO",
+        "url": (
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/"
+            "refs/heads/main/wildcard/pro.txt"
+        ),
+        "output": "ph-pro.list",
+    },
+]
 
-MINIMUM_ENTRIES = 100_000
 MINIMUM_DOWNLOAD_BYTES = 250_000
 
 
@@ -22,34 +37,48 @@ def fail(message: str) -> None:
     raise SystemExit(1)
 
 
-def main() -> None:
+def convert_source(name: str, source_url: str) -> str:
+    print(f"Downloading: {name}")
+
     request = Request(
-        SOURCE_URL,
+        source_url,
         headers={"User-Agent": "hagezi-surge-list-builder/1.0"},
     )
 
-    # Download source
     try:
         with urlopen(request, timeout=120) as response:
             raw = response.read()
     except Exception as exc:
-        fail(f"Download failed: {exc}")
+        fail(f"{name}: Download failed: {exc}")
 
     if len(raw) < MINIMUM_DOWNLOAD_BYTES:
-        fail(f"Downloaded file is unexpectedly small: {len(raw)} bytes.")
+        fail(f"{name}: Downloaded file is unexpectedly small.")
 
     try:
         source_text = raw.decode("utf-8-sig")
     except UnicodeDecodeError as exc:
-        fail(f"Invalid UTF-8: {exc}")
+        fail(f"{name}: Invalid UTF-8: {exc}")
+
+    # Read original entry count from HaGeZi header
+    match = re.search(
+        r"^# Number of entries:\s*([\d,]+)\s*$",
+        source_text,
+        re.MULTILINE,
+    )
+
+    if not match:
+        fail(f"{name}: Cannot find original entry count.")
+
+    expected_count = int(match.group(1).replace(",", ""))
 
     output_lines = []
     entry_count = 0
     invalid_lines = []
 
-    for line_number, line in enumerate(source_text.splitlines(), start=1):
-
-        # Preserve all original comments and blank lines
+    for line_number, line in enumerate(
+        source_text.splitlines(), start=1
+    ):
+        # Preserve original comments and blank lines
         if not line.strip() or line.startswith(("#", "!", ";", "//")):
             output_lines.append(line)
             continue
@@ -78,27 +107,45 @@ def main() -> None:
             f"Line {number}: {value}"
             for number, value in invalid_lines[:5]
         )
-        fail(f"Unexpected source entries:\n{examples}")
+        fail(f"{name}: Unexpected source entries:\n{examples}")
 
-    if entry_count < MINIMUM_ENTRIES:
+    # Verify converted entries against original metadata
+    if entry_count != expected_count:
         fail(
-            f"Only {entry_count:,} entries converted. "
-            "Keeping existing output."
+            f"{name}: Entry count mismatch. "
+            f"Expected {expected_count:,}, got {entry_count:,}."
         )
 
-    # Preserve original header and entry order.
-    # Only the leading '*' of each domain has been removed.
-    output = "\n".join(output_lines) + "\n"
+    print(f"Validated: {name} ({entry_count:,} entries)")
 
-    # Atomic write
-    temporary_file = OUTPUT_FILE.with_name(OUTPUT_FILE.name + ".tmp")
-    temporary_file.write_bytes(output.encode("utf-8"))
-    temporary_file.replace(OUTPUT_FILE)
+    # Preserve original header and entry order
+    return "\n".join(output_lines) + "\n"
 
-    print(
-        f"Success: {entry_count:,} entries converted."
-        f" Output: {OUTPUT_FILE}"
-    )
+
+def main() -> None:
+    converted = {}
+
+    # Download and validate every source before updating outputs
+    for source in SOURCES:
+        content = convert_source(
+            source["name"],
+            source["url"],
+        )
+        converted[source["output"]] = content
+
+    # Write outputs only after every source passes validation
+    for filename, content in converted.items():
+        output_file = ROOT_DIR / filename
+        temporary_file = output_file.with_name(
+            output_file.name + ".tmp"
+        )
+
+        temporary_file.write_bytes(content.encode("utf-8"))
+        temporary_file.replace(output_file)
+
+        print(f"Generated: {filename}")
+
+    print("All HaGeZi lists updated successfully.")
 
 
 if __name__ == "__main__":
