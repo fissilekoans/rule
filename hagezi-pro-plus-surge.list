@@ -1,5 +1,16 @@
-# HaGeZi Multi PRO++ converted for Surge DOMAIN-SET
-# Source: https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/pro.plus.txt
+# Title: HaGeZi's Multi PRO++ - advanced protection (more aggressive)
+# Description: Sweeper edition. This one cleans up the internet aggressively and protects your privacy hard. Blocks ads, trackers, metrics, telemetry, phishing, malware, scams, fakes, cryptojacking, and other junk.
+# Warning: This is the more aggressive sibling of Multi PRO. It might block a few legit domains by mistake, so it's best for experienced users. Ideally have an admin ready to unblock things that break.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
+# Expires: 8 hours
+# Last modified: 13 Nov 2026 23:13 UTC
+# Version: 2026.1113.2313.25
+# Syntax: Domains Wildcard (without subdomains)
+# Number of entries: 247159
+#
 .telemetry.001-studio.com
 .ebok-002894826.001300498498874582.com
 .ad.001zb.com
