@@ -20,12 +20,12 @@ SOURCES = [
         "output": "ph-pro++.list",
     },
     {
-        "name": "HaGeZi Multi PRO",
+        "name": "HaGeZi Multi LIGHT",
         "url": (
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/"
-            "refs/heads/main/wildcard/pro.txt"
+            "refs/heads/main/wildcard/light.txt"
         ),
-        "output": "ph-pro.list",
+        "output": "tv-light.list",
     },
 ]
 
