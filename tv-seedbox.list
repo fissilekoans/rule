@@ -2,7 +2,7 @@
 
 # YouTube
 DOMAIN,youtu.be
-DOMAIN,snonsor.ajay.app
+DOMAIN,sponsor.ajay.app
 DOMAIN,api.invidious.io
 DOMAIN-WILDCARD,yt3.*
 DOMAIN-WILDCARD,yt4.*
